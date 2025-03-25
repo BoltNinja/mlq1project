@@ -1,0 +1,641 @@
+@relation CorrelationTest
+
+@attribute 'fulfill via' {'From RDC','Direct Drop'}
+@attribute 'vendor inco term' {'N/A - From RDC',EXW,CIP,FCA,DDP,DAP,DDU}
+@attribute 'shipment mode' {Truck,Air,Ocean,'Air Charter'}
+@attribute 'po sent to vendor date' {'N/A - From RDC',11/13/09,2/20/15,2/28/08,9/14/11,8/26/08,10/27/10,5/2/11,10/2/08,6/30/14,2/28/14,5/9/13,3/2/11,8/21/08,9/30/09,9/16/10,10/10/12,3/17/08,8/3/11,12/6/12,8/5/13,2/26/13,2/27/13,12/10/07,11/18/14,9/12/12,2/12/14,6/20/12,4/28/08,2/15/12,8/21/12,8/22/12,4/7/08,7/16/12,5/20/14,6/12/08,7/18/08,8/7/13,3/13/15,3/11/08,2/26/14,12/29/11,7/10/13,5/5/11,5/18/11,1/11/13,10/5/09,10/4/12,7/26/12,3/20/14,8/10/12,8/12/13,5/14/09,6/2/14,8/18/09,7/7/09,3/31/09,6/21/07,2/2/11,10/16/12,4/9/09,5/18/09,12/2/09,6/25/15,8/10/10,7/9/14,9/11/13,4/20/09,8/14/14,1/17/12,5/22/13,10/29/14,3/16/15,8/28/14,2/3/14,12/4/13,11/21/12,8/28/07,2/5/10,4/2/09,8/1/11,1/27/12,3/3/08,10/22/08,8/6/13,1/27/09,3/24/10,1/17/13,5/23/08,3/17/15,9/3/09,11/5/14,7/9/09,10/23/09,1/7/08,6/4/09,7/31/12,1/23/12,1/14/09,10/7/10,8/18/11,10/5/11,5/21/13,8/30/11,4/20/11,10/22/09,7/31/08,6/13/12,11/16/11,2/25/11,3/13/08,10/27/08,9/4/13,6/20/08,6/18/14,4/24/12,6/21/10,8/13/12,11/21/13,5/27/09,5/23/11,1/12/10,5/13/08,1/15/13,12/4/14,7/20/11,9/21/11,11/19/07,11/16/07,6/5/12,5/12/15,6/14/12,4/30/09,1/3/08,10/18/07,5/29/13,4/4/09,4/29/14,2/27/14,4/3/14,8/12/11,7/18/11,4/11/13,6/2/09,3/11/09,4/19/06,4/9/12,11/19/14,8/2/12,9/15/11,8/27/14,8/4/11,12/26/12,3/28/12,2/26/08,8/23/10,5/26/15,1/28/14,9/4/14,2/12/13,3/25/09,7/6/07,8/13/14,2/6/12,6/23/14,4/21/11,4/20/15,8/31/09,11/6/12,11/14/08,10/15/13,8/27/08,6/7/10,8/29/08,2/29/08,7/21/10,12/22/09,2/18/09,12/18/14,7/30/10,9/2/10,5/8/13,8/29/11,10/16/14,7/30/14,3/19/12,9/22/11,1/23/13,6/13/11,5/20/08,11/1/13,1/29/08,9/17/08,10/24/08,11/30/07,2/17/12,12/2/08,9/25/14,7/1/14,4/1/13,5/19/14,12/8/14,6/6/09,7/17/15,12/11/08,12/16/14,5/6/14,8/22/08,4/5/12,1/8/10,11/13/13,12/14/06,3/19/14,6/1/10,7/26/07,2/1/12,1/2/13,9/18/08,11/22/10,1/25/07,3/1/07,4/15/09,9/24/10,8/11/09,7/2/12,9/7/11,5/22/15,3/5/14,10/29/09,7/9/12,12/9/10,2/17/10,3/30/11,10/14/08,5/31/11,7/28/08,8/24/11,5/27/10,9/19/14,2/25/08,10/22/14,1/26/09,10/22/12,1/26/15,8/27/10,1/30/14,5/7/12,4/18/11,2/19/14,1/12/12,1/9/12,10/23/07,4/27/09,2/14/13,9/29/09,12/28/06,3/31/11,5/3/12,5/13/07,3/27/12,9/19/11,11/12/13,1/5/08,1/22/14,10/6/10,9/24/08,1/5/09,12/29/06,12/12/12,8/15/11,7/2/09,8/7/09,1/21/10,8/28/11,2/24/09,11/24/10,3/23/11,6/8/10,9/11/09,6/4/13,3/21/12,2/6/08,2/3/12,2/25/13,12/7/10,10/7/09,5/15/12,6/30/08,9/3/08,10/9/14,6/17/10,8/19/13,8/29/14,11/9/09,12/1/10,6/13/13,8/12/09,1/7/15,6/2/15,2/10/10,3/19/10,2/17/15,12/13/11,6/28/13,2/11/13,3/28/11,12/23/09,3/4/15,12/2/13,3/25/10,11/18/11,8/13/13,4/30/14,8/24/15,9/10/13,5/18/12,11/19/09,12/10/14,7/3/13,6/28/12,5/12/11,5/8/14,9/22/09,6/12/12,11/28/14,2/8/11,7/1/08,3/24/11,4/23/14,10/4/11,11/11/09,1/13/12,10/10/13,5/21/14,11/14/14,8/11/14,3/9/15,10/18/10,12/24/14,12/14/10,7/21/09,7/15/09,7/4/07,11/21/07,10/3/11,4/4/12,1/22/13,3/29/10,11/2/09,4/3/12,10/3/07,5/10/13,2/9/10,5/5/14,4/14/11,1/16/09,8/23/13,5/13/15,5/26/14,10/3/14,10/15/09,10/11/11,8/14/12,6/24/10,10/28/13,1/15/10,3/4/09,9/14/09,4/28/15,5/23/14,3/14/14,9/24/12,4/10/08,7/17/09,11/11/11,3/31/14,6/26/09,11/5/09,3/27/09,2/12/15,2/5/13,9/30/11,3/31/08,3/18/10,3/21/14,7/31/13,3/10/14,3/31/10,10/15/10,6/25/14,11/29/06,5/13/09,6/16/10,11/14/06,4/29/09,6/11/13,4/4/08,11/7/12,4/17/12,1/30/15,9/28/10,1/16/14,8/25/10,8/9/12,3/22/13,3/5/10,5/7/15,2/20/08,10/21/08,5/27/14,1/4/08,12/17/13,12/15/14,12/6/07,1/25/10,5/15/13,11/3/08,7/24/08,1/21/08,7/8/14,1/20/10,5/15/08,8/27/13,5/30/14,9/27/10,1/25/12,4/25/13,4/21/10,8/19/14,10/25/13,12/6/10,3/25/11,8/6/14,4/29/11,11/12/07,9/21/10,2/23/15,7/31/14,7/12/12,7/28/15,2/5/09,4/1/11,8/5/14,11/23/09,9/9/13,9/29/10,9/17/10,10/8/12,7/3/12,5/27/11,5/7/07,10/16/13,10/10/11,6/24/13,1/24/12,12/2/06,3/26/13,10/12/12,12/5/07,7/13/09,1/9/07,11/15/06,2/10/14,11/26/09,8/11/10,11/4/14,7/16/09,5/28/14,3/26/10,4/11/14,10/14/10,6/8/12,10/7/13,9/23/08,7/8/11,5/1/13,7/25/13,11/28/13,6/5/09,7/3/08,2/15/11,8/15/12,3/19/15,7/16/13,10/30/14,2/9/11,3/8/12,2/6/13,11/17/06,5/11/15,11/4/13,7/1/10,11/2/11,3/7/14,4/4/11,10/31/12,3/6/09,12/19/14,9/26/12,9/2/13,4/16/12,2/1/11,11/17/09,6/23/09,1/7/10,5/16/14,8/3/09,11/9/11,4/29/10,11/4/10,3/2/15,10/22/13,10/24/13,7/1/13,8/25/14,10/30/13,11/25/14,12/31/14,1/16/12,2/4/14,4/15/14,5/14/08,2/14/14,11/1/11,11/22/07,2/6/15,11/2/10,10/25/12,3/3/14,6/22/11,6/29/09,12/30/08,7/11/12,2/13/13,4/17/15,1/11/10,6/11/12,1/29/10,11/18/10,12/8/09,7/30/13,9/19/13,3/7/10,4/23/10,3/13/09,12/27/13,4/15/10,3/12/10,3/11/13,9/12/14,7/7/11,4/24/09,8/2/13,1/21/11,6/3/14,5/17/13,5/27/15,4/14/14,3/19/09,2/24/12,6/13/08,9/10/10,3/30/09,5/26/11,8/4/14,2/9/15,7/25/08,11/19/08,5/1/12,7/15/08,6/10/08,12/30/11,6/26/14,7/18/12,2/15/08,3/28/13,5/23/13,3/6/13,11/15/14,1/24/08,7/3/07,8/19/09,6/1/12,5/29/15,11/24/09,1/18/12,5/1/14,7/30/12,5/15/14,11/10/10,6/12/13,9/17/13,1/7/11,2/24/15,5/8/09,1/25/11,7/17/12,7/17/07,11/19/10,5/5/10,10/8/13,11/17/14,11/9/12,2/12/10,8/9/13,6/19/14,11/6/09,8/2/10,7/18/14,3/17/13,3/18/09,6/20/14,8/20/14,2/4/13,8/26/14,1/3/13,3/9/12,7/10/15,12/14/09,5/7/14,2/7/13,12/5/06,8/4/15,3/14/12,11/12/14,3/8/13,7/23/08,7/11/14,2/8/13,3/14/13,5/19/11,11/4/08,7/14/15,10/31/13}
+@attribute brand {Generic,Uni-Gold,Determine,Stat-Pak,Bioline,OraQuick,Capillus,Genie,LAV,Multispot,'Colloidal Gold',Clearview,Reveal,'First Response',Hexagon,DoubleCheck,InstantCHEK,Coartem,Aluvia,Truvada,Crixivan,Norvir,Isentress,Zerit,Invirase,Viramune,'Videx EC',Prezista,Intelence,Viread,Retrovir,Trizivir,Combivir,Epivir,Ziagen,Kaletra,Atripla,Viracept,Stocrin/Sustiva,Paramax,Videx,Reyataz}
+@attribute dosage {300mg,20/120mg,50+153mg,150mg,200mg,150/300/200mg,200/50mg,300/300mg,600/300mg,300/200mg,150/300mg,250mg,600mg,30mg,400mg,100mg,15mg,600/300/300mg,200/300mg,150/200/30mg,40mg,150/30mg,600/200/300mg,20mg,150/300mg+600mg,300/150/300mg,300/100mg,500mg,150/200/40mg,133.3/33.3mg,150/300+200mg,500/25mg,10mg/ml,50mg,80/20mg/ml,100/25mg,60/12mg,20mg/ml,30mg/ml,30/50/60mg,30/60mg,60/30mg,30/50/6mg,25mg,30/6mg,80mg/ml,1mg/ml,60mg,50mg/g,125mg,60/100/12mg}
+@attribute 'dosage form' {'Test kit - Ancillary','Test kit','Tablet - FDC + blister','Tablet - FDC + co-blister',Tablet,'Tablet - FDC','Delayed-release capsules',Capsule,'Delayed-release capsules - blister','Tablet - blister','Oral solution','Chewable/dispersible tablet','Chewable/dispersible tablet - FDC','Oral suspension','Powder for oral solution',Injection,'Oral powder'}
+@attribute 'unit of measure (per pack)' numeric
+@attribute 'line item quantity' numeric
+@attribute 'line item value' numeric
+@attribute 'pack price' numeric
+@attribute 'unit price' numeric
+@attribute 'manufacturing site' {'Inverness Japan','Trinity Biotech Plc','Alere Medical Co. Ltd.','Chembio Diagnostics Sys. Inc.','Standard Diagnostics Korea','Orasure Technologies Inc USA','Bio-Rad Laboratories','KHB Test Kit Facility Shanghai China','ABBVIE GmbH & Co.KG Wiesbaden','Pacific Biotech Thailand','Ranbaxy Fine Chemicals LTD','Not Applicable','Premier Med. Corp Ltd. India','Human Diagnostic','Orasure Technologies Inc','INVERNESS ANY','Inverness USA','EY Laboratories USA','Novartis Pharma Suffern USA','Novartis Pharma AG Switzerland','Ipca Dadra/Nagar Haveli IN','Aurobindo Unit III India','Cipla Goa India','Strides Bangalore India.','Mylan (formerly Matrix) Nashik','ABBVIE Ludwigshafen Germany','Ranbaxy per Shasun Pharma','Aspen-OSD Port Elizabeth SA','Hetero Unit III Hyderabad IN','MSD Haarlem NL','ABBVIE (Abbott) Logis. UK','Macleods Daman Plant INDIA','Aurobindo Unit VII IN','Cipla Kurkumbh India','Ranbaxy Paonta Shahib India','BMS Meymac France','Roche Basel','Boehringer Ing. Koropi GR','Micro labs Verna Goa India','Janssen-Cilag Latina IT','ABBVIE (Abbott) France','Hetero Jadcherla unit 5 IN','Ranbaxy per Shasun Pharma Ltd','Bristol-Myers Squibb Anagni IT','Emcure Plot No.P-2 I.T-B.T. Park Phase II MIDC Hinjwadi Pune India','GSK Ware (UK)','Gilead(Nycomed) Oranienburg DE','GSK U1 Poznan Poland','GSK Aranda','GSK Cape Town Factory (South Africa)','Cipla Patalganga India','Janssen Ortho LLC Puerto Rico','BI Ingelheim Germany','Cipla Ltd A-42 MIDC Mahar. IN','MSD Elkton USA','Mylan  H-12 & H-13 India','ABBVIE (Abbott) St. P burg USA',ABBSP,'Roche Madrid','MSD Midrand J burg SA','Guilin OSD site No 17 China','Micro Labs Hosur India','Meditab (for Cipla) Daman IN','Micro Labs Ltd. (Brown & Burk) India','Weifa A.S. Hausmanngt. 6 P.O. Box 9113 GrÃ¸nland 0133 Oslo Norway','ABBVIE Labs North Chicago US','GSK Mississauga (Canada)','MSD Manati Puerto Rico (USA)','GSK Barnard Castle UK','BMS Evansville US','GSK Crawley','Boehringer Ingelheim Roxane US'}
+@attribute 'first line designation' {True,False}
+@attribute 'weight (kilograms)' numeric
+@attribute 'line item insurance (usd)' numeric
+@attribute 'sub classification' {'HIV test - Ancillary','HIV test',ACT,Adult,Malaria,Pediatric}
+
+@data
+'Direct Drop',CIP,Air,10/21/08,Generic,150/300mg,'Tablet - FDC',59.059059,12.643589,11.986578,6.762581,0.628536,'Cipla Goa India',True,0.838627,18.139857,Adult
+'Direct Drop',DDP,Truck,12/2/13,Epivir,150mg,Tablet,59.059059,5.674212,6.425141,8.077941,0.754243,'GSK Cape Town Factory (South Africa)',False,1.519792,6.137429,Adult
+'From RDC','N/A - From RDC','Air Charter','N/A - From RDC',Generic,150/300/200mg,'Tablet - FDC',59.059059,333.633334,389.935216,8.33804,0.796145,'Aurobindo Unit III India',True,34.236733,496.789234,Adult
+'Direct Drop',EXW,Air,10/16/14,Determine,300mg,'Test kit',99.099099,0.191936,1.612906,59.451265,3.352189,'Alere Medical Co. Ltd.',True,0.064151,1.280415,'HIV test'
+'From RDC','N/A - From RDC',Truck,'N/A - From RDC',Generic,600/300/300mg,'Tablet - FDC',29.029029,25.246856,25.669235,7.253054,1.382778,'Hetero Unit III Hyderabad IN',True,130.665979,20.375069,Adult
+'Direct Drop',EXW,Air,5/6/14,Uni-Gold,300mg,'Test kit',19.019019,0.133871,0.451614,23.780506,6.704379,'Trinity Biotech Plc',True,0.038491,0.358049,'HIV test'
+'From RDC','N/A - From RDC',Truck,'N/A - From RDC',Generic,60/30mg,'Tablet - FDC',59.059059,16.127471,6.871651,3.039446,0.293317,'Mylan (formerly Matrix) Nashik',True,0.425728,5.45506,Pediatric
+'Direct Drop',EXW,Air,5/31/11,Uni-Gold,300mg,'Test kit',19.019019,1.172584,3.913985,23.780506,6.704379,'Trinity Biotech Plc',True,0.285763,4.986742,'HIV test'
+'From RDC','N/A - From RDC','Air Charter','N/A - From RDC',Generic,200/300mg,'Tablet - FDC',29.029029,0.966132,1.184478,8.731905,1.634192,'Mylan (formerly Matrix) Nashik',False,0.975093,1.79284,Adult
+'From RDC','N/A - From RDC',Truck,'N/A - From RDC',Generic,30/50/60mg,'Chewable/dispersible tablet - FDC',59.059059,10.964551,4.283651,2.786778,0.251414,'Strides Bangalore India.',True,0.340583,4.091619,Pediatric
+'From RDC','N/A - From RDC',Truck,'N/A - From RDC',Generic,300mg,Tablet,59.059059,5.459695,6.388582,8.345471,0.796145,'Mylan (formerly Matrix) Nashik',True,18.59442,5.071065,Adult
+'From RDC','N/A - From RDC',Truck,'N/A - From RDC',Generic,30/50/60mg,'Chewable/dispersible tablet - FDC',59.059059,61.255036,24.821665,2.890818,0.251414,'Strides Bangalore India.',True,1.898866,23.70778,Pediatric
+'Direct Drop',EXW,Ocean,3/22/13,Generic,10mg/ml,'Oral suspension',239.239239,3.28872,0.517541,1.122143,0.041902,'Aurobindo Unit III India',False,4.086993,0.494263,Pediatric
+'From RDC','N/A - From RDC','Air Charter','N/A - From RDC',Generic,150mg,Tablet,59.059059,8.869383,2.254708,1.813264,0.167609,'Mylan (formerly Matrix) Nashik',True,0.975093,3.411845,Adult
+'Direct Drop',DDP,Truck,8/24/15,Generic,150mg,Tablet,59.059059,0.156452,0.116106,5.239143,0.502828,'Aurobindo Unit III India',False,1.519792,0.092107,Adult
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,150/300/200mg,'Tablet - FDC',59.059059,11.766167,16.278736,9.86891,0.921852,'Aurobindo Unit III India',True,0.961097,20.111722,Adult
+'From RDC','N/A - From RDC','Air Charter','N/A - From RDC',Generic,600/300/300mg,'Tablet - FDC',29.029029,275.450889,275.452057,7.134152,1.340876,'Mylan (formerly Matrix) Nashik',False,41.854357,218.642164,Adult
+'From RDC','N/A - From RDC','Air Charter','N/A - From RDC',Generic,150/300/200mg,'Tablet - FDC',59.059059,526.017826,602.729635,8.174549,0.754243,'Mylan (formerly Matrix) Nashik',True,54.2623,652.478322,Adult
+'Direct Drop',DDP,Truck,5/11/15,Generic,250mg,'Delayed-release capsules',29.029029,0.003226,0.005553,8.189412,1.550388,'Aurobindo Unit III India',False,1.519792,0.003892,Adult
+'Direct Drop',EXW,Air,7/16/13,Generic,600/200/300mg,'Tablet - FDC',29.029029,349.604354,445.746888,9.096044,1.717997,'Mylan (formerly Matrix) Nashik',True,33.449427,425.748919,Adult
+'Direct Drop',CIP,Air,8/18/09,Generic,150mg,Tablet,59.059059,7.256475,1.958168,1.924735,0.167609,'Hetero Unit III Hyderabad IN',True,0.323087,2.962986,Adult
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,600mg,Tablet,29.029029,71.184101,92.096368,9.229809,1.717997,'Mylan (formerly Matrix) Nashik',True,4.028674,113.777885,Adult
+'Direct Drop',DDP,Truck,12/2/13,Epivir,150mg,Tablet,59.059059,3.730657,4.470031,8.546119,0.796145,'GSK Cape Town Factory (South Africa)',False,1.519792,3.548059,Adult
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Uni-Gold,300mg,'Test kit',19.019019,0.03871,0.134409,23.780506,6.704379,'Trinity Biotech Plc',True,0.022161,0.203673,'HIV test'
+'Direct Drop',EXW,Air,10/4/12,Determine,300mg,'Test kit',99.099099,1.35323,11.290341,59.451265,3.352189,'Alere Medical Co. Ltd.',True,0.472384,12.221669,'HIV test'
+'Direct Drop',DDP,Air,3/19/10,Generic,300mg,Tablet,29.029029,104.414853,85.055776,5.811361,1.089462,'Cipla Goa India',True,5.198553,141.595446,Adult
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,10mg/ml,'Oral solution',239.239239,6.99841,1.407294,1.434262,0.041902,'Aurobindo Unit III India',False,8.154158,2.342886,Pediatric
+'Direct Drop',EXW,Air,8/6/13,Determine,300mg,'Test kit',99.099099,6.450021,53.763528,59.451265,3.352189,'Alere Medical Co. Ltd.',True,1.893034,51.351506,'HIV test'
+'Direct Drop',EXW,Air,6/21/10,Determine,300mg,'Test kit',99.099099,0.540324,5.080653,66.882673,3.771213,'Inverness Japan',True,0.179622,8.458261,'HIV test'
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,150mg,Tablet,59.059059,35.558179,11.260583,2.259148,0.209512,'Ranbaxy Paonta Shahib India',True,1.232863,13.912024,Adult
+'Direct Drop',EXW,Air,9/22/11,Determine,300mg,'Test kit',99.099099,4.220981,35.188229,59.451265,3.352189,'Alere Medical Co. Ltd.',True,1.453309,44.83138,'HIV test'
+'From RDC','N/A - From RDC',Truck,'N/A - From RDC',Generic,300mg,Tablet,59.059059,5.966148,6.981026,8.345471,0.796145,'Mylan (formerly Matrix) Nashik',False,11.093434,5.54068,Adult
+'Direct Drop',DDP,Truck,8/13/14,Kaletra,80/20mg/ml,'Oral solution',299.299299,0.001613,0.00788,17.426652,0.335219,'ABBVIE (Abbott) Logis. UK',True,1.519792,0.007784,Pediatric
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,150mg,Tablet,59.059059,18.032316,5.466526,2.16254,0.209512,'Aurobindo Unit III India',True,0.660171,6.753636,Adult
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,30mg,Capsule,59.059059,17.969413,2.901567,1.151868,0.125707,'Aurobindo Unit III India',True,0.861954,4.391291,Adult
+'Direct Drop',EXW,Air,10/7/10,Determine,300mg,'Test kit',99.099099,4.537111,37.822642,59.451265,3.352189,'Inverness Japan',True,1.589775,62.96475,'HIV test'
+'Direct Drop',DDP,Air,6/16/10,Generic,300mg,Tablet,59.059059,16.127471,29.032305,12.841473,1.215169,'Cipla Patalganga India',True,1.267854,48.331439,Adult
+'Direct Drop',FCA,Air,4/4/11,Norvir,100mg,Tablet,59.059059,0.72097,0.515592,5.090515,0.460926,'ABBVIE Ludwigshafen Germany',True,0.079314,0.656423,Adult
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,150/300mg,'Tablet - FDC',59.059059,101.850329,90.711739,6.353854,0.586633,'Aurobindo Unit III India',False,23.641343,151.0111,Adult
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,300mg,Tablet,59.059059,4.933887,4.190027,6.056598,0.586633,'Aurobindo Unit III India',False,3.446651,5.176145,Adult
+'Direct Drop',EXW,Ocean,6/26/14,Generic,10mg/ml,'Oral solution',239.239239,2.659686,0.396422,1.062691,0.041902,'Aurobindo Unit III India',False,1.519792,0.315239,Pediatric
+'From RDC','N/A - From RDC',Truck,'N/A - From RDC',Generic,30/50/6mg,'Chewable/dispersible tablet - FDC',59.059059,45.514663,10.904924,1.709224,0.167609,'Cipla Goa India',False,6.360267,11.805242,Pediatric
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,300mg,Tablet,59.059059,1.693554,6.321549,26.604441,2.514142,'Aurobindo Unit III India',True,0.435059,7.809622,Adult
+'Direct Drop',DDP,Ocean,3/28/11,Generic,300mg,Tablet,29.029029,82.872848,55.853843,4.808121,0.921852,'Cipla Goa India',True,1.519792,71.159664,Adult
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,600mg,Tablet,29.029029,11.288746,19.111254,12.076038,2.262728,'Aurobindo Unit III India',True,0.677666,31.149964,Adult
+'From RDC','N/A - From RDC','Air Charter','N/A - From RDC',Generic,150/300mg,'Tablet - FDC',59.059059,69.038932,52.283745,5.402634,0.502828,'Cipla Goa India',False,12.959641,56.599001,Adult
+'Direct Drop',DDP,Truck,6/2/15,Generic,150/300mg,'Tablet - FDC',59.059059,0.020968,0.050417,15.925508,1.508485,'Aurobindo Unit III India',False,1.519792,0.040216,Adult
+'Direct Drop',DDP,Air,6/17/10,Generic,10mg/ml,'Oral suspension',239.239239,30.801712,10.107325,2.340894,0.041902,'Aurobindo Unit III India',True,8.592717,16.825713,Pediatric
+'From RDC','N/A - From RDC',Truck,'N/A - From RDC',Aluvia,200/50mg,Tablet,119.119119,4.159691,17.815553,30.543087,1.42468,'ABBVIE Ludwigshafen Germany',True,0.684665,22.009641,Adult
+'From RDC','N/A - From RDC','Air Charter','N/A - From RDC',Generic,150/300mg,'Tablet - FDC',59.059059,99.30032,85.440901,6.138343,0.586633,'Aurobindo Unit III India',False,7.723764,108.85471,Adult
+'From RDC','N/A - From RDC',Truck,'N/A - From RDC',Generic,600/300/300mg,'Tablet - FDC',29.029029,32.514621,37.76619,8.28602,1.550388,'Mylan (formerly Matrix) Nashik',True,2.655846,36.072149,Adult
+'Direct Drop',EXW,Air,11/21/12,Determine,300mg,'Test kit',99.099099,2.372588,19.784978,59.451265,3.352189,'Alere Medical Co. Ltd.',True,0.74415,18.897468,'HIV test'
+'Direct Drop',EXW,Air,6/7/10,Bioline,300mg,'Test kit',29.029029,2.346782,5.870977,17.835379,3.352189,'Standard Diagnostics Korea',True,0.56686,9.773703,'HIV test'
+'From RDC','N/A - From RDC',Truck,'N/A - From RDC',Generic,50mg,Capsule,29.029029,6.853248,1.599465,1.664635,0.293317,'Aurobindo Unit III India',False,1.94902,2.663314,Pediatric
+'Direct Drop',EXW,Ocean,3/31/14,Generic,600/200/300mg,'Tablet - FDC',29.029029,56.450182,69.03573,8.724473,1.634192,'Mylan (formerly Matrix) Nashik',False,12.251649,54.798377,Adult
+'Direct Drop',EXW,Air,7/18/11,Bioline,300mg,'Test kit',24.024024,12.901655,26.881764,14.862816,3.352189,'Standard Diagnostics Korea',True,3.110734,34.248175,'HIV test'
+'Direct Drop',EXW,Air,10/14/08,Uni-Gold,300mg,'Test kit',19.019019,7.927445,26.43015,23.780506,6.704379,'Trinity Biotech Plc',True,1.925692,39.999014,'HIV test'
+'Direct Drop',EXW,Air,4/24/12,Determine,300mg,'Test kit',99.099099,9.675838,80.645291,59.451265,3.352189,'Alere Medical Co. Ltd.',True,3.338178,87.301711,'HIV test'
+'Direct Drop',EXW,Air,3/13/08,Stat-Pak,300mg,'Test kit',19.019019,2.296782,6.464224,20.064802,5.65682,'Chembio Diagnostics Sys. Inc.',True,0.563361,7.986052,'HIV test'
+'Direct Drop',DDP,Air,3/19/10,Generic,600mg,Tablet,29.029029,54.908242,26.711313,3.470468,0.670438,'Aurobindo Unit III India',True,3.373169,44.466844,Adult
+'Direct Drop',EXW,Air,'N/A - From RDC',Generic,300mg,Tablet,59.059059,1.611296,7.476491,33.069766,3.100775,'Aurobindo Unit III India',True,0.106141,31.149964,Adult
+'From RDC','N/A - From RDC',Truck,'N/A - From RDC',Generic,10mg/ml,'Oral suspension',99.099099,6.450021,0.873657,0.966083,0.041902,'Aurobindo Unit III India',False,14.228662,0.694044,Pediatric
+'From RDC','N/A - From RDC',Truck,'N/A - From RDC',Generic,300mg,Tablet,29.029029,9.443579,4.742266,3.581939,0.670438,'Mylan (formerly Matrix) Nashik',True,0.412898,5.133334,Adult
+'From RDC','N/A - From RDC','Air Charter','N/A - From RDC',Generic,600/300/300mg,'Tablet - FDC',29.029029,322.580073,374.664583,8.28602,1.550388,'Hetero Unit III Hyderabad IN',True,33.81567,357.855805,Adult
+'Direct Drop',EXW,Air,5/10/13,Generic,600/300/300mg,'Tablet - FDC',29.029029,135.482695,162.15752,8.538688,1.59229,'Mylan (formerly Matrix) Nashik',True,11.05611,154.882181,Adult
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,150mg,Tablet,59.059059,10.611325,2.575844,1.731518,0.167609,'Hetero Unit III Hyderabad IN',True,0.675334,4.287508,Adult
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,150/300mg,'Tablet - FDC',59.059059,1.972587,1.587583,5.737047,0.544731,'Mylan (formerly Matrix) Nashik',True,4.242122,1.718895,Adult
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,300/300mg,'Tablet - FDC',29.029029,27.901703,22.729539,5.811361,1.089462,'Mylan (formerly Matrix) Nashik',True,2.374748,28.95787,Adult
+'From RDC','N/A - From RDC',Truck,'N/A - From RDC',Aluvia,200/50mg,Tablet,119.119119,16.191988,31.8811,14.045361,0.670438,'ABBVIE Ludwigshafen Germany',False,18.59442,25.306028,Adult
+'Direct Drop',DDP,Truck,'N/A - From RDC',Epivir,150mg,Tablet,59.059059,1.400005,0.995286,5.06822,0.460926,'GSK Ware (UK)',False,1.519792,0.950906,Adult
+'Direct Drop',EXW,Air,8/13/12,Determine,300mg,'Test kit',99.099099,4.570982,42.391701,66.139532,3.729311,'Alere Medical Co. Ltd.',True,1.576945,45.891257,'HIV test'
+'From RDC','N/A - From RDC','Air Charter','N/A - From RDC',Generic,200/300mg,'Tablet - FDC',29.029029,9.595192,8.967,6.665973,1.257071,'Aurobindo Unit III India',True,0.735985,11.423842,Adult
+'Direct Drop',EXW,Air,3/17/15,Determine,300mg,'Test kit',99.099099,0.080645,0.685485,59.451265,3.352189,'Alere Medical Co. Ltd.',False,1.519792,0.622694,'HIV test'
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,600mg,Tablet,29.029029,43.082397,25.940122,4.295354,0.796145,'Aurobindo Unit III India',True,2.73166,43.183835,Adult
+'Direct Drop',DDP,Air,3/19/10,Generic,600mg,Tablet,29.029029,92.901913,45.193621,3.470468,0.670438,'Aurobindo Unit III India',True,5.6826,75.235716,Adult
+'Direct Drop',DDP,Truck,'N/A - From RDC',Norvir,100mg,Capsule,83.083083,0.004839,0.006532,7.223329,0.502828,'ABBVIE (Abbott) Logis. UK',False,1.519792,0.007784,Adult
+'Direct Drop',DDP,Ocean,3/24/11,Generic,200mg,Capsule,89.089089,40.321098,34.316252,6.07146,0.377121,'Aurobindo Unit III India',True,3.864215,43.719611,Pediatric
+'Direct Drop',DDP,Truck,7/21/09,Ziagen,300mg,'Tablet - blister',59.059059,0.401614,1.990981,35.224874,3.310287,'GSK Ware (UK)',False,1.519792,3.01358,Adult
+'Direct Drop',EXW,Air,4/29/14,Determine,300mg,'Test kit',99.099099,3.408076,28.414024,59.451265,3.352189,'Alere Medical Co. Ltd.',True,0.958764,22.554499,'HIV test'
+'From RDC','N/A - From RDC','Air Charter','N/A - From RDC',Generic,300mg,Tablet,59.059059,6.559699,4.27168,4.64463,0.419024,'Aurobindo Unit III India',True,0.31259,3.391088,Adult
+'From RDC','N/A - From RDC','Air Charter','N/A - From RDC',Generic,200mg,Tablet,59.059059,0.037097,0.012097,2.229422,0.209512,'Aurobindo Unit III India',True,0.024494,0.018162,Adult
+'Direct Drop',DDP,Truck,12/2/13,Generic,100/25mg,Tablet,59.059059,0.025807,0.016514,4.295354,0.419024,'ABBVIE Ludwigshafen Germany',False,1.519792,0.015567,Pediatric
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,600mg,Tablet,29.029029,15.562953,19.47189,8.925121,1.676095,'Aurobindo Unit III India',False,4.911623,24.055451,Adult
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,30/50/60mg,'Chewable/dispersible tablet - FDC',59.059059,16.933926,6.615434,2.786778,0.251414,'Strides Bangalore India.',True,0.669502,6.319048,Pediatric
+'Direct Drop',DDP,Air,3/19/10,Generic,150mg,Tablet,59.059059,3.230656,0.851836,1.880146,0.167609,'Aurobindo Unit III India',True,0.003499,1.417926,Adult
+'Direct Drop',DDP,Truck,'N/A - From RDC',Generic,200mg,Tablet,59.059059,8.21293,15.811356,13.733242,1.298973,'Cipla Goa India',False,1.519792,15.101629,Adult
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,300mg,Tablet,59.059059,3.627431,5.530503,10.87215,1.005657,'Mylan (formerly Matrix) Nashik',False,11.238065,5.986944,Adult
+'Direct Drop',DDP,Truck,8/29/14,Generic,400mg,'Delayed-release capsules',29.029029,0.025807,0.061994,16.133587,3.01697,'Aurobindo Unit III India',False,1.519792,0.059675,Adult
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,150mg,Tablet,59.059059,51.819522,16.41,2.259148,0.209512,'Ranbaxy Paonta Shahib India',False,3.013924,20.273882,Adult
+'Direct Drop',EXW,Air,1/27/12,Generic,60/100/12mg,'Chewable/dispersible tablet - FDC',59.059059,112.901977,50.571318,3.195505,0.293317,'Cipla Goa India',True,6.99711,54.745188,Pediatric
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,150/300mg,'Tablet - FDC',59.059059,81.529295,87.05109,7.617193,0.71234,'Aurobindo Unit III India',True,5.458655,31.149964,Adult
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,150/300mg,'Tablet - FDC',59.059059,32.714622,32.375388,7.059838,0.670438,'Aurobindo Unit III India',True,2.212622,39.997717,Adult
+'Direct Drop',EXW,Air,9/16/10,Stat-Pak,300mg,'Test kit',19.019019,0.353227,0.997985,20.064802,5.65682,'Chembio Diagnostics Sys. Inc.',True,0.134134,1.661815,'HIV test'
+'From RDC','N/A - From RDC',Truck,'N/A - From RDC',Generic,150/300/200mg,'Tablet - FDC',59.059059,80.643809,69.388553,6.138343,0.586633,'Aurobindo Unit III India',False,8.058515,55.077292,Adult
+'From RDC','N/A - From RDC','Air Charter','N/A - From RDC',Generic,150mg,Tablet,59.059059,31.451714,7.633972,1.731518,0.167609,'Hetero Unit III Hyderabad IN',True,2.386412,8.263669,Adult
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,10mg/ml,'Oral suspension',239.239239,6.966152,1.415325,1.449125,0.041902,'Aurobindo Unit III India',True,1.8942,1.532087,Pediatric
+'Direct Drop',EXW,Air,'N/A - From RDC',Generic,10mg/ml,'Oral suspension',239.239239,0.669357,0.433334,4.607473,0.125707,'Aurobindo Unit III India',False,0.587855,31.149964,Pediatric
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,600mg,Tablet,29.029029,0.320969,0.138441,3.06174,0.586633,'Strides Bangalore India.',False,0.319588,0.150484,Adult
+'Direct Drop',DDP,Truck,8/27/14,Generic,200/300mg,'Tablet - FDC',29.029029,0.020968,0.079323,25.058708,4.693065,'Aurobindo Unit III India',False,1.519792,0.075242,Adult
+'From RDC','N/A - From RDC',Truck,'N/A - From RDC',Generic,300/300mg,'Tablet - FDC',29.029029,19.643612,9.617959,3.492762,0.670438,'Aurobindo Unit VII IN',True,1.408986,9.186035,Adult
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,150/200/30mg,'Tablet - FDC',59.059059,76.437343,57.329125,5.350614,0.502828,'Cipla Goa India',True,8.296456,86.762043,Adult
+'Direct Drop',EXW,Air,'N/A - From RDC',Stat-Pak,300mg,'Test kit',19.019019,4.024207,11.322599,20.064802,5.65682,'Chembio Diagnostics Sys. Inc.',True,0.818798,31.149964,'HIV test'
+'Direct Drop',EXW,Air,6/2/14,Determine,300mg,'Test kit',99.099099,9.522611,88.297353,66.139532,3.729311,'Alere Medical Co. Ltd.',True,2.801643,70.086814,'HIV test'
+'Direct Drop',EXW,Air,12/29/11,Determine,300mg,'Test kit',99.099099,4.988726,41.586089,59.451265,3.352189,'Alere Medical Co. Ltd.',True,1.722742,52.982186,'HIV test'
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Truvada,300/200mg,'Tablet - FDC',29.029029,5.469372,14.959702,19.507446,3.687408,'Aspen-OSD Port Elizabeth SA',True,0.347581,22.640119,Adult
+'Direct Drop',EXW,Air,5/20/14,Determine,300mg,'Test kit - Ancillary',0,5.543566,2.888109,3.715704,20.951184,'Alere Medical Co. Ltd.',False,1.844046,2.292293,'HIV test - Ancillary'
+'Direct Drop',EXW,Air,6/13/12,Uni-Gold,300mg,'Test kit',19.019019,24.192014,80.645291,23.780506,6.704379,'Trinity Biotech Plc',True,5.780576,87.301711,'HIV test'
+'From RDC','N/A - From RDC',Truck,'N/A - From RDC',Generic,600mg,Tablet,29.029029,70.598615,28.01942,2.831366,0.544731,'Aurobindo Unit III India',False,4.695843,30.331688,Adult
+'Direct Drop',EXW,Air,10/21/08,Generic,200mg,Tablet,59.059059,6.772602,2.046374,2.155108,0.209512,'Aurobindo Unit III India',False,1.2177,3.096606,Adult
+'From RDC','N/A - From RDC','Air Charter','N/A - From RDC',Generic,600/200/300mg,'Tablet - FDC',29.029029,96.151923,129.807064,9.631105,1.801802,'Cipla Goa India',True,9.006781,140.521299,Adult
+'From RDC','N/A - From RDC','Air Charter','N/A - From RDC',Generic,200/300mg,'Tablet - FDC',29.029029,153.616625,143.536809,6.665973,1.257071,'Aurobindo Unit III India',True,16.897338,155.384228,Adult
+'From RDC','N/A - From RDC',Truck,'N/A - From RDC',Bioline,300mg,'Test kit',24.024024,4.017755,8.373669,14.862816,3.352189,'Standard Diagnostics Korea',True,0.860788,10.344506,'HIV test'
+'Direct Drop',DDP,Truck,11/4/14,Generic,200mg,Capsule,89.089089,0.072581,0.182294,17.530692,1.089462,'Aurobindo Unit III India',False,1.519792,0.145295,Pediatric
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,150/300mg,'Tablet - FDC',59.059059,1.798393,1.753128,6.948367,0.670438,'Aurobindo Unit III India',True,0.118971,2.652936,Adult
+'Direct Drop',DDP,Ocean,3/24/11,Generic,600mg,Tablet,29.029029,177.887671,83.570768,3.351565,0.628536,'Aurobindo Unit III India',True,10.934806,106.471608,Adult
+'Direct Drop',EXW,Air,'N/A - From RDC',Uni-Gold,300mg,'Test kit',19.019019,0.062903,0.268818,29.725632,8.380473,'Trinity Biotech Plc',True,0.016329,31.149964,'HIV test'
+'Direct Drop',EXW,Air,1/22/13,Generic,200mg,Tablet,59.059059,43.542076,10.024104,1.642341,0.167609,'Hetero Unit III Hyderabad IN',True,2.013171,9.573922,Adult
+'Direct Drop',EXW,Air,3/24/10,Uni-Gold,300mg,'Test kit',19.019019,0.256452,0.860216,23.780506,6.704379,'Trinity Biotech Plc',True,0.061818,1.432196,'HIV test'
+'Direct Drop',EXW,Air,8/12/13,'Colloidal Gold',300mg,'Test kit',0,4.817757,12.299415,18.20695,102.6608,'KHB Test Kit Facility Shanghai China',True,2.323428,11.748162,'HIV test'
+'Direct Drop',EXW,Air,7/4/07,Generic,600mg,Tablet,29.029029,36.288827,46.610458,9.162926,1.717997,'Aurobindo Unit III India',True,2.280272,57.583636,Adult
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,200mg,Tablet,59.059059,6.611312,2.204305,2.378051,0.209512,'Aurobindo Unit III India',False,1.698248,3.336602,Adult
+'Direct Drop',EXW,Air,12/11/08,Determine,300mg,'Test kit',99.099099,0.341937,2.576617,53.506138,3.01697,'Inverness Japan',True,0.074648,3.899622,'HIV test'
+'From RDC','N/A - From RDC',Truck,'N/A - From RDC',Generic,600/300/300mg,'Tablet - FDC',29.029029,290.634808,329.084667,8.077941,1.508485,'Aurobindo Unit VII IN',True,16.024886,314.320407,Adult
+'From RDC','N/A - From RDC','Air Charter','N/A - From RDC',Generic,200mg,Capsule,89.089089,1.966135,1.986193,7.201034,0.460926,'Aurobindo Unit III India',True,0.197118,2.530992,Pediatric
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Truvada,300/200mg,'Tablet - FDC',29.029029,24.192014,66.154341,19.507446,3.687408,'Aspen-OSD Port Elizabeth SA',True,1.526791,81.728599,Adult
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Stocrin/Sustiva,50mg,Capsule,29.029029,0.780648,0.282754,2.578699,0.502828,'MSD Haarlem NL',True,0.332418,0.348968,Pediatric
+'From RDC','N/A - From RDC','Air Charter','N/A - From RDC',Generic,600/300mg,'Tablet - FDC',29.029029,31.217843,43.869768,10.02497,1.885607,'Mylan (formerly Matrix) Nashik',True,2.286104,34.821572,Adult
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Truvada,300/200mg,'Tablet - FDC',29.029029,0.120968,0.335182,19.507446,3.687408,'Aspen-OSD Port Elizabeth SA',True,0.008165,0.413832,Adult
+'Direct Drop',FCA,Air,3/30/09,Aluvia,200/50mg,Tablet,119.119119,16.514569,70.709791,30.543087,1.42468,'ABBVIE Ludwigshafen Germany',True,2.942775,107.011276,Adult
+'From RDC','N/A - From RDC','Air Charter','N/A - From RDC',Generic,150/300mg,'Tablet - FDC',59.059059,19.27103,17.586258,6.509913,0.628536,'Aurobindo Unit III India',True,1.264355,26.614983,Adult
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Aluvia,200/50mg,Tablet,119.119119,52.085652,102.546637,14.045361,0.670438,'ABBVIE Ludwigshafen Germany',True,23.481549,97.945888,Adult
+'From RDC','N/A - From RDC',Truck,'N/A - From RDC',Generic,600mg,Tablet,29.029029,7.740348,2.685488,2.474659,0.460926,'Hetero Jadcherla unit 5 IN',True,3.594781,2.564721,Adult
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,1mg/ml,'Oral solution',199.199199,0.64355,0.094086,1.040397,0.041902,'Aurobindo Unit III India',True,0.045489,0.142701,Pediatric
+'From RDC','N/A - From RDC',Truck,'N/A - From RDC',Generic,150/300/200mg,'Tablet - FDC',59.059059,109.045513,109.274131,7.149015,0.670438,'Aurobindo Unit III India',False,21.030986,118.293714,Adult
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,150mg,Tablet,59.059059,13.740367,3.335288,1.731518,0.167609,'Strides Bangalore India.',False,2.05866,5.552356,Adult
+'Direct Drop',EXW,Air,3/31/08,Generic,300mg,Tablet,59.059059,0.804841,2.100138,18.57852,1.759899,'Aurobindo Unit III India',True,0.144631,2.594559,Adult
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,10mg/ml,'Oral suspension',239.239239,2.766138,0.562198,1.449125,0.041902,'Aurobindo Unit III India',False,18.702893,0.537074,Pediatric
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Aluvia,200/50mg,Tablet,119.119119,2.488718,10.661711,30.543087,1.42468,'ABBVIE (Abbott) Logis. UK',True,1.519792,16.135561,Adult
+'From RDC','N/A - From RDC','Air Charter','N/A - From RDC',Aluvia,200/50mg,Tablet,119.119119,25.524276,50.254013,14.045361,0.670438,'ABBVIE Ludwigshafen Germany',True,4.448571,47.999336,Adult
+'Direct Drop',EXW,Air,8/23/10,Bioline,300mg,'Test kit',24.024024,0.024194,0.053764,14.862816,3.352189,'Standard Diagnostics Korea',True,0.162127,0.089512,'HIV test'
+'From RDC','N/A - From RDC',Truck,'N/A - From RDC',Generic,150/300/200mg,'Tablet - FDC',59.059059,72.766364,85.047436,8.33804,0.796145,'Aurobindo Unit III India',True,6.164315,128.70957,Adult
+'Direct Drop',CIP,Air,11/9/09,Videx,50mg,'Chewable/dispersible tablet',59.059059,3.041945,3.01185,7.059838,0.670438,'BMS Meymac France',True,0.36391,5.013985,Pediatric
+'From RDC','N/A - From RDC',Truck,'N/A - From RDC',Uni-Gold,300mg,'Test kit',19.019019,2.014523,6.720441,23.780506,6.704379,'Trinity Biotech Plc',True,0.459553,10.17067,'HIV test'
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,200/50mg,Tablet,119.119119,2.583879,5.30833,14.647305,0.670438,'Mylan (formerly Matrix) Nashik',False,0.601852,4.213563,Adult
+'From RDC','N/A - From RDC','Air Charter','N/A - From RDC',Generic,150/300/200mg,'Tablet - FDC',59.059059,112.901977,100.907421,6.376148,0.586633,'Aurobindo Unit III India',False,21.937263,96.380072,Adult
+'From RDC','N/A - From RDC',Truck,'N/A - From RDC',Generic,600/300/300mg,'Tablet - FDC',29.029029,81.466392,92.245394,8.077941,1.508485,'Hetero Unit III Hyderabad IN',True,7.891723,88.107321,Adult
+'From RDC','N/A - From RDC','Air Charter','N/A - From RDC',Generic,150/300mg,'Tablet - FDC',59.059059,80.643809,61.072007,5.402634,0.502828,'Hetero Unit III Hyderabad IN',False,12.959641,66.113247,Adult
+'Direct Drop',EXW,Air,10/15/13,Uni-Gold,300mg,'Test kit',19.019019,51.356617,171.193825,23.780506,6.704379,'Trinity Biotech Plc',True,10.861324,163.512981,'HIV test'
+'From RDC','N/A - From RDC',Truck,'N/A - From RDC',Generic,30/50/60mg,'Chewable/dispersible tablet - FDC',59.059059,148.458543,60.157195,2.890818,0.251414,'Strides Bangalore India.',True,5.952034,57.4578,Pediatric
+'From RDC','N/A - From RDC',Truck,'N/A - From RDC',Generic,300/300mg,'Tablet - FDC',29.029029,44.998532,21.750035,3.448173,0.628536,'Ranbaxy per Shasun Pharma Ltd',True,19.849444,17.264194,Adult
+'From RDC','N/A - From RDC',Truck,'N/A - From RDC',Generic,60/30mg,'Tablet - FDC',59.059059,37.095281,15.263802,2.935406,0.293317,'Mylan (formerly Matrix) Nashik',True,1.110393,12.115292,Pediatric
+'From RDC','N/A - From RDC','Air Charter','N/A - From RDC',Generic,600mg,Tablet,29.029029,82.482524,37.289643,3.225231,0.586633,'Aurobindo Unit III India',False,81.77369,62.077411,Adult
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Norvir,100mg,Capsule,335.335335,0.229033,0.921621,28.506881,0.460926,'ABBVIE (Abbott) Logis. UK',False,10.504412,1.139011,Adult
+'Direct Drop',DDP,Truck,12/2/13,Generic,300mg,Tablet,59.059059,0.15,1.019918,47.992034,4.525456,'Aurobindo Unit III India',False,1.519792,0.974257,Adult
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,150/300mg,'Tablet - FDC',59.059059,3.053236,2.97529,6.948367,0.670438,'Mylan (formerly Matrix) Nashik',False,0.526037,3.675192,Adult
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,300mg,Tablet,59.059059,0.200001,0.171161,6.056598,0.586633,'Aurobindo Unit III India',False,0.521372,0.211457,Adult
+'Direct Drop',DDP,Truck,7/11/14,Reyataz,150mg,Capsule,59.059059,0.001613,0.008631,19.083856,1.801802,'BMS Evansville US',True,1.519792,0.007784,Pediatric
+'From RDC','N/A - From RDC',Truck,'N/A - From RDC',Generic,60/30mg,'Tablet - FDC',59.059059,82.009942,33.744283,2.935406,0.293317,'Aurobindo Unit III India',True,2.766652,26.784927,Pediatric
+'Direct Drop',EXW,Air,5/23/14,Generic,150/300/200mg,'Tablet - FDC',59.059059,46.945313,40.100434,6.093755,0.586633,'Aurobindo Unit III India',True,4.253785,31.830046,Adult
+'From RDC','N/A - From RDC','Air Charter','N/A - From RDC',Generic,200/50mg,Tablet,119.119119,28.219446,86.162281,21.781457,1.005657,'Aurobindo Unit III India',True,5.712926,93.274385,Adult
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,10mg/ml,'Oral solution',239.239239,8.240349,1.656975,1.434262,0.041902,'Aurobindo Unit III India',True,2.146138,2.110673,Pediatric
+'Direct Drop',FCA,Air,7/18/12,Kaletra,80/20mg/ml,'Oral solution',299.299299,1.650005,5.302374,22.9036,0.419024,'ABBVIE (Abbott) Logis. UK',True,1.182709,5.740461,Pediatric
+'Direct Drop',EXW,Air,9/11/13,Uni-Gold,300mg,'Test kit',19.019019,7.256475,24.193587,23.780506,6.704379,'Trinity Biotech Plc',True,1.578111,23.108437,'HIV test'
+'Direct Drop',EXW,Air,7/9/12,Determine,300mg,'Test kit',99.099099,7.230668,60.268914,59.451265,3.352189,'Alere Medical Co. Ltd.',True,2.272107,65.24407,'HIV test'
+'Direct Drop',EXW,Air,12/22/09,Uni-Gold,300mg,'Test kit',19.019019,8.488737,28.301121,23.780506,6.704379,'Trinity Biotech Plc',True,2.129809,47.113294,'HIV test'
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,300/300mg,'Tablet - FDC',29.029029,56.450182,32.577337,4.117,0.754243,'Mylan (formerly Matrix) Nashik',True,3.09907,35.266539,Adult
+'Direct Drop',EXW,Air,3/16/15,Uni-Gold,300mg,'Test kit',19.019019,0.567744,1.897853,23.780506,6.704379,'Trinity Biotech Plc',False,0.592521,1.725382,'HIV test'
+'From RDC','N/A - From RDC','Air Charter','N/A - From RDC',Generic,600mg,Tablet,29.029029,0.301614,0.150034,3.529919,0.670438,'Aurobindo Unit III India',True,0.019828,0.250375,Adult
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,10mg/ml,'Oral solution',239.239239,4.853241,0.976026,1.434262,0.041902,'Aurobindo Unit III India',True,3.734747,1.624194,Pediatric
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,600mg,Tablet,29.029029,4.961306,6.208809,8.925121,1.676095,'Aurobindo Unit III India',False,0.492212,7.670813,Adult
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,300mg,Tablet,29.029029,0.320969,0.119288,2.63815,0.502828,'Mylan (formerly Matrix) Nashik',True,0.013997,0.108971,Adult
+'Direct Drop',EXW,Air,7/21/10,Determine,300mg,'Test kit',99.099099,8.062929,65.272283,57.742041,3.268385,'Inverness Japan',True,1.322674,108.661415,'HIV test'
+'Direct Drop',DDP,Truck,12/10/14,Epivir,150mg,Tablet,59.059059,1.583876,1.698027,7.639488,0.71234,'GSK Cape Town Factory (South Africa)',False,1.519792,1.543762,Adult
+'From RDC','N/A - From RDC',Truck,'N/A - From RDC',Generic,300/300mg,'Tablet - FDC',29.029029,148.539189,177.939215,8.546119,1.59229,'Mylan (formerly Matrix) Nashik',True,8.964792,269.291841,Adult
+'From RDC','N/A - From RDC',Truck,'N/A - From RDC',Generic,300mg,Tablet,59.059059,7.091958,5.187166,5.216848,0.502828,'Hetero Unit III Hyderabad IN',True,0.261269,6.608341,Adult
+'From RDC','N/A - From RDC','Air Charter','N/A - From RDC',Generic,600/200/300mg,'Tablet - FDC',29.029029,169.376353,241.539647,10.173598,1.927509,'Mylan (formerly Matrix) Nashik',True,15.620152,261.475733,Adult
+'Direct Drop',DDP,Truck,7/21/09,Generic,50mg,Capsule,29.029029,0.143549,0.062078,3.054309,0.586633,'Aurobindo Unit III India',True,1.519792,0.093404,Pediatric
+'Direct Drop',DDP,Truck,'N/A - From RDC',Videx,100mg,'Chewable/dispersible tablet',59.059059,0.009677,0.015348,9.697988,0.921852,'BMS Meymac France',False,1.519792,0.023351,Pediatric
+'Direct Drop',EXW,Air,2/20/15,Determine,300mg,'Test kit - Ancillary',0,0.022581,0.012601,3.715704,20.951184,'Alere Medical Co. Ltd.',True,1.519792,0.011676,'HIV test - Ancillary'
+'Direct Drop',EXW,Air,6/4/09,Clearview,300mg,'Test kit',24.024024,0.004839,0.050403,55.735561,12.57071,'Chembio Diagnostics Sys. Inc.',True,0.004666,0.076539,'HIV test'
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,50mg,Capsule,29.029029,2.708073,0.632259,1.664635,0.293317,'Aurobindo Unit III India',False,11.238065,0.684963,Pediatric
+'From RDC','N/A - From RDC',Truck,'N/A - From RDC',Generic,150/300mg,'Tablet - FDC',59.059059,2.975816,2.046979,4.904729,0.460926,'Hetero Unit III Hyderabad IN',False,12.381117,1.624194,Adult
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,10mg/ml,'Oral suspension',239.239239,0.633873,0.123125,1.382242,0.041902,'Aurobindo Unit III India',False,0.717323,0.118052,Pediatric
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,20mg/ml,'Oral solution',239.239239,0.462905,0.658066,10.106715,0.251414,'Aurobindo Unit III India',False,0.870119,1.094904,Pediatric
+'From RDC','N/A - From RDC',Truck,'N/A - From RDC',Generic,10mg/ml,'Oral suspension',239.239239,47.585637,9.666145,1.449125,0.041902,'Aurobindo Unit III India',True,12.728698,12.315073,Pediatric
+'Direct Drop',EXW,Air,5/14/08,Generic,300mg,Tablet,59.059059,1.043552,0.816534,5.573556,0.502828,'Mylan (formerly Matrix) Nashik',False,1.792725,1.009283,Adult
+'From RDC','N/A - From RDC',Truck,'N/A - From RDC',Generic,600/300mg,'Tablet - FDC',29.029029,5.482276,7.974475,10.374246,1.969411,'Mylan (formerly Matrix) Nashik',True,0.367409,7.616327,Adult
+'Direct Drop',EXW,Air,10/10/13,Generic,300mg,Tablet,29.029029,19.86458,7.346341,2.63815,0.502828,'Hetero Unit III Hyderabad IN',False,3.303186,7.016984,Adult
+'Direct Drop',DDP,Air,'N/A - From RDC',Aluvia,200/50mg,Tablet,119.119119,0.320969,1.038644,22.970482,1.089462,'ABBVIE Ludwigshafen Germany',False,1.519792,1.572303,Adult
+'From RDC','N/A - From RDC',Truck,'N/A - From RDC',Generic,60/30mg,'Tablet - FDC',59.059059,8.101639,3.882802,3.418448,0.335219,'Aurobindo Unit III India',True,3.186548,4.203185,Pediatric
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,300mg,Tablet,59.059059,13.143591,26.016507,14.119675,1.340876,'Mylan (formerly Matrix) Nashik',False,11.504,43.310968,Adult
+'Direct Drop',EXW,Air,3/28/12,Determine,300mg,'Test kit',99.099099,0.104839,0.887098,59.451265,3.352189,'Alere Medical Co. Ltd.',True,0.034991,0.959987,'HIV test'
+'From RDC','N/A - From RDC',Truck,'N/A - From RDC',Generic,200mg,Tablet,59.059059,14.632305,3.826154,1.865283,0.167609,'Hetero Unit III Hyderabad IN',True,2.451729,6.369642,Adult
+'Direct Drop',FCA,Air,7/30/12,Kaletra,80/20mg/ml,'Oral solution',299.299299,0.032258,0.214587,45.197824,0.838047,'ABBVIE (Abbott) Logis. UK',True,0.060652,0.232213,Pediatric
+'Direct Drop',EXW,Air,5/27/11,Generic,600/300/300mg,'Tablet - FDC',29.029029,2.004845,2.946981,10.478285,1.969411,'Mylan (formerly Matrix) Nashik',True,0.204116,3.754326,Adult
+'Direct Drop',EXW,Air,4/30/14,Generic,300mg,Tablet,59.059059,0.966132,1.154236,8.508962,0.796145,'Hetero Unit III Hyderabad IN',False,2.272107,0.915879,Adult
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,600mg,Tablet,29.029029,195.086113,73.970644,2.705033,0.502828,'Aurobindo Unit III India',True,13.260567,80.075865,Adult
+'From RDC','N/A - From RDC',Truck,'N/A - From RDC',Generic,10mg/ml,'Oral solution',239.239239,6.450021,1.411293,1.560596,0.041902,'Aurobindo Unit III India',True,1.326173,1.798029,Pediatric
+'Direct Drop',EXW,Air,10/10/12,Determine,300mg,'Test kit - Ancillary',0,0.129033,0.068044,3.715704,20.951184,'Alere Medical Co. Ltd.',False,0.018662,0.073945,'HIV test - Ancillary'
+'Direct Drop',FCA,Air,8/12/09,Aluvia,200/50mg,Tablet,119.119119,2.256459,19.334709,61.086175,2.849361,'ABBVIE Ludwigshafen Germany',True,0.243773,29.261433,Adult
+'Direct Drop',DDP,Truck,8/13/13,Generic,150mg,Tablet,59.059059,0.667744,0.680307,7.253054,0.670438,'Hetero Unit III Hyderabad IN',False,1.519792,0.649937,Adult
+'From RDC','N/A - From RDC',Truck,'N/A - From RDC',Generic,300/300mg,'Tablet - FDC',29.029029,12.901655,6.317214,3.492762,0.670438,'Hetero Unit III Hyderabad IN',True,0.367409,6.839257,Adult
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,150/200/30mg,'Tablet - FDC',59.059059,57.417927,44.260824,5.499242,0.502828,'Cipla Goa India',True,4.351761,54.680324,Adult
+'Direct Drop',CIP,Air,2/4/14,Isentress,400mg,Tablet,59.059059,2.095168,12.121995,41.244315,3.855018,'MSD Haarlem NL',True,1.519792,9.621921,Adult
+'From RDC','N/A - From RDC',Truck,'N/A - From RDC',Generic,200/50mg,Tablet,119.119119,13.867787,31.46615,16.185607,0.754243,'Mylan (formerly Matrix) Nashik',True,2.674508,30.054071,Adult
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,300mg,Tablet,59.059059,6.450021,5.725816,6.33156,0.586633,'Ranbaxy Paonta Shahib India',True,1.519792,31.149964,Adult
+'Direct Drop',EXW,Air,2/24/09,Determine,300mg,'Test kit',99.099099,2.41775,17.641157,52.019857,2.933166,'Inverness Japan',True,0.397735,26.698009,'HIV test'
+'Direct Drop',EXW,Air,10/30/13,Kaletra,80/20mg/ml,'Oral solution',299.299299,0.301614,0.973483,22.9036,0.419024,'ABBVIE (Abbott) Logis. UK',True,0.25777,0.773178,Pediatric
+'From RDC','N/A - From RDC',Truck,'N/A - From RDC',Generic,300mg,Tablet,59.059059,70.450227,47.995239,4.860141,0.460926,'Aurobindo Unit III India',True,7.622289,45.84196,Adult
+'From RDC','N/A - From RDC',Truck,'N/A - From RDC',Generic,150/300mg,'Tablet - FDC',59.059059,30.643647,20.813206,4.845278,0.460926,'Hetero Unit III Hyderabad IN',False,1.963016,16.520852,Adult
+'From RDC','N/A - From RDC',Truck,'N/A - From RDC',Generic,150/300/200mg,'Tablet - FDC',59.059059,85.318017,72.077196,6.026872,0.586633,'Hetero Unit III Hyderabad IN',False,21.85445,57.211316,Adult
+'Direct Drop',EXW,Air,8/29/14,Generic,150/300mg,'Tablet - FDC',59.059059,43.003365,29.610671,4.912161,0.460926,'Hetero Jadcherla unit 5 IN',True,4.937284,23.504107,Adult
+'Direct Drop',FCA,Air,3/28/13,Kaletra,80/20mg/ml,'Oral solution',299.299299,1.224197,3.935356,22.9036,0.419024,'ABBVIE (Abbott) Logis. UK',True,0.882949,3.758218,Pediatric
+'Direct Drop',DDP,Ocean,9/24/10,Generic,50mg,Capsule,29.029029,51.740489,12.881607,1.776107,0.335219,'Aurobindo Unit III India',True,3.109567,21.444028,Pediatric
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,1mg/ml,'Oral solution',199.199199,3.17743,0.46361,1.040397,0.041902,'Aurobindo Unit III India',False,0.709159,0.573397,Pediatric
+'Direct Drop',DDP,Truck,9/22/09,Aluvia,200/50mg,Tablet,119.119119,5.643567,25.629331,32.386077,1.508485,'ABBVIE Ludwigshafen Germany',True,1.519792,38.787355,Adult
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,30mg,Capsule,59.059059,7.111313,1.081756,1.084986,0.083805,'Aurobindo Unit III India',True,0.333584,1.800624,Adult
+'Direct Drop',EXW,Air,5/2/11,Bioline,300mg,'Test kit',24.024024,16.127471,33.602205,14.862816,3.352189,'Standard Diagnostics Korea',True,3.889875,42.810218,'HIV test'
+'From RDC','N/A - From RDC',Truck,'N/A - From RDC',Stocrin/Sustiva,30mg/ml,'Oral solution',179.179179,6.337117,0.006603,0.007431,0,'MSD Haarlem NL',True,1.519792,0.010378,Pediatric
+'Direct Drop',EXW,Air,8/27/08,Genie,300mg,'Test kit',39.039039,0.804841,6.384419,56.478702,7.96145,'Bio-Rad Laboratories',True,0.655505,7.887458,'HIV test'
+'From RDC','N/A - From RDC',Truck,'N/A - From RDC',Generic,150/200/30mg,'Tablet - FDC',59.059059,2.483879,1.675115,4.808121,0.460926,'Strides Bangalore India.',False,22.687245,2.534884,Adult
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Uni-Gold,300mg,'Test kit',19.019019,3.954851,13.188193,23.780506,6.704379,'Trinity Biotech Plc',True,0.957597,16.292531,'HIV test'
+'Direct Drop',EXW,Air,5/11/15,Generic,600mg,Tablet,29.029029,8.062929,2.772182,2.452365,0.460926,'Aurobindo Unit III India',True,1.519792,2.519316,Adult
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,300mg,Tablet,59.059059,13.306495,38.163709,20.458667,1.927509,'Aurobindo Unit III India',True,0.958764,47.148321,Adult
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,300mg,Tablet,59.059059,0.079033,0.066364,5.870812,0.544731,'Aurobindo Unit III India',True,0.003499,0.099891,Adult
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,200mg,Tablet,89.089089,0.501615,0.382662,5.424928,0.335219,'Strides Bangalore India.',False,0.884116,0.365833,Pediatric
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Aluvia,200/50mg,Tablet,119.119119,1.588715,13.617159,61.086175,2.849361,'ABBVIE Ludwigshafen Germany',False,0.468884,16.823119,Adult
+'Direct Drop',CIP,Air,3/19/09,'Videx EC',250mg,'Delayed-release capsules - blister',29.029029,0.095162,0.184879,13.629202,2.556044,'BMS Meymac France',True,3.499138,0.280212,Adult
+'Direct Drop',FCA,Air,11/11/11,Norvir,100mg,Tablet,59.059059,0.175807,0.126596,5.090515,0.460926,'ABBVIE Ludwigshafen Germany',True,0.050154,0.160863,Adult
+'From RDC','N/A - From RDC',Truck,'N/A - From RDC',Generic,150mg,Tablet,59.059059,0.708067,0.128629,1.293065,0.125707,'Micro labs Verna Goa India',True,0.031492,0.102485,Adult
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Kaletra,80/20mg/ml,'Oral solution',299.299299,0.235485,1.015072,30.543087,0.586633,'ABBVIE (Abbott) Logis. UK',False,0.63801,1.254469,Pediatric
+'Direct Drop',EXW,Air,12/27/13,Generic,300mg,Tablet,59.059059,101.9342,58.400632,4.087274,0.377121,'Hetero Unit III Hyderabad IN',True,4.673682,46.355683,Adult
+'From RDC','N/A - From RDC','Air Charter','N/A - From RDC',Generic,150/300/200mg,'Tablet - FDC',59.059059,143.539173,115.430529,5.737047,0.544731,'Cipla Goa India',False,48.87596,91.624246,Adult
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,150/300mg,'Tablet - FDC',59.059059,1.224197,1.206655,7.022681,0.670438,'Aurobindo Unit III India',True,0.232109,1.490574,Adult
+'Direct Drop',DDP,Ocean,3/30/11,Ziagen,20mg/ml,'Oral solution',239.239239,3.617754,3.498715,6.896347,0.167609,'GSK Mississauga (Canada)',True,1.01475,4.457452,Pediatric
+'From RDC','N/A - From RDC',Truck,'N/A - From RDC',Generic,60/30mg,'Tablet - FDC',59.059059,75.761535,31.567927,2.972563,0.293317,'Aurobindo Unit III India',True,3.77557,25.056951,Pediatric
+'Direct Drop',EXW,Air,9/3/08,Generic,50+153mg,'Tablet - FDC + co-blister',23.023023,40.321098,2.940193,0.520199,0.125707,'Ipca Dadra/Nagar Haveli IN',True,0.739485,4.449668,ACT
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,600mg,Tablet,29.029029,30.256549,37.854161,8.925121,1.676095,'Mylan (formerly Matrix) Nashik',False,2.526378,46.765623,Adult
+'Direct Drop',EXW,Air,11/6/12,Determine,300mg,'Test kit',99.099099,2.953235,24.623696,59.451265,3.352189,'Alere Medical Co. Ltd.',True,0.966928,23.518377,'HIV test'
+'Direct Drop',EXW,Air,10/27/08,'Colloidal Gold',300mg,'Test kit',0,5.595179,13.40896,17.092239,96.375445,'KHB Test Kit Facility Shanghai China',True,2.926446,20.293341,'HIV test'
+'From RDC','N/A - From RDC',Truck,'N/A - From RDC',Generic,125mg,'Delayed-release capsules',29.029029,0.167742,0.14995,6.316697,1.173266,'Aurobindo Unit III India',True,0.011664,0.249078,Pediatric
+'Direct Drop',EXW,Air,6/13/12,'Colloidal Gold',300mg,'Test kit',0,0.966132,2.469762,18.20695,102.6608,'KHB Test Kit Facility Shanghai China',True,0.506209,2.673693,'HIV test'
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,300mg,Tablet,59.059059,0.335485,0.286182,6.056598,0.586633,'Ranbaxy Paonta Shahib India',True,0.013997,0.354157,Adult
+'Direct Drop',EXW,Air,5/13/15,Generic,600/300/300mg,'Tablet - FDC',29.029029,24.65008,24.394865,7.059838,1.340876,'Hetero Unit III Hyderabad IN',False,1.519792,22.170504,Adult
+'From RDC','N/A - From RDC',Truck,'N/A - From RDC',Generic,200mg,Tablet,59.059059,46.984023,11.061184,1.679498,0.167609,'Hetero Unit III Hyderabad IN',False,10.048358,11.973888,Adult
+'Direct Drop',DDP,Ocean,3/23/11,Generic,600mg,Tablet,29.029029,149.192417,73.198203,3.500193,0.670438,'Hetero Unit III Hyderabad IN',True,9.188737,93.256223,Adult
+'From RDC','N/A - From RDC',Truck,'N/A - From RDC',Generic,150/300mg,'Tablet - FDC',59.059059,5.393566,4.372336,5.781636,0.544731,'Mylan (formerly Matrix) Nashik',True,8.275461,5.570518,Adult
+'Direct Drop',DDP,Truck,4/2/09,Generic,10mg/ml,'Oral solution',239.239239,0.320969,0.202957,4.48857,0.125707,'Aurobindo Unit III India',False,1.519792,0.307455,Pediatric
+'From RDC','N/A - From RDC',Truck,'N/A - From RDC',Generic,20mg/ml,'Oral solution',239.239239,1.288714,1.142475,6.316697,0.167609,'Aurobindo Unit III India',True,0.346415,0.906798,Pediatric
+'From RDC','N/A - From RDC','Air Charter','N/A - From RDC',Generic,150/300/200mg,'Tablet - FDC',59.059059,285.942858,229.946641,5.737047,0.544731,'Mylan (formerly Matrix) Nashik',True,48.87596,182.522015,Adult
+'From RDC','N/A - From RDC',Truck,'N/A - From RDC',Generic,300mg,Tablet,59.059059,16.762957,12.259072,5.216848,0.502828,'Hetero Unit III Hyderabad IN',True,17.419876,20.407501,Adult
+'Direct Drop',EXW,Air,10/29/14,Determine,300mg,'Test kit',99.099099,5.120984,47.490668,66.139532,3.729311,'Alere Medical Co. Ltd.',True,1.502297,37.696343,'HIV test'
+'Direct Drop',EXW,Air,10/4/11,Generic,300mg,Tablet,59.059059,0.624196,0.941971,10.738385,1.005657,'Aurobindo Unit III India',False,11.908733,1.199983,Adult
+'From RDC','N/A - From RDC',Truck,'N/A - From RDC',Generic,150mg,Tablet,59.059059,6.530666,1.585436,1.731518,0.167609,'Aurobindo Unit III India',True,0.227444,2.019864,Adult
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,300mg,Tablet,59.059059,11.045197,15.131804,9.772302,0.921852,'Aurobindo Unit III India',True,1.026414,16.380746,Adult
+'From RDC','N/A - From RDC',Truck,'N/A - From RDC',Generic,600/300/300mg,'Tablet - FDC',29.029029,8.30164,8.303239,7.134152,1.340876,'Aurobindo Unit VII IN',True,14.088696,6.590179,Adult
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,200mg,Tablet,59.059059,8.480673,2.65071,2.229422,0.209512,'Hetero Unit III Hyderabad IN',True,0.342916,4.011188,Adult
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,10mg/ml,'Oral suspension',239.239239,7.19841,1.440002,1.42683,0.041902,'Aurobindo Unit III India',True,1.930358,2.179429,Pediatric
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Viread,300mg,Tablet,29.029029,1.908071,3.381726,12.633394,2.388435,'Gilead(Nycomed) Oranienburg DE',True,0.057153,4.177239,Adult
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Aluvia,200/50mg,Tablet,119.119119,19.740386,84.520298,30.543087,1.42468,'ABBVIE (Abbott) Logis. UK',True,3.104902,104.418015,Adult
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,150mg,Tablet,59.059059,2.601621,0.631826,1.731518,0.167609,'Macleods Daman Plant INDIA',False,1.657425,0.683666,Adult
+'Direct Drop',EXW,Air,2/6/15,Generic,600/200/300mg,'Tablet - FDC',29.029029,51.792103,56.271623,7.750959,1.466583,'Hetero Jadcherla unit 5 IN',True,4.652687,51.140049,Adult
+'Direct Drop',DDP,Truck,5/11/15,Isentress,400mg,Tablet,59.059059,0.008065,0.061658,45.450492,4.274041,'MSD Haarlem NL',False,1.519792,0.049297,Adult
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,600mg,Tablet,29.029029,0.796777,1.351439,12.076038,2.262728,'Aurobindo Unit III India',False,1.060239,31.149964,Adult
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,300/300mg,'Tablet - FDC',29.029029,2.332266,1.142626,3.492762,0.670438,'Aurobindo Unit VII IN',True,0.690497,0.906798,Adult
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,300mg,Tablet,59.059059,0.562905,0.773271,9.772302,0.921852,'Mylan (formerly Matrix) Nashik',True,0.04199,0.836745,Adult
+'From RDC','N/A - From RDC',Truck,'N/A - From RDC',Generic,600mg,Tablet,29.029029,10.308098,4.660841,3.225231,0.586633,'Hetero Unit III Hyderabad IN',True,0.628678,7.759028,Adult
+'Direct Drop',EXW,Air,'N/A - From RDC',Bioline,300mg,'Test kit',24.024024,16.127471,33.602205,14.862816,3.352189,'Standard Diagnostics Korea',True,3.889875,41.512939,'HIV test'
+'Direct Drop',EXW,Air,3/31/09,Determine,300mg,'Test kit',99.099099,0.683873,6.426422,66.882673,3.771213,'Inverness Japan',True,0.151629,9.725703,'HIV test'
+'Direct Drop',DDP,Truck,9/19/13,Generic,600mg,Tablet,29.029029,4.030658,6.32937,11.199132,2.095118,'Hetero Unit III Hyderabad IN',True,1.519792,6.045322,Adult
+'From RDC','N/A - From RDC',Truck,'N/A - From RDC',Generic,200mg,Tablet,59.059059,0.85968,0.231472,1.917303,0.167609,'Strides Bangalore India.',True,0.034991,0.294482,Adult
+'From RDC','N/A - From RDC','Air Charter','N/A - From RDC',Generic,150/300/200mg,'Tablet - FDC',59.059059,134.353659,115.601329,6.138343,0.586633,'Hetero Unit III Hyderabad IN',False,70.89137,110.415337,Adult
+'From RDC','N/A - From RDC','Air Charter','N/A - From RDC',Generic,200mg,Tablet,59.059059,153.224688,36.071967,1.679498,0.167609,'Cipla Goa India',True,14.796688,34.453145,Adult
+'Direct Drop',FCA,Air,12/6/07,Aluvia,200/50mg,Tablet,119.119119,3.224204,27.621012,61.086175,2.849361,'ABBVIE Ludwigshafen Germany',True,0.598353,34.123636,Adult
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,200mg,Capsule,89.089089,4.108078,3.536041,6.138343,0.377121,'Aurobindo Unit III India',True,0.43156,3.828271,Pediatric
+'Direct Drop',EXW,Air,7/8/11,Generic,600mg,Tablet,29.029029,34.104949,14.566321,3.046877,0.586633,'Strides Bangalore India.',True,1.51746,18.557581,Adult
+'Direct Drop',EXW,Air,2/28/14,Determine,300mg,'Test kit - Ancillary',0,0.367743,0.192373,3.715704,20.951184,'Alere Medical Co. Ltd.',False,1.519792,0.153079,'HIV test - Ancillary'
+'From RDC','N/A - From RDC',Truck,'N/A - From RDC',Kaletra,80/20mg/ml,'Oral solution',299.299299,1.706457,0.001779,0.007431,0,'ABBVIE (Abbott) Logis. UK',True,1.519792,0.002595,Pediatric
+'Direct Drop',DDP,Ocean,9/24/10,Generic,600mg,Tablet,29.029029,174.400563,82.295894,3.366428,0.628536,'Aurobindo Unit III India',True,10.824,137.000483,Adult
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,600/300/300mg,'Tablet - FDC',29.029029,89.192223,90.680254,7.253054,1.382778,'Mylan (formerly Matrix) Nashik',True,7.286372,71.978247,Adult
+'From RDC','N/A - From RDC','Air Charter','N/A - From RDC',Generic,200/300mg,'Tablet - FDC',29.029029,13.427463,8.924725,4.741238,0.87995,'Aurobindo Unit III India',False,10.322457,9.660839,Adult
+'Direct Drop',EXW,Air,10/27/08,'Colloidal Gold',300mg,'Test kit',0,5.595179,13.40896,17.092239,96.375445,'KHB Test Kit Facility Shanghai China',True,2.926446,20.293341,'HIV test'
+'Direct Drop',CIP,Air,5/13/09,Trizivir,300/150/300mg,'Tablet - FDC',59.059059,2.701622,15.12401,39.914093,3.771213,'GSK Ware (UK)',True,0.290428,22.889197,Adult
+'Direct Drop',EXW,Air,3/14/13,Generic,60/30mg,'Chewable/dispersible tablet - FDC',59.059059,64.514724,40.322646,4.458845,0.419024,'Cipla Patalganga India',True,4.120818,38.513629,Pediatric
+'Direct Drop',EXW,Air,2/17/15,Generic,600/300/300mg,'Tablet - FDC',29.029029,10.991971,11.451631,7.431408,1.382778,'Hetero Unit III Hyderabad IN',True,2.96377,10.406775,Adult
+'Direct Drop',EXW,Air,5/15/14,Kaletra,80/20mg/ml,'Oral solution',299.299299,6.117762,19.64571,22.9036,0.419024,'ABBVIE (Abbott) Logis. UK',True,3.833889,15.594595,Pediatric
+'Direct Drop',DDP,Ocean,6/17/10,Generic,50mg,Capsule,29.029029,161.28923,39.482591,1.746381,0.335219,'Aurobindo Unit III India',True,6.571381,65.727955,Pediatric
+'Direct Drop',DDP,Ocean,9/21/10,Generic,150mg,Tablet,59.059059,299.925161,77.168535,1.835558,0.167609,'Strides Bangalore India.',True,10.519575,128.464384,Adult
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,200mg,Tablet,59.059059,94.643854,33.520215,2.526679,0.251414,'Aurobindo Unit III India',True,6.48157,41.411751,Adult
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Aluvia,200/50mg,Tablet,119.119119,19.388772,40.840933,15.026307,0.71234,'ABBVIE Ludwigshafen Germany',False,22.345496,39.00919,Adult
+'From RDC','N/A - From RDC',Truck,'N/A - From RDC',Aluvia,200/50mg,Tablet,119.119119,27.687186,58.319439,15.026307,0.71234,'ABBVIE Ludwigshafen Germany',True,4.137148,55.702581,Adult
+'Direct Drop',EXW,Air,4/29/09,Generic,150mg,Tablet,59.059059,9.675838,2.419359,1.783538,0.167609,'Aurobindo Unit III India',False,2.116979,3.660922,Adult
+'Direct Drop',CIP,Air,9/17/10,Generic,200mg,Tablet,59.059059,101.080971,27.797666,1.961892,0.167609,'Hetero Unit III Hyderabad IN',True,4.275947,46.275252,Adult
+'Direct Drop',EXW,Air,5/1/14,Generic,10mg/ml,'Oral solution',239.239239,1.39194,0.283065,1.449125,0.041902,'Cipla Goa India',True,1.519792,0.224429,Pediatric
+'From RDC','N/A - From RDC',Truck,'N/A - From RDC',Generic,600mg,Tablet,29.029029,0.40484,0.150726,2.645581,0.502828,'Emcure Plot No.P-2 I.T-B.T. Park Phase II MIDC Hinjwadi Pune India',False,6.711347,0.163457,Adult
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,150/300mg,'Tablet - FDC',59.059059,12.966171,9.45566,5.201986,0.502828,'Hetero Unit III Hyderabad IN',False,1.0824,9.031659,Adult
+'Direct Drop',DDP,Ocean,9/21/10,Generic,150mg,Tablet,59.059059,197.971606,50.936777,1.835558,0.167609,'Strides Bangalore India.',True,1.519792,84.796664,Adult
+'From RDC','N/A - From RDC',Truck,'N/A - From RDC',Generic,200mg,Tablet,59.059059,83.46156,19.64859,1.679498,0.167609,'Strides Bangalore India.',False,6.910798,15.595892,Adult
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,600mg,Tablet,29.029029,0.029032,0.013152,3.06174,0.586633,'Strides Bangalore India.',False,1.519792,0.01427,Adult
+'Direct Drop',DDP,Truck,6/25/14,Generic,600mg,Tablet,29.029029,0.169355,0.277752,11.592997,2.178923,'Aurobindo Unit III India',False,1.519792,0.220537,Adult
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,200mg,Tablet,59.059059,1.22581,0.288955,1.679498,0.167609,'Aurobindo Unit III India',False,6.328774,0.276321,Adult
+'Direct Drop',EXW,Air,5/21/13,Stat-Pak,300mg,'Test kit',19.019019,0.03871,0.121808,21.551083,6.075843,'Chembio Diagnostics Sys. Inc.',True,0.008165,0.116755,'HIV test'
+'From RDC','N/A - From RDC','Air Charter','N/A - From RDC',Generic,150/300/200mg,'Tablet - FDC',59.059059,9.353256,11.108889,8.471805,0.796145,'Aurobindo Unit III India',True,0.762812,16.81274,Adult
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,600mg,Tablet,29.029029,78.805093,35.627141,3.225231,0.586633,'Aurobindo Unit III India',False,19.14845,59.309017,Adult
+'Direct Drop',DDP,Truck,11/28/14,Generic,20mg/ml,'Oral solution',239.239239,0.01129,0.023805,13.161024,0.293317,'Aurobindo Unit III India',False,1.519792,0.019459,Pediatric
+'Direct Drop',DDP,Truck,1/26/15,Generic,150mg,Tablet,59.059059,0.306453,0.211998,4.912161,0.460926,'Aurobindo Unit III India',False,1.519792,0.168646,Adult
+'Direct Drop',DDP,Truck,11/28/14,Generic,250mg,'Delayed-release capsules',29.029029,0.008065,0.011106,8.189412,1.550388,'Aurobindo Unit III India',False,1.519792,0.009081,Adult
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,150/300mg,'Tablet - FDC',59.059059,2.088716,1.582986,5.402634,0.502828,'Mylan (formerly Matrix) Nashik',False,0.130634,1.51133,Adult
+'Direct Drop',DDP,Truck,4/2/09,Kaletra,80/20mg/ml,'Oral solution',299.299299,0.046774,0.181452,26.753069,0.502828,'ABBVIE (Abbott) Logis. UK',True,1.519792,0.275023,Pediatric
+'Direct Drop',EXW,Air,10/16/12,Stat-Pak,300mg,'Test kit',19.019019,7.817767,23.621006,21.551083,6.075843,'Chembio Diagnostics Sys. Inc.',True,2.080821,25.570673,'HIV test'
+'From RDC','N/A - From RDC',Truck,'N/A - From RDC',Generic,200/300mg,'Tablet - FDC',29.029029,0.683873,0.507687,5.283731,1.005657,'Mylan (formerly Matrix) Nashik',False,39.550757,0.550046,Adult
+'Direct Drop',EXW,Air,2/15/12,Uni-Gold,300mg,'Test kit',19.019019,0.287098,0.962367,23.780506,6.704379,'Trinity Biotech Plc',True,0.073482,1.041715,'HIV test'
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,300mg,Tablet,59.059059,10.271001,7.233621,5.023632,0.460926,'Aurobindo Unit III India',False,4.242122,7.830378,Adult
+'Direct Drop',EXW,Air,7/30/13,Generic,600mg,Tablet,29.029029,179.592515,59.677536,2.370619,0.460926,'Strides Bangalore India.',True,8.109836,56.99986,Adult
+'Direct Drop',EXW,Air,1/3/08,Viread,300mg,Tablet,29.029029,23.90169,42.328697,12.633394,2.388435,'Aspen-OSD Port Elizabeth SA',True,1.438146,52.29333,Adult
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,200mg,Tablet,59.059059,7.191959,2.173055,2.155108,0.209512,'Hetero Unit III Hyderabad IN',True,0.291595,3.618112,Adult
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,150/300mg,'Tablet - FDC',59.059059,52.024361,50.671049,6.948367,0.670438,'Aurobindo Unit III India',True,6.518894,76.684777,Adult
+'From RDC','N/A - From RDC',Truck,'N/A - From RDC',Generic,60/30mg,'Chewable/dispersible tablet - FDC',59.059059,40.321098,26.461736,4.681787,0.419024,'Cipla Patalganga India',True,2.643016,25.274893,Pediatric
+'Direct Drop',DDP,Truck,12/23/09,Ziagen,300mg,'Tablet - blister',59.059059,0.062903,0.270066,29.866829,2.807459,'GSK Ware (UK)',False,1.519792,0.450156,Adult
+'Direct Drop',EXW,Air,12/2/09,Prezista,300mg,Tablet,119.119119,0.162904,1.542341,66.882673,3.142678,'Aspen-OSD Port Elizabeth SA',True,0.017496,2.333806,Adult
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,150/200/30mg,'Tablet - FDC',59.059059,0.079033,0.058804,5.201986,0.502828,'Strides Bangalore India.',True,0.040823,0.089512,Adult
+'From RDC','N/A - From RDC',Truck,'N/A - From RDC',Generic,200mg,Tablet,59.059059,89.998677,23.531288,1.865283,0.167609,'Mylan (formerly Matrix) Nashik',True,6.529392,29.980126,Adult
+'From RDC','N/A - From RDC','Air Charter','N/A - From RDC',Generic,60/30mg,'Tablet - FDC',29.029029,9.675838,4.032265,2.972563,0.544731,'Mylan (formerly Matrix) Nashik',True,0.33825,3.851622,Pediatric
+'From RDC','N/A - From RDC',Truck,'N/A - From RDC',Generic,200mg,Tablet,89.089089,9.296804,7.07066,5.424928,0.335219,'Strides Bangalore India.',True,0.408233,7.653948,Pediatric
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,125mg,'Delayed-release capsules',29.029029,0.198388,0.177084,6.316697,1.173266,'Aurobindo Unit III India',True,0.009331,0.294482,Pediatric
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,200/300mg,'Tablet - FDC',29.029029,5.485502,3.355136,4.362237,0.838047,'Aurobindo Unit III India',True,0.457221,3.20428,Adult
+'From RDC','N/A - From RDC',Truck,'N/A - From RDC',Generic,150/300mg,'Tablet - FDC',59.059059,80.643809,79.385209,7.022681,0.670438,'Aurobindo Unit III India',True,5.347849,120.14104,Adult
+'From RDC','N/A - From RDC',Truck,'N/A - From RDC',Generic,600/200/300mg,'Tablet - FDC',29.029029,28.790415,35.660069,8.835944,1.676095,'Cipla Goa India',True,2.469225,28.305338,Adult
+'From RDC','N/A - From RDC',Truck,'N/A - From RDC',Generic,600/300/300mg,'Tablet - FDC',29.029029,72.321201,83.999799,8.28602,1.550388,'Mylan (formerly Matrix) Nashik',True,5.907711,80.231538,Adult
+'From RDC','N/A - From RDC',Truck,'N/A - From RDC',Determine,300mg,'Test kit',99.099099,0.240323,2.016132,59.451265,3.352189,'ABBVIE GmbH & Co.KG Wiesbaden',True,0.057153,2.490776,'HIV test'
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,10mg/ml,'Oral solution',239.239239,1.933877,0.433468,1.597753,0.041902,'Aurobindo Unit III India',False,1.152383,31.149964,Pediatric
+'From RDC','N/A - From RDC',Truck,'N/A - From RDC',Generic,150/300mg,'Tablet - FDC',59.059059,73.661528,50.029469,4.845278,0.460926,'Hetero Unit III Hyderabad IN',True,4.729668,45.467047,Adult
+'Direct Drop',FCA,Air,3/5/10,Invirase,500mg,Tablet,119.119119,0.691938,6.840287,70.360572,3.310287,'Roche Basel',True,0.089811,11.387518,Adult
+'Direct Drop',EXW,Air,3/16/15,Uni-Gold,300mg,'Test kit',19.019019,0.141936,0.478495,23.780506,6.704379,'Trinity Biotech Plc',False,0.592521,0.434589,'HIV test'
+'Direct Drop',EXW,Air,1/14/09,Uni-Gold,300mg,'Test kit',19.019019,1.127423,3.763447,23.780506,6.704379,'Trinity Biotech Plc',True,0.275266,5.695056,'HIV test'
+'From RDC','N/A - From RDC','Air Charter','N/A - From RDC',Generic,150/300/200mg,'Tablet - FDC',59.059059,42.927558,50.978308,8.471805,0.796145,'Aurobindo Unit III India',True,3.490973,77.1505,Adult
+'Direct Drop',EXW,Air,2/17/15,Generic,150/300/200mg,'Tablet - FDC',59.059059,10.380679,8.760044,6.019441,0.544731,'Mylan (formerly Matrix) Nashik',False,1.519792,7.961403,Adult
+'Direct Drop',EXW,Air,8/12/13,'Colloidal Gold',300mg,'Test kit',0,4.817757,12.299415,18.20695,102.6608,'KHB Test Kit Facility Shanghai China',True,2.323428,11.748162,'HIV test'
+'From RDC','N/A - From RDC','Air Charter','N/A - From RDC',Generic,150/300/200mg,'Tablet - FDC',59.059059,4.838725,5.747892,8.471805,0.796145,'Aurobindo Unit III India',True,0.394236,8.698258,Adult
+'Direct Drop',EXW,Ocean,3/26/13,Generic,600/300/300mg,'Tablet - FDC',29.029029,77.659928,84.942173,7.802979,1.466583,'Hetero Unit III Hyderabad IN',False,9.740434,81.13185,Adult
+'Direct Drop',EXW,Air,3/28/12,Uni-Gold,300mg,'Test kit',19.019019,0.104839,0.354839,23.780506,6.704379,'Trinity Biotech Plc',True,0.033825,0.383995,'HIV test'
+'Direct Drop',DDP,Truck,8/5/14,Generic,400mg,'Delayed-release capsules',29.029029,0,0.003306,14.625011,2.765556,'Aurobindo Unit III India',False,1.519792,0.002595,Adult
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,600mg,Tablet,29.029029,32.256556,41.733938,9.229809,1.717997,'Aurobindo Unit III India',False,3.206377,51.55907,Adult
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,10mg/ml,'Oral solution',239.239239,3.893561,0.770919,1.411968,0.041902,'Aurobindo Unit III India',False,2.939276,1.166254,Pediatric
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,10mg/ml,'Oral solution',239.239239,4.837112,0.932461,1.37481,0.041902,'Aurobindo Unit III India',True,1.255024,1.009283,Pediatric
+'From RDC','N/A - From RDC','Air Charter','N/A - From RDC',Generic,600mg,Tablet,29.029029,5.288727,5.35646,7.223329,1.340876,'Emcure Plot No.P-2 I.T-B.T. Park Phase II MIDC Hinjwadi Pune India',True,0.267101,8.106699,Adult
+'Direct Drop',EXW,Air,4/28/08,Generic,300mg,'Test kit - Ancillary',99.099099,0.159678,0.000168,0.007431,0,'Inverness Japan',True,1.519792,0,'HIV test - Ancillary'
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,10mg/ml,'Oral suspension',239.239239,9.675838,1.965729,1.449125,0.041902,'Aurobindo Unit III India',False,3.093238,2.127538,Pediatric
+'Direct Drop',EXW,Air,11/2/09,Generic,150/200/30mg,'Tablet - FDC',59.059059,31.611392,20.252049,4.570316,0.419024,'Cipla Goa India',True,2.246447,30.649522,Adult
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,150/200/30mg,'Tablet - FDC',59.059059,0.335485,0.263357,5.573556,0.502828,'Cipla Goa India',False,0.306758,0.325617,Adult
+'Direct Drop',EXW,Air,2/6/15,Generic,600/200/300mg,'Tablet - FDC',29.029029,63.788915,69.305639,7.750959,1.466583,'Hetero Jadcherla unit 5 IN',True,5.645276,62.985507,Adult
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Aluvia,200/50mg,Tablet,119.119119,0.004839,0.027621,30.543087,1.42468,'ABBVIE (Abbott) Logis. UK',False,0.253104,0.033729,Adult
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Trizivir,300/150/300mg,'Tablet - FDC',59.059059,1.322585,9.655594,52.019857,4.902577,'GSK Ware (UK)',True,0.216947,11.928484,Adult
+'Direct Drop',EXW,Air,10/22/08,Stat-Pak,300mg,'Test kit',19.019019,5.98389,16.834201,20.064802,5.65682,'Chembio Diagnostics Sys. Inc.',True,1.564115,25.477269,'HIV test'
+'From RDC','N/A - From RDC',Truck,'N/A - From RDC',Generic,300mg,Tablet,59.059059,7.73067,20.498571,18.912934,1.759899,'Mylan (formerly Matrix) Nashik',True,0.55403,31.021841,Adult
+'From RDC','N/A - From RDC',Truck,'N/A - From RDC',Generic,200/300mg,'Tablet - FDC',29.029029,38.775932,24.518679,4.510865,0.838047,'Mylan (formerly Matrix) Nashik',True,2.339757,26.542335,Adult
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,150/30mg,'Tablet - FDC',29.029029,2.579041,0.537635,1.486282,0.293317,'Cipla Goa India',False,4.758828,0.664207,Adult
+'From RDC','N/A - From RDC',Truck,'N/A - From RDC',Generic,600/300/300mg,'Tablet - FDC',29.029029,287.021894,333.365306,8.28602,1.550388,'Mylan (formerly Matrix) Nashik',True,103.528997,264.611257,Adult
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,10mg/ml,'Oral suspension',239.239239,1.756457,0.357107,1.449125,0.041902,'Aurobindo Unit III India',True,0.597186,0.386589,Pediatric
+'Direct Drop',EXW,Air,3/16/15,Uni-Gold,300mg,'Test kit',19.019019,0.074194,0.252689,23.780506,6.704379,'Trinity Biotech Plc',False,0.592521,0.229618,'HIV test'
+'Direct Drop',FCA,Air,7/10/15,Kaletra,80/20mg/ml,'Oral solution',299.299299,7.251636,23.285915,22.9036,0.419024,'ABBVIE (Abbott) Logis. UK',True,4.628193,21.162518,Pediatric
+'From RDC','N/A - From RDC',Truck,'N/A - From RDC',Generic,150/300/200mg,'Tablet - FDC',59.059059,64.627628,54.598156,6.026872,0.586633,'Mylan (formerly Matrix) Nashik',True,32.78809,43.338211,Adult
+'Direct Drop',EXW,Air,1/16/09,Generic,30mg,Capsule,59.059059,15.443598,2.332867,1.077554,0.083805,'Aurobindo Unit III India',False,2.598693,3.529897,Adult
+'Direct Drop',EXW,Air,7/10/13,Determine,300mg,'Test kit',99.099099,4.945177,45.860793,66.139532,3.729311,'Alere Medical Co. Ltd.',True,1.432314,43.803934,'HIV test'
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,150/200/30mg,'Tablet - FDC',59.059059,51.719522,38.790788,5.350614,0.502828,'Strides Bangalore India.',True,2.778316,58.705782,Adult
+'From RDC','N/A - From RDC',Truck,'N/A - From RDC',Generic,60/12mg,'Chewable/dispersible tablet - FDC',59.059059,7.98551,2.745569,2.452365,0.251414,'Cipla Goa India',False,0.801303,4.570315,Pediatric
+'Direct Drop',EXW,Air,7/10/13,Determine,300mg,'Test kit',99.099099,4.940339,45.815934,66.139532,3.729311,'Alere Medical Co. Ltd.',True,1.450976,43.759827,'HIV test'
+'From RDC','N/A - From RDC',Truck,'N/A - From RDC',Generic,600mg,Tablet,29.029029,6.450021,7.137108,7.892155,1.466583,'Aurobindo Unit III India',False,10.444927,10.801148,Adult
+'Direct Drop',EXW,Ocean,9/28/10,Generic,200mg,Tablet,59.059059,382.136717,96.728609,1.805832,0.167609,'Hetero Unit III Hyderabad IN',True,15.888419,161.027393,Adult
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,200/50mg,Tablet,119.119119,13.441979,37.389929,19.84186,0.921852,'Aurobindo Unit III India',True,2.372416,35.712803,Adult
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,600mg,Tablet,29.029029,9.675838,16.381075,12.076038,2.262728,'Aurobindo Unit III India',True,0.645008,31.149964,Adult
+'Direct Drop',EXW,Air,6/10/08,Generic,15mg,Tablet,1000,0.05,0.241076,33.322434,0.167609,'Weifa A.S. Hausmanngt. 6 P.O. Box 9113 GrÃ¸nland 0133 Oslo Norway',True,0.008165,0.298374,Malaria
+'Direct Drop',FCA,Air,9/11/09,Aluvia,200/50mg,Tablet,119.119119,20.256517,76.305499,26.871972,1.257071,'ABBVIE Ludwigshafen Germany',True,3.592448,115.479916,Adult
+'Direct Drop',DDP,Air,'N/A - From RDC',Stocrin/Sustiva,50mg,Capsule,29.029029,4.837112,1.255042,1.850421,0.335219,'MSD Midrand J burg SA',False,1.519792,1.899217,Pediatric
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,200mg,Tablet,59.059059,0.845164,0.194935,1.642341,0.167609,'Hetero Unit III Hyderabad IN',True,0.040823,0.154376,Adult
+'Direct Drop',DDP,Truck,12/2/13,Generic,10mg/ml,'Oral solution',239.239239,0.124194,0.08774,4.979043,0.125707,'Aurobindo Unit III India',False,1.519792,0.084323,Pediatric
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,150mg,Tablet,59.059059,0.035484,0.009004,1.731518,0.167609,'Hetero Unit III Hyderabad IN',True,0.001166,0.010378,Adult
+'Direct Drop',CIP,Air,10/3/07,'Videx EC',400mg,'Delayed-release capsules - blister',29.029029,0.224194,0.556755,17.590143,3.310287,'BMS Meymac France',True,0.006998,0.687558,Adult
+'Direct Drop',DDP,Truck,8/29/14,Generic,250mg,'Delayed-release capsules',29.029029,0.01129,0.022606,12.499628,2.346533,'Aurobindo Unit III India',False,1.519792,0.022054,Adult
+'From RDC','N/A - From RDC','Air Charter','N/A - From RDC',Generic,150/300/200mg,'Tablet - FDC',59.059059,72.761525,85.04178,8.33804,0.796145,'Mylan (formerly Matrix) Nashik',True,7.208224,108.346176,Adult
+'Direct Drop',DDP,Truck,'N/A - From RDC',Kaletra,80/20mg/ml,'Oral solution',299.299299,0.014516,0.059577,26.351773,0.502828,'ABBVIE (Abbott) Logis. UK',False,1.519792,0.073945,Pediatric
+'From RDC','N/A - From RDC',Truck,'N/A - From RDC',Generic,150/200/30mg,'Tablet - FDC',59.059059,33.227527,22.395019,4.808121,0.460926,'Cipla Goa India',False,22.687245,33.89272,Adult
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,1mg/ml,'Powder for oral solution',199.199199,0.966132,0.135081,0.995809,0.041902,'Aurobindo Unit III India',False,0.46072,0.172538,Pediatric
+'From RDC','N/A - From RDC',Truck,'N/A - From RDC',Generic,200mg,Tablet,59.059059,16.493602,3.883242,1.679498,0.167609,'Hetero Unit III Hyderabad IN',False,0.459553,3.708922,Adult
+'Direct Drop',DDP,Ocean,3/28/11,Generic,300mg,Tablet,29.029029,181.603812,122.394292,4.808121,0.921852,'Cipla Goa India',True,9.320537,155.934275,Adult
+'Direct Drop',EXW,Air,7/26/07,OraQuick,300mg,'Test kit',99.099099,0.03871,1.470096,260.099284,14.665829,'Pacific Biotech Thailand',True,0.069983,1.816191,'HIV test'
+'Direct Drop',EXW,Air,10/14/08,Determine,300mg,'Test kit',99.099099,7.740348,58.06461,53.506138,3.01697,'Inverness Japan',True,1.65276,87.875108,'HIV test'
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,200mg,Tablet,59.059059,0.111291,0.030343,1.917303,0.167609,'Strides Bangalore India.',False,0.053653,0.032432,Adult
+'Direct Drop',CIP,Air,11/2/11,Isentress,400mg,Tablet,59.059059,0.370969,3.551165,67.997384,6.36916,'MSD Haarlem NL',True,0.026827,4.52491,Adult
+'From RDC','N/A - From RDC',Truck,'N/A - From RDC',Generic,30/6mg,'Chewable/dispersible tablet - FDC',59.059059,5.94518,1.176968,1.411968,0.125707,'Cipla Goa India',True,0.247272,1.958892,Pediatric
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,200mg,Tablet,59.059059,1.12581,0.284204,1.798401,0.167609,'Hetero Unit III Hyderabad IN',False,0.572692,0.307455,Adult
+'From RDC','N/A - From RDC','Air Charter','N/A - From RDC',Generic,300mg,Tablet,59.059059,2.735493,2.146914,5.59585,0.544731,'Aurobindo Unit III India',True,7.843901,3.249685,Adult
+'Direct Drop',DDP,Truck,2/12/15,Generic,150/300mg,'Tablet - FDC',59.059059,0.029032,0.068475,15.94037,1.508485,'Aurobindo Unit III India',True,1.519792,0.054486,Adult
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,150/300/200mg,'Tablet - FDC',59.059059,26.788796,37.060006,9.86891,0.921852,'Aurobindo Unit III India',True,2.136807,45.78488,Adult
+'Direct Drop',DDP,Truck,'N/A - From RDC',Generic,400mg,'Delayed-release capsules',29.029029,0.403227,0.839393,14.788502,2.765556,'Aurobindo Unit III India',False,1.519792,0.801719,Adult
+'Direct Drop',EXW,Air,11/9/12,Generic,10mg/ml,'Oral solution',239.239239,1.112907,0.243801,1.560596,0.041902,'Aurobindo Unit III India',False,0.509708,0.23351,Pediatric
+'Direct Drop',EXW,Air,1/23/12,Stat-Pak,300mg,'Test kit',19.019019,0.546776,1.656589,21.551083,6.075843,'Chembio Diagnostics Sys. Inc.',True,0.149297,1.79284,'HIV test'
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,200/300mg,'Tablet - FDC',29.029029,1.611296,1.97413,8.731905,1.634192,'Mylan (formerly Matrix) Nashik',True,0.104974,3.286009,Adult
+'From RDC','N/A - From RDC',Truck,'N/A - From RDC',Generic,600mg,Tablet,29.029029,31.375908,15.035038,3.418448,0.628536,'Aurobindo Unit III India',False,12.02887,25.029708,Adult
+'From RDC','N/A - From RDC','Air Charter','N/A - From RDC',Generic,200/300mg,'Tablet - FDC',29.029029,102.792267,125.815223,8.731905,1.634192,'Mylan (formerly Matrix) Nashik',True,5.999855,190.408176,Adult
+'Direct Drop',DDP,Truck,3/9/15,Generic,300mg,Tablet,29.029029,0.220968,0.320347,10.270206,1.927509,'Mylan (formerly Matrix) Nashik',False,1.519792,0.254267,Adult
+'Direct Drop',EXW,Air,11/19/09,Generic,200/50mg,Tablet,119.119119,1.191939,4.662306,27.86778,1.298973,'Aurobindo Unit III India',True,0.236775,7.761622,Adult
+'From RDC','N/A - From RDC',Truck,'N/A - From RDC',Generic,10mg/ml,'Oral solution',239.239239,3.224204,0.705646,1.560596,0.041902,'Aurobindo Unit III India',False,8.795667,0.674585,Pediatric
+'From RDC','N/A - From RDC',Truck,'N/A - From RDC',Generic,10mg/ml,'Oral solution',239.239239,3.224204,0.705646,1.560596,0.041902,'Aurobindo Unit III India',False,6.570215,0.674585,Pediatric
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,30/50/60mg,'Chewable/dispersible tablet - FDC',59.059059,4.161304,1.626137,2.786778,0.251414,'Strides Bangalore India.',True,0.128302,1.290793,Pediatric
+'Direct Drop',DDP,Truck,12/2/13,Generic,10mg/ml,'Oral solution',239.239239,0.004839,0.004499,4.979043,0.125707,'Aurobindo Unit III India',False,1.519792,0.003892,Pediatric
+'Direct Drop',FCA,Air,3/8/13,Kaletra,80/20mg/ml,'Oral solution',299.299299,0.030645,0.204369,45.197824,0.838047,'ABBVIE (Abbott) Logis. UK',True,0.060652,0.194592,Pediatric
+'From RDC','N/A - From RDC','Air Charter','N/A - From RDC',Generic,200mg,Tablet,59.059059,31.745264,7.473732,1.679498,0.167609,'Strides Bangalore India.',True,2.021335,7.138928,Adult
+'Direct Drop',EXW,Air,6/26/09,Generic,150mg,Tablet,59.059059,44.321111,11.080663,1.783538,0.167609,'Aurobindo Unit III India',False,3.61461,16.76993,Adult
+'Direct Drop',EXW,Air,9/10/13,Generic,150/300/200mg,'Tablet - FDC',59.059059,98.271285,82.917624,6.019441,0.544731,'Cipla Goa India',True,10.075185,79.197607,Adult
+'From RDC','N/A - From RDC',Truck,'N/A - From RDC',Generic,200mg,Tablet,59.059059,193.547399,45.56459,1.679498,0.167609,'Aurobindo Unit III India',True,13.318886,43.51983,Adult
+'From RDC','N/A - From RDC',Truck,'N/A - From RDC',Aluvia,200/50mg,Tablet,119.119119,14.127465,29.759322,15.026307,0.71234,'ABBVIE Ludwigshafen Germany',True,2.09715,28.424688,Adult
+'Direct Drop',EXW,Air,2/18/09,Uni-Gold,300mg,'Test kit',19.019019,1.8742,6.252698,23.780506,6.704379,'Trinity Biotech Plc',True,0.449056,9.462356,'HIV test'
+'Direct Drop',EXW,Air,4/29/09,Generic,250mg,'Delayed-release capsules',29.029029,0.240323,0.327621,9.660831,1.801802,'Aurobindo Unit III India',True,0.034991,0.495561,Adult
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,150mg,Tablet,59.059059,0.693551,0.209997,2.155108,0.209512,'Aurobindo Unit III India',True,0.439725,0.259456,Adult
+'Direct Drop',DDP,Ocean,3/28/11,Generic,150mg,Tablet,59.059059,709.678096,179.637387,1.805832,0.167609,'Strides Bangalore India.',True,22.819046,228.863428,Adult
+'Direct Drop',FCA,Air,3/30/09,Kaletra,80/20mg/ml,'Oral solution',299.299299,0.079033,0.345263,30.543087,0.586633,'ABBVIE (Abbott) Logis. UK',True,0.115472,0.522804,Pediatric
+'Direct Drop',DDP,Truck,9/22/09,Generic,150mg,Tablet,59.059059,13.137139,13.28277,7.215897,0.670438,'Aurobindo Unit III India',False,1.519792,20.102641,Adult
+'Direct Drop',DDP,Truck,12/23/09,Generic,50mg,Capsule,29.029029,0.369356,0.161272,3.098897,0.586633,'Aurobindo Unit III India',False,1.519792,0.268537,Pediatric
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,1mg/ml,'Oral solution',199.199199,14.595208,2.204725,1.077554,0.041902,'Aurobindo Unit III India',True,1.264355,2.724287,Pediatric
+'Direct Drop',DDP,Truck,10/9/14,Generic,400mg,'Delayed-release capsules',29.029029,0.012903,0.023093,11.34776,2.137021,'Aurobindo Unit III India',False,1.519792,0.018162,Adult
+'From RDC','N/A - From RDC',Truck,'N/A - From RDC',Generic,300/300mg,'Tablet - FDC',29.029029,44.135626,21.103083,3.411016,0.628536,'Ranbaxy per Shasun Pharma',True,3.365004,16.750471,Adult
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,300mg,Tablet,59.059059,12.23391,10.387433,6.056598,0.586633,'Aurobindo Unit III India',False,6.858311,12.832687,Adult
+'From RDC','N/A - From RDC',Truck,'N/A - From RDC',Generic,150/300mg,'Tablet - FDC',59.059059,161.28923,109.543187,4.845278,0.460926,'Hetero Unit III Hyderabad IN',True,10.328289,86.951445,Adult
+'Direct Drop',EXW,Air,1/16/09,Generic,300mg,Tablet,59.059059,0.540324,0.423388,5.573556,0.502828,'Mylan (formerly Matrix) Nashik',True,0.020995,0.640856,Adult
+'Direct Drop',CIP,Air,6/29/09,Atripla,600/200/300mg,'Tablet - FDC',29.029029,9.869387,51.822664,37.454297,7.039598,'MSD Haarlem NL',True,1.519792,78.42832,Adult
+'From RDC','N/A - From RDC',Truck,'N/A - From RDC',Generic,60/100/12mg,'Chewable/dispersible tablet - FDC',59.059059,12.730686,5.703,3.195505,0.293317,'Cipla Goa India',False,2.687338,5.447276,Pediatric
+'Direct Drop',FCA,Air,4/4/12,Generic,100/25mg,Tablet,59.059059,0.337098,0.261089,5.499242,0.502828,'ABBVIE Ludwigshafen Germany',True,0.04199,0.282807,Pediatric
+'Direct Drop',EXW,Air,3/30/11,Determine,300mg,'Test kit',99.099099,4.464531,36.14779,57.742041,3.268385,'Inverness Japan',True,0.732486,46.053417,'HIV test'
+'Direct Drop',EXW,Air,2/20/15,Determine,300mg,'Test kit - Ancillary',99.099099,0.030645,0.026882,5.945126,0.335219,'Alere Medical Co. Ltd.',False,1.519792,0.024648,'HIV test - Ancillary'
+'From RDC','N/A - From RDC',Truck,'N/A - From RDC',Generic,200mg,Tablet,59.059059,514.758112,118.501787,1.642341,0.167609,'Hetero Unit III Hyderabad IN',True,22.932184,94.061834,Adult
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,150/300mg,'Tablet - FDC',59.059059,0.401614,0.346943,6.138343,0.586633,'Aurobindo Unit III India',False,3.093238,0.376211,Adult
+'Direct Drop',EXW,Air,8/15/12,Generic,300mg,Tablet,59.059059,0.845164,0.582158,4.904729,0.460926,'Cipla Goa India',True,0.039657,0.630478,Adult
+'From RDC','N/A - From RDC',Truck,'N/A - From RDC',Generic,600mg,Tablet,29.029029,23.172655,8.786896,2.705033,0.502828,'Strides Bangalore India.',True,5.142567,9.511652,Adult
+'From RDC','N/A - From RDC','Air Charter','N/A - From RDC',Generic,150/300mg,'Tablet - FDC',59.059059,239.626579,162.747218,4.845278,0.460926,'Aurobindo Unit III India',False,22.389818,129.18178,Adult
+'Direct Drop',DDP,Truck,8/24/15,Generic,400mg,'Delayed-release capsules',29.029029,0.01129,0.020528,11.34776,2.137021,'Aurobindo Unit III India',False,1.519792,0.016865,Adult
+'From RDC','N/A - From RDC',Truck,'N/A - From RDC',Generic,600/300mg,'Tablet - FDC',29.029029,5.482276,7.723131,10.047264,1.885607,'Mylan (formerly Matrix) Nashik',True,0.288096,7.37633,Adult
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,200mg,Capsule,89.089089,0.337098,0.538408,11.340329,0.71234,'Aurobindo Unit III India',False,2.431901,0.814691,Pediatric
+'Direct Drop',DDP,Ocean,9/24/10,Generic,150mg,Tablet,59.059059,40.872712,10.090833,1.761244,0.167609,'Aurobindo Unit III India',True,1.491799,16.79847,Adult
+'From RDC','N/A - From RDC','Air Charter','N/A - From RDC',Generic,600mg,Tablet,29.029029,0.445163,0.318793,5.090515,0.963754,'Aurobindo Unit III India',True,0.062984,0.482588,Adult
+'Direct Drop',DDP,Ocean,3/24/11,Generic,50mg,Capsule,29.029029,72.953461,18.542718,1.813264,0.335219,'Aurobindo Unit III India',True,3.118898,23.623457,Pediatric
+'Direct Drop',DDP,Truck,12/2/13,Generic,250mg,'Delayed-release capsules',29.029029,0.025807,0.040761,10.604619,2.011314,'Aurobindo Unit III India',False,1.519792,0.038918,Adult
+'Direct Drop',EXW,Air,10/29/14,Determine,300mg,'Test kit',99.099099,9.691967,89.867416,66.139532,3.729311,'Alere Medical Co. Ltd.',True,7.00994,71.333499,'HIV test'
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,300mg,Tablet,59.059059,9.240352,26.503218,20.458667,1.927509,'Aurobindo Unit III India',True,0.66367,32.743331,Adult
+'Direct Drop',DDP,Truck,7/21/09,Norvir,100mg,Capsule,83.083083,0.529034,0.562118,7.557742,0.502828,'ABBVIE (Abbott) Logis. UK',True,1.519792,0.851015,Adult
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,150/300/200mg,'Tablet - FDC',59.059059,161.28923,172.883343,7.646919,0.71234,'Mylan (formerly Matrix) Nashik',True,15.227082,187.153302,Adult
+'From RDC','N/A - From RDC',Truck,'N/A - From RDC',Generic,300/300mg,'Tablet - FDC',29.029029,125.937503,70.315893,3.983235,0.754243,'Mylan (formerly Matrix) Nashik',True,8.736181,89.584923,Adult
+'From RDC','N/A - From RDC',Truck,'N/A - From RDC',Generic,150/30mg,'Tablet - FDC',59.059059,28.224285,11.466752,2.898249,0.251414,'Mylan (formerly Matrix) Nashik',True,1.506962,17.353706,Adult
+'Direct Drop',DDP,Truck,6/25/14,Generic,20mg/ml,'Oral solution',239.239239,0.037097,0.098832,18.214381,0.419024,'Aurobindo Unit III India',True,1.519792,0.077837,Pediatric
+'Direct Drop',EXW,Air,4/28/08,Determine,300mg,'Test kit',99.099099,0.159678,1.209511,53.498707,3.01697,'Inverness Japan',True,0.029159,1.494466,'HIV test'
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,600mg,Tablet,29.029029,55.729212,25.078831,3.210368,0.586633,'Emcure Plot No.P-2 I.T-B.T. Park Phase II MIDC Hinjwadi Pune India',False,3.072243,31.950693,Adult
+'Direct Drop',EXW,Air,4/29/09,Generic,30mg,Capsule,59.059059,9.753257,1.473389,1.077554,0.083805,'Aurobindo Unit III India',False,2.104148,2.230023,Adult
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Kaletra,80/20mg/ml,'Oral solution',299.299299,1.014519,4.350309,30.543087,0.586633,'ABBVIE (Abbott) Logis. UK',True,0.096809,5.374628,Pediatric
+'From RDC','N/A - From RDC',Truck,'N/A - From RDC',Generic,150/30mg,'Tablet - FDC',59.059059,12.001652,3.250879,1.932166,0.167609,'Hetero Unit III Hyderabad IN',True,14.472435,2.580289,Adult
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,300/300mg,'Tablet - FDC',29.029029,11.498424,5.630217,3.492762,0.670438,'Aurobindo Unit VII IN',True,0.780308,5.377223,Adult
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,200mg,'Chewable/dispersible tablet',59.059059,9.701644,15.666692,11.518683,1.089462,'Aurobindo Unit III India',False,7.682941,26.080504,Pediatric
+'From RDC','N/A - From RDC',Truck,'N/A - From RDC',Generic,600/200/300mg,'Tablet - FDC',29.029029,30.666228,43.733548,10.173598,1.927509,'Mylan (formerly Matrix) Nashik',False,5.380508,41.771098,Adult
+'Direct Drop',DDP,Truck,8/29/14,Generic,150/300mg,'Tablet - FDC',59.059059,0.383872,1.314975,24.337862,2.30463,'Hetero Unit III Hyderabad IN',False,1.519792,1.255766,Adult
+'Direct Drop',FCA,Air,3/2/15,Norvir,100mg,Tablet,29.029029,0.64355,1.563175,17.285455,3.268385,'ABBVIE Ludwigshafen Germany',True,1.519792,1.420521,Adult
+'From RDC','N/A - From RDC',Truck,'N/A - From RDC',Generic,150/300mg,'Tablet - FDC',59.059059,6.058084,4.248093,5.001338,0.460926,'Aurobindo Unit III India',False,8.058515,3.371629,Adult
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Aluvia,200/50mg,Tablet,119.119119,0.12742,0.55242,30.543087,1.42468,'ABBVIE Ludwigshafen Germany',True,0.022161,0.835448,Adult
+'Direct Drop',EXW,Air,1/15/13,Stat-Pak,300mg,'Test kit',19.019019,3.224204,9.744639,21.551083,6.075843,'Chembio Diagnostics Sys. Inc.',True,0.671835,9.307979,'HIV test'
+'Direct Drop',EXW,Air,8/9/12,Generic,150/300mg,'Tablet - FDC',59.059059,29.766225,21.953745,5.261437,0.502828,'Hetero Unit III Hyderabad IN',False,12.339127,23.766158,Adult
+'Direct Drop',EXW,Air,3/13/15,Determine,300mg,'Test kit',99.099099,9.272611,77.285071,59.451265,3.352189,'Alere Medical Co. Ltd.',True,3.935364,70.237298,'HIV test'
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,150/300/200mg,'Tablet - FDC',59.059059,72.761525,85.04178,8.33804,0.796145,'Mylan (formerly Matrix) Nashik',True,6.830317,108.346176,Adult
+'From RDC','N/A - From RDC',Truck,'N/A - From RDC',Generic,300/300mg,'Tablet - FDC',29.029029,12.000039,10.288899,6.116049,1.131364,'Mylan (formerly Matrix) Nashik',True,0.765145,13.109008,Adult
+'Direct Drop',EXW,Air,6/21/07,Stat-Pak,300mg,'Test kit',19.019019,12.901655,36.290381,20.064802,5.65682,'Chembio Diagnostics Sys. Inc.',True,3.036085,44.833974,'HIV test'
+'Direct Drop',EXW,Air,5/29/15,Generic,50mg,'Chewable/dispersible tablet',29.029029,3.712915,0.483662,0.928926,0.167609,'Aurobindo Unit III India',True,0.166792,0.439778,Pediatric
+'Direct Drop',EXW,Air,10/4/12,Determine,300mg,'Test kit',99.099099,3.791948,31.612954,59.451265,3.352189,'Alere Medical Co. Ltd.',True,1.185041,34.222229,'HIV test'
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,200mg,Tablet,59.059059,0.866132,0.322692,2.653013,0.251414,'Aurobindo Unit III India',False,1.931524,0.398265,Adult
+'Direct Drop',EXW,Air,10/30/14,Generic,200mg,Tablet,59.059059,6.933893,1.560486,1.605184,0.167609,'Hetero Unit III Hyderabad IN',False,0.706826,1.417926,Adult
+'Direct Drop',DDP,Ocean,3/28/11,Generic,200mg,Tablet,59.059059,208.358737,59.035337,2.021343,0.209512,'Cipla Goa India',True,1.519792,75.212365,Adult
+'Direct Drop',EXW,Air,5/20/14,Uni-Gold,300mg,'Test kit',19.019019,0.025807,0.091398,23.780506,6.704379,'Trinity Biotech Plc',False,0.130634,0.072648,'HIV test'
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Truvada,300/200mg,'Tablet - FDC',29.029029,72.579266,198.463022,19.507446,3.687408,'Aspen-OSD Port Elizabeth SA',False,7.142907,245.185796,Adult
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,300mg,Tablet,59.059059,0.85968,0.876544,7.260486,0.670438,'Ranbaxy Paonta Shahib India',False,0.178456,1.083228,Adult
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,150/30mg,'Tablet - FDC',29.029029,1.711296,0.356855,1.486282,0.293317,'Cipla Goa India',False,0.073482,0.441075,Adult
+'From RDC','N/A - From RDC','Air Charter','N/A - From RDC',Generic,200/300mg,'Tablet - FDC',29.029029,105.647115,129.309432,8.731905,1.634192,'Mylan (formerly Matrix) Nashik',True,6.876973,215.265346,Adult
+'Direct Drop',EXW,Air,10/7/10,Bioline,300mg,'Test kit',24.024024,0.191936,0.403226,14.862816,3.352189,'Standard Diagnostics Korea',True,0.046655,0.670693,'HIV test'
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,150mg,Tablet,59.059059,9.525837,2.421556,1.813264,0.167609,'Aurobindo Unit III India',True,0.330085,3.664814,Adult
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,10mg/ml,'Oral solution',239.239239,3.145171,0.688358,1.560596,0.041902,'Aurobindo Unit III India',False,18.702893,0.657721,Pediatric
+'Direct Drop',EXW,Air,7/2/09,Uni-Gold,300mg,'Test kit',19.019019,0.401614,1.344088,23.780506,6.704379,'Trinity Biotech Plc',True,0.102641,2.034134,'HIV test'
+'Direct Drop',EXW,Air,10/16/12,Determine,300mg,'Test kit',99.099099,4.424208,41.03098,66.139532,3.729311,'Alere Medical Co. Ltd.',True,1.383326,44.417548,'HIV test'
+'Direct Drop',EXW,Air,6/12/12,Generic,200mg,Tablet,59.059059,36.288827,8.883583,1.746381,0.167609,'Aurobindo Unit III India',True,2.501884,9.616732,Adult
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,15mg,Capsule,59.059059,0.056452,0.009073,1.114711,0.083805,'Aurobindo Unit III India',False,0.964596,0.01427,Adult
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,150/300mg,'Tablet - FDC',59.059059,0.343549,0.31496,6.509913,0.628536,'Aurobindo Unit III India',True,0.022161,0.476102,Adult
+'Direct Drop',DDP,Truck,8/27/14,Generic,600mg,Tablet,29.029029,0.183872,0.323169,12.432746,2.346533,'Hetero Unit III Hyderabad IN',True,1.519792,0.308752,Adult
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,150/300/200mg,'Tablet - FDC',59.059059,96.772893,83.266263,6.138343,0.586633,'Cipla Goa India',True,9.164243,79.531008,Adult
+'Direct Drop',EXW,Air,10/16/12,Determine,300mg,'Test kit',99.099099,4.424208,41.03098,66.139532,3.729311,'Alere Medical Co. Ltd.',True,1.440478,44.417548,'HIV test'
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,10mg/ml,'Oral suspension',239.239239,32.256556,6.55243,1.449125,0.041902,'Aurobindo Unit III India',True,8.705855,8.347993,Pediatric
+'Direct Drop',EXW,Air,8/28/07,Stat-Pak,300mg,'Test kit',19.019019,16.127471,45.362976,20.064802,5.65682,'Chembio Diagnostics Sys. Inc.',True,3.805896,56.042468,'HIV test'
+'Direct Drop',FCA,Air,1/25/12,Aluvia,200/50mg,Tablet,119.119119,3.098397,19.639823,45.197824,2.137021,'ABBVIE Ludwigshafen Germany',True,0.544699,21.261111,Adult
+'Direct Drop',DDP,Truck,6/5/12,Determine,300mg,'Test kit',99.099099,2.014523,27.039274,95.679379,5.405405,'Alere Medical Co. Ltd.',True,1.519792,29.270514,'HIV test'
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,150/30mg,'Tablet - FDC',29.029029,2.579041,0.537635,1.486282,0.293317,'Cipla Goa India',True,2.93811,0.664207,Adult
+'From RDC','N/A - From RDC','Air Charter','N/A - From RDC',Generic,150/300mg,'Tablet - FDC',59.059059,5.209694,4.75531,6.509913,0.628536,'Aurobindo Unit III India',False,2.182296,7.196009,Adult
+'From RDC','N/A - From RDC',Truck,'N/A - From RDC',Generic,60/30mg,'Tablet - FDC',59.059059,3.546786,1.478497,2.972563,0.293317,'Aurobindo Unit III India',True,0.12247,1.412737,Pediatric
+'Direct Drop',DDP,Truck,8/27/14,Aluvia,200/50mg,Tablet,119.119119,0.035484,0.099541,19.143307,0.87995,'ABBVIE Ludwigshafen Germany',False,1.519792,0.094701,Adult
+'Direct Drop',FCA,Air,4/25/13,Videx,25mg,'Chewable/dispersible tablet',59.059059,0.598389,0.437501,5.201986,0.502828,'Bristol-Myers Squibb Anagni IT',True,0.110806,0.417724,Pediatric
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,150mg,Tablet,59.059059,2.954848,0.751433,1.813264,0.167609,'Aurobindo Unit III India',True,0.102641,1.137714,Adult
+'Direct Drop',EXW,Air,2/13/13,Generic,600/300/300mg,'Tablet - FDC',29.029029,75.485727,90.348765,8.538688,1.59229,'Mylan (formerly Matrix) Nashik',True,6.159649,86.295022,Adult
+'Direct Drop',DDP,Air,'N/A - From RDC',Generic,600mg,Tablet,29.029029,4.877435,7.984346,11.674742,2.178923,'Aurobindo Unit III India',True,1.519792,12.08286,Adult
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,150/30mg,'Tablet - FDC',29.029029,23.892013,4.977831,1.486282,0.293317,'Cipla Goa India',False,5.35718,7.533301,Adult
+'Direct Drop',DDP,Truck,8/13/13,Generic,150/300mg,'Tablet - FDC',59.059059,0.303227,1.039876,24.337862,2.30463,'Hetero Unit III Hyderabad IN',False,1.519792,0.993716,Adult
+'Direct Drop',DDP,Truck,10/9/14,Intelence,100mg,Tablet,119.119119,0.004839,0.01849,20.443804,0.963754,'Janssen-Cilag Latina IT',False,1.519792,0.01427,Adult
+'Direct Drop',EXW,Air,2/20/15,Determine,300mg,'Test kit',99.099099,0.111291,1.046709,66.139532,3.729311,'Alere Medical Co. Ltd.',True,1.519792,0.950906,'HIV test'
+'Direct Drop',CIP,Air,6/3/14,Isentress,400mg,Tablet,59.059059,0.258065,1.501263,41.244315,3.855018,'MSD Haarlem NL',True,1.519792,1.1922,Adult
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,600mg,Tablet,29.029029,5.077436,8.602625,12.08347,2.262728,'Aurobindo Unit III India',False,1.658591,10.627312,Adult
+'Direct Drop',DDP,Truck,7/21/09,Generic,50mg,Capsule,29.029029,7.917767,3.141618,2.831366,0.544731,'Aurobindo Unit III India',True,1.519792,4.754529,Pediatric
+'Direct Drop',DDP,Ocean,9/24/10,Generic,300mg,Tablet,59.059059,16.70328,12.754861,5.447222,0.502828,'Aurobindo Unit III India',True,0.610016,21.233868,Adult
+'Direct Drop',EXW,Air,5/20/14,Uni-Gold,300mg,'Test kit',19.019019,0.009677,0.037634,23.780506,6.704379,'Trinity Biotech Plc',False,0.130634,0.029837,'HIV test'
+'Direct Drop',DDP,Truck,8/3/09,Generic,1mg/ml,'Oral solution',199.199199,0.48226,0.126625,1.865283,0.041902,'Aurobindo Unit III India',False,1.519792,0.191997,Pediatric
+'Direct Drop',DDP,Truck,12/2/13,Zerit,20mg,Capsule,59.059059,0.01129,0.006442,3.559644,0.335219,'Bristol-Myers Squibb Anagni IT',False,1.519792,0.006486,Adult
+'From RDC','N/A - From RDC',Truck,'N/A - From RDC',Generic,600mg,Tablet,29.029029,8.062929,10.089062,8.925121,1.676095,'Mylan (formerly Matrix) Nashik',True,4.953613,12.46426,Adult
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Invirase,200mg,Capsule,269.269269,1.027423,8.429503,58.440593,1.215169,'Roche Basel',False,1.531456,31.149964,Adult
+'From RDC','N/A - From RDC',Truck,'N/A - From RDC',Generic,30/60mg,'Tablet - FDC',59.059059,2.790332,0.657269,1.679498,0.167609,'Mylan (formerly Matrix) Nashik',True,0.088645,0.627883,Pediatric
+'From RDC','N/A - From RDC',Truck,'N/A - From RDC',Generic,200mg,Tablet,59.059059,4.067755,1.356454,2.378051,0.209512,'Hetero Unit III Hyderabad IN',True,0.682332,2.052296,Adult
+'Direct Drop',FCA,Air,2/4/13,Generic,100/25mg,Tablet,59.059059,4.643563,2.874198,4.414256,0.419024,'ABBVIE Ludwigshafen Germany',True,0.390737,2.745043,Pediatric
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,150/300mg,'Tablet - FDC',59.059059,5.804857,5.298396,6.509913,0.628536,'Hetero Unit III Hyderabad IN',True,0.277598,8.820202,Adult
+'Direct Drop',DDP,Ocean,9/24/10,Generic,600mg,Tablet,29.029029,41.43723,19.553923,3.366428,0.628536,'Aurobindo Unit III India',True,1.519792,32.552631,Adult
+'Direct Drop',DDP,Air,'N/A - From RDC',Zerit,30mg,Capsule,59.059059,16.546828,6.58489,2.838798,0.251414,'BMS Meymac France',False,1.519792,9.9657,Adult
+'Direct Drop',EXW,Air,8/1/11,Determine,300mg,'Test kit',99.099099,2.41775,20.161323,59.451265,3.352189,'Inverness Japan',True,0.832795,25.686131,'HIV test'
+'Direct Drop',EXW,Air,7/4/07,Generic,10mg/ml,'Oral suspension',239.239239,1.611296,0.322581,1.42683,0.041902,'Aurobindo Unit III India',True,1.097563,0.398265,Pediatric
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,20mg/ml,'Oral solution',239.239239,0.54355,1.195382,15.643114,0.377121,'Aurobindo Unit III India',True,10.504412,1.476304,Pediatric
+'From RDC','N/A - From RDC',Truck,'N/A - From RDC',Generic,200/50mg,Tablet,119.119119,28.385575,78.95174,19.84186,0.921852,'Mylan (formerly Matrix) Nashik',False,6.37543,85.468655,Adult
+'From RDC','N/A - From RDC',Truck,'N/A - From RDC',Generic,200mg,Tablet,59.059059,225.805567,59.039074,1.865283,0.167609,'Hetero Unit III Hyderabad IN',True,10.24431,98.284478,Adult
+'Direct Drop',EXW,Air,2/1/11,Generic,400mg,'Delayed-release capsules',29.029029,3.587108,7.476491,14.862816,2.807459,'Aurobindo Unit III India',True,0.20295,9.524625,Adult
+'Direct Drop',EXW,Air,6/11/12,Generic,150/300/200mg,'Tablet - FDC',59.059059,3.764528,3.668059,6.948367,0.670438,'Mylan (formerly Matrix) Nashik',False,3.441985,3.970972,Adult
+'Direct Drop',EXW,Air,8/5/13,Determine,300mg,'Test kit - Ancillary',99.099099,0.183872,0.15457,5.945126,0.335219,'Alere Medical Co. Ltd.',True,0.173791,0.14789,'HIV test - Ancillary'
+'Direct Drop',DDP,Air,11/12/07,Retrovir,10mg/ml,'Oral solution',199.199199,0.062903,0.05336,5.900538,0.167609,'GSK Mississauga (Canada)',True,1.519792,0.066161,Pediatric
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Aluvia,200/50mg,Tablet,119.119119,0.385485,1.657261,30.543087,1.42468,'ABBVIE Ludwigshafen Germany',True,0.060652,2.047107,Adult
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,600mg,Tablet,29.029029,71.184101,92.096368,9.229809,1.717997,'Aurobindo Unit III India',True,4.761161,113.777885,Adult
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,150/300/200mg,'Tablet - FDC',59.059059,64.179239,59.968887,6.665973,0.628536,'Aurobindo Unit III India',True,5.432995,57.278775,Adult
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,300mg,Tablet,59.059059,0.141936,0.218762,10.87215,1.005657,'Mylan (formerly Matrix) Nashik',False,0.232109,0.278915,Adult
+'Direct Drop',EXW,Air,3/21/14,Generic,300/100mg,Tablet,29.029029,2.903235,6.051757,14.862816,2.807459,'Mylan (formerly Matrix) Nashik',True,0.262435,4.803825,Adult
+'Direct Drop',CIP,Air,9/27/10,Generic,400mg,'Delayed-release capsules',29.029029,0.958068,2.024323,15.048601,2.849361,'Aurobindo Unit III India',True,0.101475,3.370332,Adult
+'From RDC','N/A - From RDC',Truck,'N/A - From RDC',Generic,300mg,Tablet,59.059059,7.861316,13.014764,11.808507,1.089462,'Cipla Patalganga India',True,2.981266,16.581825,Adult
+'Direct Drop',FCA,Air,2/9/11,Norvir,100mg,Capsule,335.335335,0.020968,0.485743,153.466009,2.556044,'ABBVIE (Abbott) Logis. UK',True,0.060652,0.618802,Adult
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,150mg,Tablet,59.059059,15.024242,3.819065,1.813264,0.167609,'Strides Bangalore India.',False,11.504,6.357966,Adult
+'From RDC','N/A - From RDC',Truck,'N/A - From RDC',Generic,600mg,Tablet,29.029029,9.514547,4.30209,3.225231,0.586633,'Aurobindo Unit III India',False,21.117298,7.162279,Adult
+'From RDC','N/A - From RDC',Truck,'N/A - From RDC',Generic,150/300/200mg,'Tablet - FDC',59.059059,54.711467,46.221079,6.026872,0.586633,'Cipla Goa India',True,19.374727,36.688357,Adult
+'Direct Drop',EXW,Air,10/22/14,Uni-Gold,300mg,'Test kit',19.019019,12.901655,43.010822,23.780506,6.704379,'Trinity Biotech Plc',True,2.715331,39.088324,'HIV test'
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,150/300mg,'Tablet - FDC',59.059059,93.685786,92.711339,7.059838,0.670438,'Aurobindo Unit III India',True,9.731103,114.538091,Adult
+'Direct Drop',EXW,Air,2/1/11,Generic,250mg,'Delayed-release capsules',29.029029,2.619363,3.549233,9.660831,1.801802,'Aurobindo Unit III India',True,0.129468,4.522316,Adult
+'Direct Drop',CIP,Air,12/30/08,Atripla,600/200/300mg,'Tablet - FDC',29.029029,4.320982,22.693585,37.454297,7.039598,'MSD Haarlem NL',False,2.871626,34.344173,Adult
+'Direct Drop',DDP,Truck,10/9/14,Generic,200mg,Tablet,59.059059,0.037097,0.055393,10.210755,0.963754,'Aurobindo Unit III India',False,1.519792,0.044107,Adult
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,50mg,Capsule,29.029029,2.30162,0.53742,1.664635,0.293317,'Aurobindo Unit III India',True,1.23053,0.684963,Pediatric
+'From RDC','N/A - From RDC',Truck,'N/A - From RDC',Generic,600mg,Tablet,29.029029,16.127471,6.922054,3.06174,0.586633,'Strides Bangalore India.',True,1.225865,8.818905,Adult
+'From RDC','N/A - From RDC','Air Charter','N/A - From RDC',Truvada,300/200mg,'Tablet - FDC',29.029029,0.385485,1.058469,19.507446,3.687408,'Aspen-OSD Port Elizabeth SA',True,0.024494,1.60214,Adult
+'From RDC','N/A - From RDC','Air Charter','N/A - From RDC',Generic,200mg,Tablet,89.089089,17.325862,13.17608,5.424928,0.335219,'Strides Bangalore India.',True,0.872452,12.584907,Pediatric
+'From RDC','N/A - From RDC',Truck,'N/A - From RDC',Generic,150/300/200mg,'Tablet - FDC',59.059059,81.772844,65.760187,5.737047,0.544731,'Mylan (formerly Matrix) Nashik',False,12.145508,52.197332,Adult
+'Direct Drop',EXW,Air,12/26/12,'First Response',300mg,'Test kit',29.029029,12.901655,30.241984,16.720668,3.142678,'Premier Med. Corp Ltd. India',True,2.869293,28.885222,'HIV test'
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,30mg,Capsule,59.059059,1.014519,0.164063,1.151868,0.125707,'Aurobindo Unit III India',True,0.048988,0.24778,Adult
+'Direct Drop',EXW,Air,7/25/13,Generic,150mg,Tablet,59.059059,10.471002,1.930885,1.315359,0.125707,'Micro labs Verna Goa India',True,0.35108,1.844731,Adult
+'Direct Drop',EXW,Air,9/3/09,Uni-Gold,300mg,'Test kit',19.019019,3.224204,10.752706,23.780506,6.704379,'Trinity Biotech Plc',True,0.795471,16.273072,'HIV test'
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,300mg,Tablet,59.059059,3.729044,5.844687,11.176838,1.047559,'Mylan (formerly Matrix) Nashik',False,9.233059,7.446383,Adult
+'Direct Drop',DDP,Ocean,9/24/10,Generic,150/300mg,'Tablet - FDC',59.059059,40.321098,35.114304,6.212657,0.586633,'Aurobindo Unit III India',True,2.653513,58.455407,Adult
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Clearview,300mg,'Test kit',24.024024,0.111291,0.882058,55.735561,12.57071,'Inverness USA',True,0.050154,1.089715,'HIV test'
+'From RDC','N/A - From RDC',Truck,'N/A - From RDC',Generic,300mg,Tablet,59.059059,8.516157,4.879964,4.087274,0.377121,'Aurobindo Unit III India',True,0.36391,3.873676,Adult
+'Direct Drop',EXW,Air,4/7/08,Generic,300mg,'Test kit - Ancillary',99.099099,0.401614,0.00042,0.007431,0,'Inverness Japan',True,0.019828,0,'HIV test - Ancillary'
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,150/300mg,'Tablet - FDC',59.059059,9.675838,8.830659,6.509913,0.628536,'Mylan (formerly Matrix) Nashik',True,0.56686,13.364572,Adult
+'Direct Drop',EXW,Air,2/19/14,'Colloidal Gold',300mg,'Test kit',0,0.562905,1.440695,18.20695,102.6608,'KHB Test Kit Facility Shanghai China',True,0.279931,1.1442,'HIV test'
+'Direct Drop',DDP,Air,'N/A - From RDC',Generic,200mg,Capsule,89.089089,1.327424,2.606846,13.993341,0.87995,'Aurobindo Unit III India',False,1.519792,3.945026,Pediatric
+'From RDC','N/A - From RDC',Truck,'N/A - From RDC',Generic,60/30mg,'Tablet - FDC',59.059059,0.44355,0.189658,3.039446,0.293317,'Mylan (formerly Matrix) Nashik',False,6.209804,0.150484,Pediatric
+'Direct Drop',EXW,Air,4/30/14,Generic,30/50/60mg,'Chewable/dispersible tablet - FDC',59.059059,4.182272,1.568954,2.675307,0.251414,'Cipla Goa India',True,0.269434,1.245388,Pediatric
+'Direct Drop',EXW,Air,2/15/11,Generic,300mg,Tablet,59.059059,0.101613,0.161291,11.147112,1.047559,'Mylan (formerly Matrix) Nashik',False,2.46456,0.20497,Adult
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,150/300+200mg,'Tablet - FDC + co-blister',119.119119,4.358079,9.309743,15.234387,0.71234,'Aspen-OSD Port Elizabeth SA',False,0.979759,31.149964,Adult
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,150mg,Tablet,59.059059,0.067742,0.016833,1.731518,0.167609,'Hetero Unit III Hyderabad IN',True,0.002333,0.018162,Adult
+'Direct Drop',EXW,Air,1/18/12,Generic,10mg/ml,'Oral solution',239.239239,0.804841,0.176412,1.560596,0.041902,'Aurobindo Unit III India',False,0.636843,0.1907,Pediatric
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,600/300/300mg,'Tablet - FDC',29.029029,5.22421,5.579646,7.617193,1.42468,'Aurobindo Unit VII IN',True,0.716157,4.428912,Adult
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,300/300mg,'Tablet - FDC',29.029029,2.458072,1.232403,3.574507,0.670438,'Cipla Kurkumbh India',False,1.384492,1.333603,Adult
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,200/50mg,Tablet,119.119119,17.706509,54.747521,22.056419,1.047559,'Mylan (formerly Matrix) Nashik',True,3.360339,59.266207,Adult
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,150/300/200mg,'Tablet - FDC',59.059059,7.798412,16.656277,15.234387,1.42468,'Aurobindo Unit III India',True,0.619347,20.577445,Adult
+'From RDC','N/A - From RDC','Air Charter','N/A - From RDC',Generic,300/300mg,'Tablet - FDC',29.029029,29.601708,25.37864,6.116049,1.131364,'Mylan (formerly Matrix) Nashik',True,2.092485,32.33339,Adult
+'Direct Drop',EXW,Air,8/11/14,Generic,600/300/300mg,'Tablet - FDC',29.029029,33.637205,36.792398,7.802979,1.466583,'Hetero Unit III Hyderabad IN',True,3.451316,29.204353,Adult
+'From RDC','N/A - From RDC',Truck,'N/A - From RDC',Generic,600/300/300mg,'Tablet - FDC',29.029029,399.193223,448.261812,8.011058,1.508485,'Mylan (formerly Matrix) Nashik',False,53.350191,355.81259,Adult
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,300/300mg,'Tablet - FDC',29.029029,55.198565,27.025044,3.492762,0.670438,'Hetero Unit III Hyderabad IN',False,6.353268,21.451811,Adult
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,60/30mg,'Tablet - FDC',59.059059,0.006452,0.00336,2.972563,0.293317,'Aurobindo Unit III India',True,1.519792,0.002595,Pediatric
+'From RDC','N/A - From RDC',Truck,'N/A - From RDC',Generic,600/300mg,'Tablet - FDC',29.029029,0.787099,1.110768,10.047264,1.885607,'Mylan (formerly Matrix) Nashik',False,14.228662,0.88215,Adult
+'From RDC','N/A - From RDC',Truck,'N/A - From RDC',Generic,300mg,Tablet,29.029029,3.37743,1.274179,2.69017,0.502828,'Mylan (formerly Matrix) Nashik',False,0.698661,1.011878,Adult
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,600mg,Tablet,29.029029,2.998397,3.881256,9.229809,1.717997,'Cipla Goa India',True,4.771658,4.794744,Adult
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,200/50mg,Tablet,119.119119,13.698431,35.33464,18.400166,0.87995,'Aurobindo Unit III India',True,2.436566,33.750019,Adult
+'From RDC','N/A - From RDC',Truck,'N/A - From RDC',Generic,150/300mg,'Tablet - FDC',59.059059,245.89918,204.916997,5.945126,0.544731,'Mylan (formerly Matrix) Nashik',True,32.778759,261.070982,Adult
+'Direct Drop',EXW,Air,4/28/08,Uni-Gold,300mg,'Test kit',19.019019,0.804841,2.688176,23.780506,6.704379,'Trinity Biotech Plc',True,0.58319,3.321035,'HIV test'
+'Direct Drop',EXW,Truck,9/2/10,Norvir,100mg,Capsule,167.167167,0.556453,8.370981,107.012277,3.603604,'ABBVIE (Abbott) St. P burg USA',True,0.31259,13.935375,Adult
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,200/50mg,Tablet,119.119119,0.148388,0,0,0,'Mylan (formerly Matrix) Nashik',True,1.519792,0,Adult
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,150/200/30mg,'Tablet - FDC',59.059059,8.41293,6.4862,5.499242,0.502828,'Cipla Goa India',True,0.656672,9.816513,Adult
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Aluvia,200/50mg,Tablet,119.119119,4.159691,17.815553,30.543087,1.42468,'ABBVIE Ludwigshafen Germany',True,0.684665,22.009641,Adult
+'Direct Drop',FCA,Air,10/14/10,Norvir,100mg,Capsule,335.335335,0.017742,0.416351,153.466009,2.556044,'ABBVIE (Abbott) Logis. UK',True,0.059485,0.692747,Adult
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,150/300mg,'Tablet - FDC',59.059059,0.159678,0.147178,6.509913,0.628536,'Aurobindo Unit III India',True,5.34435,0.245186,Adult
+'From RDC','N/A - From RDC',Truck,'N/A - From RDC',Generic,150/200/30mg,'Tablet - FDC',59.059059,9.301643,4.186458,3.210368,0.293317,'Hetero Unit III Hyderabad IN',True,0.690497,3.32363,Adult
+'Direct Drop',EXW,Air,5/23/14,Generic,150/300/200mg,'Tablet - FDC',59.059059,46.535634,39.750501,6.093755,0.586633,'Aurobindo Unit III India',True,4.212962,31.552428,Adult
+'Direct Drop',DDP,Truck,11/28/14,Generic,300mg,Tablet,59.059059,0.061291,0.326655,37.045569,3.477897,'Aurobindo Unit III India',False,1.519792,0.259456,Adult
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,200mg,Tablet,59.059059,41.609812,14.737356,2.526679,0.251414,'Strides Bangalore India.',False,6.858311,18.207316,Adult
+'Direct Drop',EXW,Air,12/4/14,Determine,300mg,'Test kit',99.099099,10.041968,83.696372,59.451265,3.352189,'Alere Medical Co. Ltd.',True,2.947441,76.06338,'HIV test'
+'Direct Drop',EXW,Air,3/11/08,Determine,300mg,'Test kit',99.099099,1.538715,10.750185,49.790434,2.807459,'Inverness Japan',True,0.191286,13.281546,'HIV test'
+'From RDC','N/A - From RDC',Truck,'N/A - From RDC',Generic,300/300mg,'Tablet - FDC',29.029029,16.311343,10.331522,4.518296,0.838047,'Mylan (formerly Matrix) Nashik',False,3.173718,13.162196,Adult
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,600mg,Tablet,29.029029,109.069707,141.110792,9.229809,1.717997,'Aurobindo Unit III India',True,6.811655,174.330993,Adult
+'Direct Drop',EXW,Air,4/5/12,Uni-Gold,300mg,'Test kit',19.019019,12.0952,40.322646,23.780506,6.704379,'Trinity Biotech Plc',True,2.845966,51.372262,'HIV test'
+'From RDC','N/A - From RDC',Truck,'N/A - From RDC',Generic,600mg,Tablet,29.029029,6.772602,3.619966,3.812312,0.71234,'Mylan (formerly Matrix) Nashik',True,0.277598,6.025863,Adult
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,10mg/ml,'Oral solution',239.239239,5.362921,1.20143,1.597753,0.041902,'Aurobindo Unit III India',True,1.428815,1.484088,Pediatric
+'Direct Drop',EXW,Air,'N/A - From RDC',OraQuick,300mg,'Test kit',99.099099,0.022581,1.008066,297.256324,16.760947,'Pacific Biotech Thailand',True,0.04199,31.149964,'HIV test'
+'Direct Drop',EXW,Air,11/11/09,Generic,150/300mg,'Tablet - FDC',59.059059,35.495276,31.836221,6.398442,0.586633,'Aurobindo Unit III India',True,2.505383,48.180955,Adult
+'Direct Drop',EXW,Air,2/9/15,Generic,500/25mg,'Tablet - FDC',1000,0.933874,3.225476,24.597961,0.125707,'Micro Labs Hosur India',True,0.58319,2.931851,Malaria
+'Direct Drop',EXW,Air,10/3/11,Generic,300mg,Tablet,29.029029,11.524231,6.603337,4.087274,0.754243,'Mylan (formerly Matrix) Nashik',False,1.408986,8.412857,Adult
+'From RDC','N/A - From RDC',Truck,'N/A - From RDC',Generic,30/50/6mg,'Chewable/dispersible tablet - FDC',59.059059,0.764519,0.183552,1.709224,0.167609,'Cipla Goa India',True,2.311764,0.175133,Pediatric
+'From RDC','N/A - From RDC',Truck,'N/A - From RDC',Generic,150/300/200mg,'Tablet - FDC',59.059059,176.698957,206.518458,8.33804,0.796145,'Aurobindo Unit III India',True,23.696163,343.798486,Adult
+'From RDC','N/A - From RDC',Truck,'N/A - From RDC',Generic,300/300mg,'Tablet - FDC',29.029029,146.750473,71.84726,3.492762,0.670438,'Aurobindo Unit VII IN',True,25.661512,68.623483,Adult
+'Direct Drop',EXW,Air,2/20/15,Determine,300mg,'Test kit - Ancillary',0,0.030645,0.016801,3.715704,20.951184,'Alere Medical Co. Ltd.',False,1.519792,0.015567,'HIV test - Ancillary'
+'From RDC','N/A - From RDC',Truck,'N/A - From RDC',Generic,600mg,Tablet,29.029029,37.82109,17.020189,3.210368,0.586633,'Aurobindo Unit III India',True,2.412072,21.684024,Adult
+'Direct Drop',DDP,Truck,3/9/15,Generic,200mg,Capsule,89.089089,0.003226,0.008589,12.663119,0.796145,'Aurobindo Unit III India',False,1.519792,0.006486,Pediatric
+'Direct Drop',EXW,Ocean,9/22/11,Generic,150/300mg+600mg,'Tablet - FDC + co-blister',89.089089,75.571212,107.061329,10.106715,0.628536,'Aurobindo Unit III India',True,8.995118,136.399842,Adult
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Generic,10mg/ml,'Oral solution',239.239239,5.26292,1.179034,1.597753,0.041902,'Aurobindo Unit III India',False,3.430322,1.456845,Pediatric
+'Direct Drop',DDP,Truck,'N/A - From RDC',Viread,300mg,Tablet,29.029029,0.046774,0.124043,18.288695,3.435994,'Gilead(Nycomed) Oranienburg DE',False,1.519792,0.153079,Adult
+'Direct Drop',EXW,Air,10/29/09,Bioline,300mg,'Test kit',24.024024,8.191962,17.06992,14.862816,3.352189,'Standard Diagnostics Korea',True,1.975847,28.416904,'HIV test'
+'Direct Drop',DDP,Truck,'N/A - From RDC',Generic,50mg,Capsule,29.029029,3.459689,1.096524,2.259148,0.419024,'Aurobindo Unit III India',False,1.519792,1.046904,Pediatric
+'Direct Drop',EXW,Air,9/7/11,Uni-Gold,300mg,'Test kit',19.019019,0.091936,0.311828,23.780506,6.704379,'Trinity Biotech Plc',True,0.022161,0.396967,'HIV test'
+'From RDC','N/A - From RDC',Truck,'N/A - From RDC',Generic,200mg,Capsule,89.089089,1.095165,1.743417,11.340329,0.71234,'Aurobindo Unit III India',False,12.458098,2.638666,Pediatric
+'From RDC','N/A - From RDC',Truck,'N/A - From RDC',Generic,30/50/60mg,'Chewable/dispersible tablet - FDC',59.059059,268.662157,100.748751,2.675307,0.251414,'Mylan  H-12 & H-13 India',False,30.185898,91.560679,Pediatric
+'From RDC','N/A - From RDC',Air,'N/A - From RDC',Truvada,300/200mg,'Tablet - FDC',29.029029,0.229033,0.630671,19.507446,3.687408,'Aspen-OSD Port Elizabeth SA',True,0.016329,0.954798,Adult
+'Direct Drop',EXW,Ocean,9/10/13,Generic,600mg,Tablet,29.029029,102.663234,34.114618,2.370619,0.460926,'Strides Bangalore India.',True,4.622361,32.583765,Adult
+'From RDC','N/A - From RDC','Air Charter','N/A - From RDC',Generic,200mg,Tablet,59.059059,127.797186,33.414007,1.865283,0.167609,'Aurobindo Unit III India',False,17.274078,36.17204,Adult

@@ -1,0 +1,620 @@
+'fulfill via','dosage form','unit of measure (per pack)','first line designation','sub classification'
+'Direct Drop',Tablet,59.059059,True,Adult
+'Direct Drop','Oral suspension',239.239239,True,Pediatric
+'From RDC','Test kit',19.019019,False,'HIV test'
+'From RDC',Capsule,59.059059,True,Adult
+'Direct Drop','Test kit',24.024024,True,'HIV test'
+'Direct Drop','Oral solution',239.239239,False,Pediatric
+'From RDC','Tablet - FDC',29.029029,True,Adult
+'From RDC',Tablet,29.029029,True,Adult
+'From RDC',Tablet,119.119119,False,Adult
+'Direct Drop','Oral solution',299.299299,True,Pediatric
+'Direct Drop',Tablet,119.119119,True,Adult
+'From RDC','Tablet - FDC',29.029029,True,Adult
+'Direct Drop','Test kit',19.019019,True,'HIV test'
+'Direct Drop','Tablet - FDC',29.029029,False,Adult
+'Direct Drop',Capsule,89.089089,False,Pediatric
+'Direct Drop','Oral solution',299.299299,True,Pediatric
+'Direct Drop',Tablet,59.059059,True,Adult
+'From RDC',Tablet,119.119119,False,Adult
+'Direct Drop','Chewable/dispersible tablet',59.059059,True,Pediatric
+'From RDC','Tablet - FDC',59.059059,False,Adult
+'From RDC',Tablet,119.119119,True,Adult
+'Direct Drop',Tablet,59.059059,False,Adult
+'Direct Drop',Tablet,59.059059,True,Adult
+'From RDC','Oral solution',239.239239,True,Pediatric
+'Direct Drop','Test kit',39.039039,True,'HIV test'
+'From RDC','Chewable/dispersible tablet - FDC',59.059059,True,Pediatric
+'From RDC','Test kit',17.017017,True,'HIV test'
+'Direct Drop',Capsule,179.179179,False,Adult
+'From RDC',Capsule,59.059059,False,Adult
+'From RDC','Tablet - FDC',29.029029,True,Adult
+'Direct Drop','Test kit',19.019019,False,'HIV test'
+'Direct Drop','Tablet - FDC',1000.0,True,Malaria
+'Direct Drop','Test kit - Ancillary',0.0,True,'HIV test - Ancillary'
+'Direct Drop','Test kit',19.019019,True,'HIV test'
+'From RDC',Tablet,59.059059,True,Adult
+'Direct Drop','Test kit',99.099099,True,'HIV test'
+'Direct Drop','Tablet - FDC',59.059059,True,Adult
+'From RDC',Tablet,59.059059,True,Adult
+'Direct Drop','Test kit',24.024024,True,'HIV test'
+'Direct Drop','Test kit',0.0,True,'HIV test'
+'From RDC','Tablet - FDC',59.059059,False,Adult
+'Direct Drop','Test kit',19.019019,False,'HIV test'
+'From RDC',Tablet,29.029029,True,Adult
+'From RDC',Tablet,119.119119,True,Adult
+'From RDC',Capsule,29.029029,True,Pediatric
+'Direct Drop','Test kit',99.099099,True,'HIV test'
+'Direct Drop','Test kit',24.024024,True,'HIV test'
+'From RDC','Tablet - FDC',29.029029,False,Adult
+'Direct Drop','Test kit',99.099099,True,'HIV test'
+'From RDC',Tablet,29.029029,True,Adult
+'From RDC','Tablet - FDC',29.029029,True,Adult
+'From RDC','Tablet - FDC',29.029029,True,Adult
+'Direct Drop','Oral suspension',239.239239,True,Pediatric
+'Direct Drop','Tablet - FDC',59.059059,True,Adult
+'From RDC',Tablet,59.059059,True,Adult
+'Direct Drop',Tablet,29.029029,True,Adult
+'From RDC',Tablet,29.029029,True,Adult
+'Direct Drop','Tablet - FDC',29.029029,False,Adult
+'Direct Drop',Capsule,179.179179,True,Adult
+'Direct Drop','Oral solution',239.239239,True,Pediatric
+'Direct Drop',Tablet,119.119119,True,Adult
+'From RDC','Chewable/dispersible tablet - FDC',59.059059,False,Pediatric
+'From RDC',Capsule,59.059059,False,Adult
+'From RDC','Oral suspension',239.239239,True,Pediatric
+'From RDC','Tablet - FDC',59.059059,True,Adult
+'Direct Drop','Test kit',19.019019,True,'HIV test'
+'From RDC','Tablet - FDC',59.059059,True,Adult
+'From RDC',Tablet,59.059059,True,Adult
+'From RDC','Tablet - FDC',29.029029,True,Adult
+'Direct Drop','Oral solution',239.239239,False,Pediatric
+'From RDC','Tablet - FDC',29.029029,True,Adult
+'From RDC','Tablet - FDC',59.059059,False,Adult
+'From RDC','Delayed-release capsules',29.029029,False,Pediatric
+'From RDC','Tablet - FDC',29.029029,False,Adult
+'From RDC','Oral suspension',239.239239,True,Pediatric
+'Direct Drop',Tablet,119.119119,True,Adult
+'From RDC','Tablet - FDC',29.029029,True,Adult
+'From RDC','Tablet - FDC',59.059059,True,Adult
+'From RDC',Capsule,89.089089,False,Pediatric
+'From RDC',Tablet,29.029029,True,Adult
+'Direct Drop','Oral solution',239.239239,True,Pediatric
+'Direct Drop','Test kit',19.019019,False,'HIV test'
+'From RDC',Tablet,29.029029,False,Adult
+'From RDC','Tablet - FDC',59.059059,False,Adult
+'Direct Drop','Test kit',99.099099,True,'HIV test'
+'Direct Drop',Capsule,89.089089,False,Pediatric
+'From RDC',Tablet,59.059059,True,Adult
+'Direct Drop',Tablet,29.029029,True,Adult
+'Direct Drop',Capsule,89.089089,True,Pediatric
+'Direct Drop','Test kit',99.099099,True,'HIV test'
+'From RDC',Tablet,59.059059,False,Adult
+'Direct Drop',Tablet,59.059059,False,Adult
+'From RDC','Oral solution',239.239239,False,Pediatric
+'From RDC','Oral solution',239.239239,False,Pediatric
+'From RDC','Test kit',99.099099,True,'HIV test'
+'Direct Drop','Oral solution',299.299299,True,Pediatric
+'Direct Drop','Test kit',99.099099,True,'HIV test'
+'Direct Drop','Test kit',99.099099,True,'HIV test'
+'Direct Drop','Test kit - Ancillary',99.099099,False,'HIV test - Ancillary'
+'Direct Drop','Test kit',19.019019,True,'HIV test'
+'From RDC','Tablet - FDC',59.059059,False,Adult
+'From RDC',Tablet,59.059059,False,Adult
+'Direct Drop',Tablet,59.059059,False,Adult
+'From RDC','Oral solution',199.199199,True,Pediatric
+'Direct Drop',Tablet,59.059059,True,Adult
+'Direct Drop',Tablet,59.059059,True,Adult
+'Direct Drop',Tablet,29.029029,True,Adult
+'From RDC','Tablet - FDC',59.059059,False,Adult
+'Direct Drop','Test kit',99.099099,True,'HIV test'
+'Direct Drop',Tablet,59.059059,True,Adult
+'From RDC',Tablet,59.059059,True,Adult
+'Direct Drop',Capsule,335.335335,True,Adult
+'Direct Drop','Test kit',99.099099,True,'HIV test'
+'From RDC','Tablet - FDC',59.059059,True,Adult
+'Direct Drop','Delayed-release capsules',29.029029,False,Adult
+'Direct Drop',Tablet,59.059059,True,Adult
+'Direct Drop','Test kit',19.019019,True,'HIV test'
+'From RDC','Chewable/dispersible tablet',59.059059,False,Pediatric
+'Direct Drop','Tablet - FDC',59.059059,False,Adult
+'Direct Drop','Tablet - FDC',29.029029,True,Adult
+'From RDC','Chewable/dispersible tablet',59.059059,False,Pediatric
+'From RDC','Chewable/dispersible tablet - FDC',59.059059,True,Pediatric
+'From RDC','Tablet - FDC',29.029029,True,Adult
+'From RDC',Tablet,59.059059,False,Adult
+'Direct Drop','Oral solution',299.299299,True,Pediatric
+'Direct Drop',Capsule,89.089089,True,Pediatric
+'Direct Drop','Tablet - FDC',29.029029,False,Adult
+'From RDC','Tablet - FDC',59.059059,True,Adult
+'Direct Drop','Test kit',99.099099,True,'HIV test'
+'Direct Drop','Tablet - FDC',29.029029,True,Adult
+'From RDC',Tablet,119.119119,True,Adult
+'From RDC',Tablet,59.059059,False,Adult
+'From RDC',Tablet,59.059059,False,Adult
+'Direct Drop','Oral suspension',239.239239,False,Pediatric
+'From RDC',Tablet,59.059059,True,Adult
+'Direct Drop',Tablet,59.059059,True,Adult
+'From RDC','Tablet - FDC',59.059059,True,Adult
+'Direct Drop','Test kit',99.099099,True,'HIV test'
+'From RDC',Tablet,29.029029,False,Adult
+'From RDC','Tablet - FDC',59.059059,True,Adult
+'Direct Drop',Tablet,119.119119,True,Adult
+'Direct Drop',Tablet,119.119119,True,Adult
+'From RDC',Tablet,59.059059,True,Adult
+'Direct Drop','Tablet - FDC',29.029029,True,Adult
+'From RDC',Tablet,29.029029,True,Adult
+'Direct Drop',Capsule,29.029029,True,Adult
+'From RDC','Tablet - FDC',29.029029,False,Adult
+'From RDC','Tablet - FDC',29.029029,True,Adult
+'Direct Drop',Capsule,59.059059,False,Adult
+'From RDC',Capsule,59.059059,False,Adult
+'Direct Drop','Tablet - FDC',59.059059,True,Adult
+'From RDC',Tablet,59.059059,True,Adult
+'Direct Drop',Tablet,29.029029,True,Adult
+'Direct Drop','Oral solution',239.239239,True,Pediatric
+'From RDC',Capsule,99.099099,False,Pediatric
+'From RDC','Tablet - FDC',59.059059,True,Adult
+'Direct Drop','Test kit - Ancillary',2.002002,True,'HIV test - Ancillary'
+'Direct Drop','Oral solution',239.239239,False,Pediatric
+'Direct Drop','Test kit',19.019019,True,'HIV test'
+'From RDC','Chewable/dispersible tablet - FDC',59.059059,True,Pediatric
+'Direct Drop','Tablet - FDC',29.029029,False,Adult
+'From RDC',Tablet,29.029029,False,Adult
+'From RDC',Capsule,83.083083,True,Adult
+'From RDC','Oral suspension',239.239239,True,Pediatric
+'Direct Drop','Test kit',99.099099,True,'HIV test'
+'From RDC',Tablet,59.059059,False,Adult
+'Direct Drop','Test kit',19.019019,True,'HIV test'
+'From RDC',Tablet,29.029029,True,Adult
+'Direct Drop','Test kit',99.099099,True,'HIV test'
+'From RDC','Tablet - FDC',59.059059,False,Adult
+'Direct Drop',Tablet,29.029029,False,Adult
+'From RDC','Tablet - FDC',59.059059,True,Adult
+'Direct Drop','Tablet - FDC',59.059059,True,Adult
+'From RDC',Tablet,59.059059,True,Adult
+'From RDC',Tablet,59.059059,True,Adult
+'Direct Drop','Test kit - Ancillary',99.099099,True,'HIV test - Ancillary'
+'Direct Drop',Capsule,59.059059,True,Adult
+'Direct Drop','Oral solution',299.299299,True,Pediatric
+'From RDC','Test kit - Ancillary',99.099099,False,'HIV test - Ancillary'
+'From RDC','Tablet - FDC',59.059059,True,Adult
+'Direct Drop','Test kit',99.099099,True,'HIV test'
+'From RDC',Tablet,29.029029,False,Adult
+'Direct Drop','Test kit',99.099099,True,'HIV test'
+'From RDC','Tablet - FDC',59.059059,True,Adult
+'From RDC',Capsule,59.059059,True,Adult
+'From RDC',Tablet,59.059059,True,Adult
+'Direct Drop',Tablet,59.059059,True,Adult
+'Direct Drop',Capsule,29.029029,True,Pediatric
+'Direct Drop',Tablet,119.119119,True,Adult
+'Direct Drop','Test kit',19.019019,False,'HIV test'
+'Direct Drop','Oral solution',299.299299,True,Pediatric
+'From RDC','Oral suspension',99.099099,False,Pediatric
+'Direct Drop','Test kit',99.099099,True,'HIV test'
+'From RDC','Tablet - FDC',59.059059,True,Adult
+'From RDC','Chewable/dispersible tablet - FDC',59.059059,True,Pediatric
+'From RDC','Tablet - FDC',59.059059,True,Adult
+'Direct Drop',Tablet,59.059059,True,Adult
+'From RDC','Oral solution',239.239239,False,Pediatric
+'From RDC',Tablet,119.119119,False,Adult
+'From RDC',Tablet,29.029029,True,Adult
+'From RDC','Tablet - FDC',59.059059,True,Adult
+'From RDC',Tablet,59.059059,True,Adult
+'From RDC','Tablet - FDC',59.059059,False,Adult
+'From RDC',Tablet,59.059059,False,Adult
+'Direct Drop','Delayed-release capsules',29.029029,False,Adult
+'Direct Drop','Tablet - FDC',59.059059,True,Adult
+'Direct Drop','Test kit',99.099099,True,'HIV test'
+'Direct Drop',Tablet,59.059059,False,Adult
+'From RDC',Tablet,59.059059,False,Adult
+'Direct Drop',Tablet,29.029029,True,Adult
+'From RDC','Tablet - FDC',59.059059,False,Adult
+'Direct Drop',Tablet,59.059059,True,Adult
+'From RDC',Tablet,29.029029,True,Adult
+'Direct Drop','Test kit',19.019019,True,'HIV test'
+'Direct Drop',Tablet,59.059059,False,Adult
+'From RDC','Tablet - FDC',59.059059,True,Adult
+'Direct Drop',Tablet,59.059059,True,Adult
+'From RDC','Tablet - FDC',59.059059,True,Adult
+'From RDC','Tablet - FDC',59.059059,True,Adult
+'Direct Drop',Tablet,29.029029,True,Adult
+'From RDC','Tablet - FDC',29.029029,False,Adult
+'From RDC','Tablet - FDC',59.059059,True,Adult
+'Direct Drop',Tablet,119.119119,True,Adult
+'From RDC','Tablet - FDC',29.029029,True,Adult
+'Direct Drop','Tablet - FDC',59.059059,False,Adult
+'Direct Drop',Tablet,119.119119,True,Adult
+'Direct Drop','Test kit',19.019019,True,'HIV test'
+'From RDC',Tablet,29.029029,False,Adult
+'Direct Drop',Tablet,29.029029,False,Adult
+'Direct Drop','Tablet - FDC',29.029029,True,Adult
+'Direct Drop',Tablet,29.029029,True,Adult
+'From RDC','Tablet - FDC',59.059059,True,Adult
+'From RDC',Capsule,59.059059,False,Adult
+'Direct Drop',Tablet,59.059059,False,Adult
+'Direct Drop',Tablet,29.029029,True,Adult
+'From RDC',Tablet,59.059059,True,Adult
+'Direct Drop',Tablet,59.059059,False,Adult
+'From RDC',Tablet,29.029029,False,Adult
+'From RDC','Tablet - FDC',29.029029,False,Adult
+'From RDC','Tablet - FDC',29.029029,False,Adult
+'From RDC',Tablet,29.029029,True,Adult
+'Direct Drop',Tablet,59.059059,True,Adult
+'Direct Drop',Tablet,29.029029,True,Adult
+'From RDC','Tablet - FDC',59.059059,False,Adult
+'Direct Drop',Tablet,59.059059,False,Adult
+'From RDC',Tablet,59.059059,False,Adult
+'Direct Drop','Test kit',19.019019,True,'HIV test'
+'From RDC',Tablet,59.059059,True,Adult
+'Direct Drop','Tablet - FDC',29.029029,True,Adult
+'Direct Drop',Capsule,83.083083,True,Adult
+'Direct Drop','Test kit',19.019019,True,'HIV test'
+'Direct Drop','Test kit',99.099099,True,'HIV test'
+'From RDC',Tablet,29.029029,True,Adult
+'Direct Drop',Tablet,59.059059,True,Adult
+'From RDC','Tablet - FDC',59.059059,True,Adult
+'Direct Drop',Capsule,29.029029,True,Pediatric
+'From RDC',Tablet,119.119119,False,Adult
+'Direct Drop','Test kit',99.099099,True,'HIV test'
+'Direct Drop',Tablet,29.029029,True,Adult
+'Direct Drop','Chewable/dispersible tablet',59.059059,True,Pediatric
+'Direct Drop',Tablet,59.059059,False,Adult
+'Direct Drop',Capsule,29.029029,False,Pediatric
+'From RDC',Tablet,29.029029,False,Adult
+'Direct Drop','Chewable/dispersible tablet - FDC',59.059059,False,Pediatric
+'From RDC',Tablet,59.059059,True,Adult
+'Direct Drop','Test kit',99.099099,True,'HIV test'
+'Direct Drop','Test kit',99.099099,True,'HIV test'
+'From RDC','Tablet - FDC',59.059059,True,Adult
+'From RDC','Chewable/dispersible tablet - FDC',59.059059,True,Pediatric
+'Direct Drop','Test kit',99.099099,True,'HIV test'
+'From RDC','Tablet - FDC',59.059059,False,Adult
+'Direct Drop',Tablet,29.029029,False,Adult
+'From RDC',Tablet,29.029029,True,Adult
+'From RDC','Tablet - FDC',59.059059,True,Adult
+'From RDC','Tablet - FDC',59.059059,True,Adult
+'From RDC','Oral solution',199.199199,False,Pediatric
+'Direct Drop','Test kit',19.019019,True,'HIV test'
+'Direct Drop','Test kit',19.019019,False,'HIV test'
+'From RDC',Tablet,59.059059,True,Adult
+'From RDC','Tablet - FDC',59.059059,True,Adult
+'From RDC','Oral solution',239.239239,False,Pediatric
+'Direct Drop',Tablet,59.059059,True,Adult
+'Direct Drop',Capsule,89.089089,False,Pediatric
+'From RDC','Tablet - FDC',29.029029,True,Adult
+'Direct Drop',Tablet,59.059059,True,Adult
+'Direct Drop','Tablet - FDC',29.029029,True,Adult
+'From RDC',Tablet,59.059059,True,Adult
+'From RDC',Tablet,29.029029,True,Adult
+'Direct Drop','Test kit',99.099099,False,'HIV test'
+'Direct Drop',Capsule,335.335335,True,Adult
+'From RDC',Tablet,59.059059,True,Adult
+'From RDC','Tablet - FDC',59.059059,True,Adult
+'Direct Drop',Capsule,59.059059,True,Pediatric
+'Direct Drop','Test kit',99.099099,True,'HIV test'
+'From RDC','Oral solution',239.239239,True,Pediatric
+'From RDC','Tablet - FDC',29.029029,True,Adult
+'From RDC','Oral solution',179.179179,True,Pediatric
+'From RDC',Tablet,59.059059,True,Adult
+'Direct Drop',Capsule,89.089089,False,Pediatric
+'Direct Drop','Chewable/dispersible tablet - FDC',59.059059,True,Pediatric
+'Direct Drop',Tablet,59.059059,False,Adult
+'From RDC','Tablet - FDC',29.029029,True,Adult
+'Direct Drop','Test kit',99.099099,True,'HIV test'
+'Direct Drop','Delayed-release capsules - blister',29.029029,False,Adult
+'From RDC',Tablet,89.089089,True,Pediatric
+'From RDC',Tablet,59.059059,True,Adult
+'From RDC','Tablet - FDC',59.059059,False,Adult
+'From RDC',Tablet,59.059059,False,Adult
+'From RDC','Tablet - FDC',59.059059,True,Adult
+'Direct Drop','Oral solution',199.199199,False,Pediatric
+'From RDC',Tablet,59.059059,True,Adult
+'From RDC','Oral solution',239.239239,False,Pediatric
+'Direct Drop','Test kit',99.099099,True,'HIV test'
+'From RDC','Test kit',39.039039,True,'HIV test'
+'From RDC','Tablet - FDC',29.029029,True,Adult
+'Direct Drop',Tablet,59.059059,True,Adult
+'Direct Drop','Test kit',24.024024,True,'HIV test'
+'From RDC',Tablet,119.119119,False,Adult
+'From RDC',Tablet,59.059059,False,Adult
+'Direct Drop','Delayed-release capsules',29.029029,True,Pediatric
+'From RDC','Tablet - FDC',29.029029,True,Pediatric
+'From RDC','Test kit',24.024024,True,'HIV test'
+'From RDC','Tablet - FDC',59.059059,True,Adult
+'From RDC','Tablet - FDC',29.029029,True,Adult
+'From RDC','Chewable/dispersible tablet - FDC',59.059059,True,Pediatric
+'Direct Drop','Tablet - FDC',59.059059,False,Adult
+'Direct Drop','Tablet - FDC',29.029029,True,Adult
+'Direct Drop',Tablet,59.059059,False,Adult
+'From RDC','Tablet - FDC',29.029029,True,Adult
+'Direct Drop','Tablet - FDC',59.059059,True,Adult
+'Direct Drop','Tablet - FDC + blister',539.53954,True,ACT
+'From RDC',Tablet,29.029029,False,Adult
+'From RDC','Oral suspension',239.239239,True,Pediatric
+'Direct Drop','Test kit',19.019019,True,'HIV test'
+'From RDC','Tablet - FDC',29.029029,True,Adult
+'From RDC','Tablet - FDC',29.029029,False,Adult
+'Direct Drop',Tablet,29.029029,False,Adult
+'From RDC',Tablet,119.119119,True,Adult
+'Direct Drop','Oral solution',299.299299,True,Pediatric
+'From RDC','Tablet - FDC',29.029029,True,Adult
+'From RDC','Tablet - FDC',59.059059,True,Adult
+'Direct Drop','Oral powder',143.143143,True,Pediatric
+'From RDC','Tablet - FDC',29.029029,False,Adult
+'Direct Drop',Tablet,29.029029,True,Adult
+'Direct Drop',Tablet,29.029029,False,Adult
+'From RDC',Tablet,29.029029,False,Adult
+'Direct Drop','Tablet - FDC',29.029029,True,Adult
+'From RDC',Tablet,29.029029,False,Adult
+'Direct Drop','Test kit',19.019019,True,'HIV test'
+'From RDC','Test kit',99.099099,False,'HIV test'
+'Direct Drop','Test kit - Ancillary',1.001001,True,'HIV test - Ancillary'
+'From RDC',Capsule,59.059059,False,Adult
+'From RDC',Tablet,29.029029,True,Adult
+'From RDC','Chewable/dispersible tablet - FDC',59.059059,True,Pediatric
+'Direct Drop','Test kit',19.019019,False,'HIV test'
+'From RDC','Tablet - FDC',59.059059,True,Pediatric
+'Direct Drop','Test kit - Ancillary',0.0,True,'HIV test - Ancillary'
+'Direct Drop',Tablet,59.059059,True,Adult
+'From RDC',Tablet,29.029029,True,Adult
+'From RDC',Tablet,59.059059,True,Adult
+'Direct Drop','Delayed-release capsules',29.029029,False,Adult
+'From RDC',Tablet,59.059059,False,Adult
+'From RDC','Tablet - FDC',59.059059,False,Adult
+'Direct Drop',Tablet,59.059059,False,Adult
+'From RDC','Oral solution',239.239239,True,Pediatric
+'Direct Drop','Tablet - FDC',59.059059,True,Adult
+'From RDC','Oral solution',239.239239,True,Pediatric
+'Direct Drop','Test kit',19.019019,True,'HIV test'
+'Direct Drop',Tablet,59.059059,True,Adult
+'From RDC','Oral suspension',239.239239,False,Pediatric
+'Direct Drop','Test kit',99.099099,True,'HIV test'
+'Direct Drop',Tablet,29.029029,True,Adult
+'From RDC',Tablet,59.059059,True,Adult
+'Direct Drop','Test kit',19.019019,True,'HIV test'
+'Direct Drop','Tablet - FDC',59.059059,False,Adult
+'From RDC','Chewable/dispersible tablet - FDC',59.059059,True,Pediatric
+'Direct Drop',Capsule,89.089089,False,Pediatric
+'From RDC',Tablet,29.029029,True,Adult
+'Direct Drop','Test kit',99.099099,True,'HIV test'
+'From RDC','Oral solution',239.239239,False,Pediatric
+'Direct Drop',Tablet,59.059059,False,Adult
+'From RDC',Capsule,335.335335,True,Adult
+'From RDC',Tablet,59.059059,True,Adult
+'From RDC','Tablet - FDC',59.059059,False,Adult
+'From RDC','Oral suspension',239.239239,False,Pediatric
+'From RDC',Tablet,29.029029,False,Adult
+'From RDC','Oral suspension',239.239239,True,Pediatric
+'From RDC',Capsule,89.089089,False,Pediatric
+'From RDC','Tablet - FDC',59.059059,True,Pediatric
+'From RDC','Tablet - FDC',59.059059,False,Adult
+'From RDC',Tablet,29.029029,False,Adult
+'From RDC','Tablet - FDC',59.059059,True,Adult
+'Direct Drop',Tablet,59.059059,True,Adult
+'From RDC','Chewable/dispersible tablet - FDC',59.059059,False,Pediatric
+'From RDC','Tablet - FDC',29.029029,False,Adult
+'Direct Drop','Chewable/dispersible tablet',59.059059,True,Pediatric
+'From RDC',Tablet,59.059059,True,Adult
+'Direct Drop','Oral solution',299.299299,True,Pediatric
+'From RDC',Tablet,29.029029,True,Adult
+'Direct Drop','Oral solution',199.199199,False,Pediatric
+'From RDC','Tablet - FDC',59.059059,True,Adult
+'Direct Drop',Tablet,29.029029,True,Adult
+'Direct Drop','Test kit - Ancillary',0.0,True,'HIV test - Ancillary'
+'Direct Drop',Tablet,29.029029,True,Adult
+'Direct Drop','Test kit',99.099099,True,'HIV test'
+'Direct Drop',Tablet,29.029029,False,Adult
+'From RDC','Tablet - FDC',29.029029,False,Adult
+'From RDC','Oral suspension',239.239239,False,Pediatric
+'Direct Drop',Tablet,89.089089,True,Pediatric
+'From RDC','Oral solution',239.239239,True,Pediatric
+'From RDC',Tablet,59.059059,False,Adult
+'Direct Drop',Tablet,29.029029,True,Adult
+'From RDC','Tablet - FDC',29.029029,True,Adult
+'Direct Drop',Tablet,59.059059,True,Adult
+'From RDC',Tablet,29.029029,False,Adult
+'From RDC','Tablet - FDC',29.029029,True,Adult
+'Direct Drop',Tablet,59.059059,False,Adult
+'Direct Drop','Oral solution',239.239239,True,Pediatric
+'From RDC','Oral solution',239.239239,False,Pediatric
+'Direct Drop',Tablet,119.119119,True,Adult
+'From RDC',Tablet,119.119119,True,Adult
+'Direct Drop','Delayed-release capsules',29.029029,False,Adult
+'From RDC',Tablet,59.059059,True,Adult
+'Direct Drop','Test kit',99.099099,True,'HIV test'
+'From RDC',Tablet,59.059059,True,Adult
+'From RDC','Tablet - FDC',29.029029,False,Adult
+'Direct Drop',Capsule,59.059059,False,Adult
+'Direct Drop',Tablet,29.029029,True,Adult
+'From RDC',Tablet,59.059059,False,Adult
+'Direct Drop',Tablet,29.029029,False,Adult
+'Direct Drop','Delayed-release capsules',29.029029,True,Adult
+'Direct Drop',Capsule,89.089089,False,Pediatric
+'From RDC',Tablet,59.059059,False,Adult
+'Direct Drop','Delayed-release capsules',29.029029,False,Pediatric
+'Direct Drop',Tablet,59.059059,False,Adult
+'From RDC','Tablet - FDC',59.059059,True,Adult
+'Direct Drop',Tablet,119.119119,True,Adult
+'From RDC',Tablet,59.059059,False,Adult
+'From RDC',Tablet,59.059059,False,Adult
+'From RDC',Tablet,29.029029,False,Adult
+'From RDC',Tablet,29.029029,False,Adult
+'From RDC','Tablet - FDC',29.029029,False,Adult
+'From RDC','Tablet - FDC',59.059059,True,Adult
+'From RDC',Tablet,59.059059,False,Adult
+'Direct Drop',Capsule,29.029029,True,Pediatric
+'From RDC','Tablet - FDC',59.059059,False,Adult
+'Direct Drop','Test kit',99.099099,False,'HIV test'
+'Direct Drop','Oral solution',239.239239,True,Pediatric
+'From RDC','Oral solution',179.179179,False,Pediatric
+'From RDC',Tablet,119.119119,True,Adult
+'Direct Drop','Delayed-release capsules',29.029029,False,Adult
+'Direct Drop',Tablet,59.059059,True,Adult
+'Direct Drop','Tablet - FDC',29.029029,True,Adult
+'From RDC','Chewable/dispersible tablet - FDC',59.059059,False,Pediatric
+'From RDC','Oral solution',179.179179,True,Pediatric
+'From RDC',Tablet,29.029029,True,Adult
+'From RDC',Tablet,29.029029,True,Adult
+'From RDC',Tablet,89.089089,False,Pediatric
+'From RDC',Capsule,59.059059,True,Adult
+'From RDC',Tablet,59.059059,True,Adult
+'Direct Drop','Test kit',24.024024,True,'HIV test'
+'From RDC','Tablet - FDC',29.029029,True,Adult
+'Direct Drop','Test kit',19.019019,True,'HIV test'
+'From RDC',Tablet,119.119119,False,Adult
+'From RDC','Tablet - FDC',59.059059,False,Adult
+'From RDC','Tablet - FDC',59.059059,True,Adult
+'From RDC','Tablet - FDC',29.029029,True,Adult
+'Direct Drop',Tablet,59.059059,False,Adult
+'Direct Drop','Test kit',99.099099,True,'HIV test'
+'Direct Drop','Oral solution',239.239239,False,Pediatric
+'Direct Drop',Capsule,335.335335,True,Adult
+'From RDC','Tablet - FDC',29.029029,True,Adult
+'Direct Drop',Capsule,59.059059,False,Adult
+'Direct Drop','Oral solution',239.239239,False,Pediatric
+'From RDC','Tablet - FDC',59.059059,False,Adult
+'Direct Drop','Test kit - Ancillary',0.0,True,'HIV test - Ancillary'
+'Direct Drop',Tablet,59.059059,False,Adult
+'From RDC','Tablet - FDC',29.029029,True,Adult
+'From RDC','Tablet - FDC',59.059059,True,Adult
+'Direct Drop',Tablet,119.119119,False,Adult
+'From RDC',Tablet,29.029029,False,Adult
+'Direct Drop','Test kit',99.099099,True,'HIV test'
+'Direct Drop',Tablet,119.119119,False,Adult
+'From RDC',Tablet,29.029029,False,Adult
+'Direct Drop','Tablet - FDC',29.029029,True,Adult
+'Direct Drop','Chewable/dispersible tablet',59.059059,True,Pediatric
+'From RDC',Tablet,29.029029,True,Adult
+'Direct Drop','Test kit',19.019019,False,'HIV test'
+'Direct Drop',Tablet,29.029029,True,Adult
+'From RDC',Tablet,59.059059,True,Adult
+'Direct Drop','Test kit',19.019019,True,'HIV test'
+'From RDC','Test kit',99.099099,True,'HIV test'
+'From RDC','Oral suspension',239.239239,False,Pediatric
+'From RDC',Tablet,59.059059,False,Adult
+'From RDC','Tablet - FDC',59.059059,False,Adult
+'From RDC','Oral suspension',239.239239,True,Pediatric
+'From RDC',Capsule,59.059059,True,Adult
+'From RDC',Capsule,29.029029,True,Pediatric
+'Direct Drop','Test kit',99.099099,True,'HIV test'
+'Direct Drop',Tablet,59.059059,False,Adult
+'From RDC','Oral solution',239.239239,False,Pediatric
+'Direct Drop',Tablet,59.059059,True,Adult
+'From RDC','Tablet - FDC',29.029029,False,Adult
+'Direct Drop',Tablet,59.059059,False,Adult
+'From RDC','Tablet - FDC',59.059059,True,Adult
+'From RDC',Tablet,29.029029,False,Adult
+'Direct Drop',Tablet,59.059059,True,Adult
+'Direct Drop','Test kit',99.099099,True,'HIV test'
+'From RDC','Oral solution',239.239239,True,Pediatric
+'From RDC','Tablet - FDC',29.029029,True,Adult
+'From RDC',Tablet,59.059059,False,Adult
+'Direct Drop','Tablet - FDC',29.029029,True,Adult
+'From RDC',Tablet,59.059059,True,Adult
+'From RDC','Tablet - FDC',59.059059,True,Adult
+'Direct Drop','Test kit',99.099099,True,'HIV test'
+'From RDC',Tablet,59.059059,True,Adult
+'From RDC','Tablet - FDC',59.059059,True,Adult
+'Direct Drop',Capsule,29.029029,True,Pediatric
+'Direct Drop','Test kit',19.019019,True,'HIV test'
+'From RDC',Tablet,59.059059,True,Adult
+'Direct Drop','Test kit',19.019019,True,'HIV test'
+'From RDC',Tablet,59.059059,True,Adult
+'From RDC','Tablet - FDC',29.029029,False,Adult
+'Direct Drop',Tablet,59.059059,False,Adult
+'From RDC','Tablet - FDC',29.029029,True,Adult
+'Direct Drop','Tablet - FDC',29.029029,True,Adult
+'Direct Drop',Tablet,29.029029,True,Adult
+'From RDC','Tablet - FDC',29.029029,True,Adult
+'Direct Drop','Test kit',99.099099,True,'HIV test'
+'Direct Drop','Test kit',19.019019,True,'HIV test'
+'Direct Drop',Capsule,89.089089,False,Pediatric
+'Direct Drop','Test kit',99.099099,True,'HIV test'
+'From RDC','Tablet - FDC',59.059059,False,Adult
+'From RDC',Capsule,29.029029,True,Pediatric
+'From RDC','Oral solution',239.239239,False,Pediatric
+'Direct Drop','Test kit',99.099099,True,'HIV test'
+'Direct Drop','Test kit',24.024024,True,Malaria
+'From RDC','Tablet - FDC',59.059059,False,Adult
+'Direct Drop',Tablet,119.119119,True,Adult
+'Direct Drop','Oral solution',239.239239,True,Pediatric
+'From RDC',Tablet,29.029029,True,Adult
+'Direct Drop',Tablet,59.059059,False,Adult
+'From RDC','Oral solution',239.239239,False,Pediatric
+'From RDC','Tablet - FDC',59.059059,True,Adult
+'From RDC',Tablet,59.059059,True,Adult
+'From RDC',Tablet,119.119119,False,Adult
+'From RDC',Tablet,59.059059,False,Adult
+'From RDC','Oral solution',239.239239,True,Pediatric
+'From RDC',Tablet,29.029029,True,Adult
+'Direct Drop',Tablet,59.059059,True,Adult
+'Direct Drop','Test kit',99.099099,True,'HIV test'
+'From RDC','Tablet - FDC',59.059059,False,Adult
+'Direct Drop','Test kit',99.099099,True,'HIV test'
+'Direct Drop','Test kit',29.029029,True,'HIV test'
+'From RDC','Tablet - FDC',29.029029,True,Adult
+'Direct Drop','Tablet - FDC',59.059059,True,Adult
+'From RDC','Tablet - FDC',29.029029,True,Adult
+'From RDC',Tablet,59.059059,True,Adult
+'From RDC','Chewable/dispersible tablet - FDC',59.059059,True,Pediatric
+'Direct Drop','Test kit',99.099099,True,'HIV test'
+'From RDC',Capsule,59.059059,False,Adult
+'From RDC',Tablet,59.059059,False,Adult
+'Direct Drop',Capsule,29.029029,False,Pediatric
+'From RDC','Tablet - FDC',59.059059,True,Adult
+'From RDC',Tablet,59.059059,True,Adult
+'From RDC','Tablet - FDC',59.059059,True,Adult
+'From RDC','Tablet - FDC',59.059059,True,Adult
+'Direct Drop','Oral solution',89.089089,True,Pediatric
+'Direct Drop','Tablet - blister',59.059059,False,Adult
+'From RDC','Tablet - FDC',59.059059,False,Adult
+'Direct Drop',Tablet,59.059059,False,Adult
+'From RDC',Tablet,59.059059,False,Adult
+'Direct Drop',Tablet,59.059059,True,Adult
+'Direct Drop',Tablet,29.029029,True,Adult
+'Direct Drop','Test kit',99.099099,True,'HIV test'
+'From RDC',Tablet,119.119119,True,Adult
+'From RDC',Tablet,59.059059,True,Adult
+'From RDC','Tablet - FDC',59.059059,True,Adult
+'Direct Drop','Test kit',99.099099,True,'HIV test'
+'Direct Drop','Test kit',24.024024,True,'HIV test'
+'Direct Drop','Test kit',99.099099,True,'HIV test'
+'From RDC',Tablet,59.059059,True,Adult
+'Direct Drop','Test kit',99.099099,False,'HIV test'
+'Direct Drop','Chewable/dispersible tablet - FDC',59.059059,False,Pediatric
+'Direct Drop',Tablet,59.059059,False,Adult
+'Direct Drop','Test kit',19.019019,True,'HIV test'
+'From RDC',Tablet,59.059059,True,Adult
+'Direct Drop','Test kit',24.024024,True,'HIV test'
+'Direct Drop',Tablet,59.059059,True,Adult
+'Direct Drop','Test kit - Ancillary',1.001001,True,'HIV test - Ancillary'
+'From RDC',Tablet,119.119119,False,Adult
+'From RDC',Capsule,59.059059,True,Adult
+'From RDC',Tablet,59.059059,False,Adult
+'From RDC',Tablet,59.059059,False,Adult
+'From RDC','Tablet - FDC',29.029029,True,Adult
+'From RDC',Tablet,59.059059,True,Adult
+'From RDC','Tablet - FDC',59.059059,False,Adult
+'Direct Drop','Oral solution',239.239239,False,Pediatric
+'From RDC','Oral solution',239.239239,False,Pediatric
+'Direct Drop',Capsule,29.029029,False,Pediatric
+'From RDC','Tablet - FDC',59.059059,True,Adult
+'From RDC','Tablet - FDC',59.059059,True,Adult
+'From RDC','Tablet - FDC',59.059059,True,Adult
+'Direct Drop','Test kit',19.019019,True,'HIV test'
+'From RDC',Tablet,59.059059,False,Adult
+'Direct Drop','Oral solution',239.239239,False,Pediatric
+'Direct Drop',Tablet,29.029029,False,Adult
+'From RDC','Tablet - FDC',59.059059,True,Adult
+'From RDC',Tablet,89.089089,True,Pediatric
+'From RDC',Tablet,59.059059,False,Adult
+'From RDC','Test kit',99.099099,True,'HIV test'
+'From RDC',Tablet,29.029029,True,Adult
+'Direct Drop','Tablet - FDC',59.059059,True,Adult
+'Direct Drop',Tablet,119.119119,True,Adult
+'From RDC',Tablet,89.089089,True,Pediatric
+'From RDC',Tablet,59.059059,False,Adult
+'From RDC','Tablet - FDC',59.059059,False,Adult
+'Direct Drop',Capsule,59.059059,False,Adult
+'From RDC','Tablet - FDC',29.029029,False,Adult

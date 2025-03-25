@@ -1,0 +1,620 @@
+'project code','pq #',country,'pq first sent to client date','molecule/test type',brand,dosage,'dosage form','manufacturing site','sub classification'
+108-VN-T30,FPQ-10266,Vietnam,7/11/12,Lamivudine,Generic,150mg,Tablet,'Hetero Unit III Hyderabad IN',Adult
+161-ZA-T30,FPQ-5303,'South Africa',3/18/10,Nevirapine,Generic,10mg/ml,'Oral suspension','Aurobindo Unit III India',Pediatric
+102-BW-T01,'Pre-PQ Process',Botswana,'Pre-PQ Process','HIV 1/2 Uni-Gold HIV Kit',Uni-Gold,300mg,'Test kit','Trinity Biotech Plc','HIV test'
+104-CI-T30,FPQ-5201,'Cote d Ivoire',3/3/10,Stavudine,Generic,30mg,Capsule,'Strides Bangalore India.',Adult
+119-NA-T01,'Pre-PQ Process',Namibia,'Pre-PQ Process','HIV 1/2 Clearview Complete Kit',Clearview,300mg,'Test kit','Chembio Diagnostics Sys. Inc.','HIV test'
+106-HT-T30,FPQ-11443,Haiti,2/7/13,Lamivudine,Generic,10mg/ml,'Oral solution','Aurobindo Unit III India',Pediatric
+102-BI-T30,FPQ-15406,Burundi,11/19/14,'Lamivudine/Tenofovir Disoproxil Fumarate',Generic,300/300mg,'Tablet - FDC','Cipla Kurkumbh India',Adult
+110-ZM-T01,'Pre-PQ Process',Zambia,'Pre-PQ Process',Efavirenz,Generic,600mg,Tablet,'Aurobindo Unit III India',Adult
+110-ZM-T30,FPQ-13221,Zambia,10/31/13,Lopinavir/Ritonavir,Generic,200/50mg,Tablet,'Mylan (formerly Matrix) Nashik',Adult
+116-ZA-T30,FPQ-14942,'South Africa',9/11/14,Lopinavir/Ritonavir,Kaletra,80/20mg/ml,'Oral solution','ABBVIE (Abbott) Logis. UK',Pediatric
+111-MZ-T01,'Pre-PQ Process',Mozambique,'Pre-PQ Process',Lopinavir/Ritonavir,Aluvia,200/50mg,Tablet,ABBSP,Adult
+151-NG-T30,FPQ-11022,Nigeria,11/15/12,'Efavirenz/Lamivudine/Tenofovir Disoproxil Fumarate',Generic,600/300/300mg,'Tablet - FDC','Hetero Unit III Hyderabad IN',Adult
+109-TZ-T30,FPQ-4157,Tanzania,8/27/09,'HIV 1/2 Uni-Gold HIV Kit',Uni-Gold,300mg,'Test kit','Trinity Biotech Plc','HIV test'
+116-ZA-T30,FPQ-14942,'South Africa',9/11/14,'Emtricitabine/Tenofovir Disoproxil Fumarate',Generic,200/300mg,'Tablet - FDC','Aurobindo Unit III India',Adult
+116-ZA-T01,'Pre-PQ Process','South Africa','Pre-PQ Process',Efavirenz,Stocrin/Sustiva,200mg,Capsule,'MSD Midrand J burg SA',Pediatric
+110-ZM-T30,FPQ-14790,Zambia,8/13/14,Lopinavir/Ritonavir,Kaletra,80/20mg/ml,'Oral solution','ABBVIE (Abbott) Logis. UK',Pediatric
+108-VN-T01,'Pre-PQ Process',Vietnam,'Pre-PQ Process',Lamivudine,Generic,150mg,Tablet,'Aurobindo Unit III India',Adult
+103-SS-T30,FPQ-11489,'South Sudan',1/16/13,Lopinavir/Ritonavir,Generic,200/50mg,Tablet,'Aurobindo Unit III India',Adult
+104-CI-T30,FPQ-6024,'Cote d Ivoire',7/19/10,Didanosine,Videx,50mg,'Chewable/dispersible tablet','BMS Meymac France',Pediatric
+101-CD-T30,FPQ-8840,'Congo DRC',11/21/11,Lamivudine/Zidovudine,Generic,150/300mg,'Tablet - FDC','Aurobindo Unit III India',Adult
+114-UG-T30,FPQ-13693,Uganda,2/7/14,Lopinavir/Ritonavir,Aluvia,200/50mg,Tablet,'ABBVIE Ludwigshafen Germany',Adult
+116-ZA-T30,FPQ-14942,'South Africa',9/11/14,Abacavir,Generic,300mg,Tablet,'Aurobindo Unit III India',Adult
+161-ZA-T30,FPQ-5648,'South Africa',6/2/10,Lamivudine,Generic,150mg,Tablet,'Strides Bangalore India.',Adult
+103-ZW-T30,FPQ-12086,Zimbabwe,4/19/13,Abacavir,Generic,20mg/ml,'Oral solution','Aurobindo Unit III India',Pediatric
+104-CI-T01,'Pre-PQ Process','Cote d Ivoire','Pre-PQ Process','HIV Genie II HIV-1/HIV-2 Kit',Genie,300mg,'Test kit','Bio-Rad Laboratories','HIV test'
+109-TZ-T30,FPQ-8303,Tanzania,8/22/11,Lamivudine/Nevirapine/Zidovudine,Generic,30/50/60mg,'Chewable/dispersible tablet - FDC','Mylan (formerly Matrix) Nashik',Pediatric
+104-CI-T01,'Pre-PQ Process','Cote d Ivoire','Pre-PQ Process','HIV 2 New LAV Blot 2 HIV Kit',LAV,300mg,'Test kit','Bio-Rad Laboratories','HIV test'
+116-ZA-T01,'Pre-PQ Process','South Africa','Pre-PQ Process',Lopinavir/Ritonavir,Kaletra,133.3/33.3mg,Capsule,'ABBVIE (Abbott) Logis. UK',Adult
+106-HT-T30,FPQ-5523,Haiti,4/19/10,Stavudine,Generic,30mg,Capsule,'Strides Bangalore India.',Adult
+110-ZM-T30,FPQ-13221,Zambia,10/31/13,'Lamivudine/Tenofovir Disoproxil Fumarate',Generic,300/300mg,'Tablet - FDC','Hetero Unit III Hyderabad IN',Adult
+101-CD-T30,FPQ-14654,'Congo DRC',8/11/14,'HIV 1/2 Uni-Gold HIV Kit',Uni-Gold,300mg,'Test kit','Trinity Biotech Plc','HIV test'
+101-CD-T30,FPQ-14569,'Congo DRC',7/23/14,Sulfadoxine/Pyrimethamine,Generic,500/25mg,'Tablet - FDC','Guilin OSD site No 17 China',Malaria
+102-SZ-T30,FPQ-10537,Swaziland,8/23/12,'Chase Buffer Determine 100 Tests 2.5ml x 1 Vial',Determine,300mg,'Test kit - Ancillary','Alere Medical Co. Ltd.','HIV test - Ancillary'
+102-SD-T30,FPQ-6991,Sudan,2/5/11,'HIV 1/2 Uni-Gold HIV Kit',Uni-Gold,300mg,'Test kit','Trinity Biotech Plc','HIV test'
+110-ZM-T30,FPQ-11553,Zambia,1/28/13,Nevirapine,Generic,200mg,Tablet,'Cipla Goa India',Adult
+133-NG-T30,FPQ-14305,Nigeria,5/16/14,'HIV 1/2 Determine Complete HIV Kit',Determine,300mg,'Test kit','Alere Medical Co. Ltd.','HIV test'
+108-VN-T30,FPQ-13976,Vietnam,4/8/14,Lamivudine/Nevirapine/Zidovudine,Generic,150/300/200mg,'Tablet - FDC','Mylan (formerly Matrix) Nashik',Adult
+101-CD-T30,FPQ-13554,'Congo DRC',1/15/14,Abacavir,Generic,300mg,Tablet,'Aurobindo Unit III India',Adult
+102-KE-T30,FPQ-4250,Kenya,9/16/09,'HIV 1/2 Bioline 3.0 Kit Lancets Capillary pipets Alcohol swabs included',Bioline,300mg,'Test kit','Standard Diagnostics Korea','HIV test'
+106-HT-T30,FPQ-6194,Haiti,8/7/10,'HIV 1/2 Colloidal Gold Diagnostic Kit Antibody','Colloidal Gold',300mg,'Test kit','KHB Test Kit Facility Shanghai China','HIV test'
+113-ZW-T01,'Pre-PQ Process',Zimbabwe,'Pre-PQ Process',Lamivudine/Nevirapine/Stavudine,Generic,150/200/30mg,'Tablet - FDC','Cipla Goa India',Adult
+105-SS-T30,FPQ-12623,'South Sudan',7/18/13,'HIV 1/2 Uni-Gold HIV Kit',Uni-Gold,300mg,'Test kit','Trinity Biotech Plc','HIV test'
+123-NG-T01,'Pre-PQ Process',Nigeria,'Pre-PQ Process',Efavirenz,Generic,600mg,Tablet,'Aurobindo Unit III India',Adult
+113-ZW-T30,FPQ-11422,Zimbabwe,1/4/13,Lopinavir/Ritonavir,Generic,200/50mg,Tablet,'Aurobindo Unit III India',Adult
+106-HT-T01,'Pre-PQ Process',Haiti,'Pre-PQ Process',Efavirenz,Generic,50mg,Capsule,'Aurobindo Unit III India',Pediatric
+102-ML-T30,FPQ-11783,Mali,3/15/13,'HIV 1/2 Determine Complete HIV Kit',Determine,300mg,'Test kit','Alere Medical Co. Ltd.','HIV test'
+119-NA-T01,'Pre-PQ Process',Namibia,'Pre-PQ Process','HIV 1/2 Clearview Complete Kit',Clearview,300mg,'Test kit','Chembio Diagnostics Sys. Inc.','HIV test'
+101-CD-T30,FPQ-8840,'Congo DRC',11/21/11,'Lamivudine/Tenofovir Disoproxil Fumarate',Generic,300/300mg,'Tablet - FDC','Mylan (formerly Matrix) Nashik',Adult
+110-ZM-T01,'Pre-PQ Process',Zambia,'Pre-PQ Process','HIV 1/2 Determine HIV Kit without Lancets',Determine,300mg,'Test kit','Inverness Japan','HIV test'
+104-CI-T30,FPQ-11254,'Cote d Ivoire',12/14/12,'Tenofovir Disoproxil Fumarate',Generic,300mg,Tablet,'Mylan (formerly Matrix) Nashik',Adult
+109-TZ-T01,'Pre-PQ Process',Tanzania,'Pre-PQ Process','Emtricitabine/Tenofovir Disoproxil Fumarate',Truvada,300/200mg,'Tablet - FDC','Aspen-OSD Port Elizabeth SA',Adult
+107-RW-T30,FPQ-12901,Rwanda,8/30/13,'Efavirenz/Lamivudine/Tenofovir Disoproxil Fumarate',Generic,600/300/300mg,'Tablet - FDC','Hetero Unit III Hyderabad IN',Adult
+161-ZA-T30,FPQ-7175,'South Africa',3/10/11,Nevirapine,Generic,10mg/ml,'Oral suspension','Aurobindo Unit III India',Pediatric
+108-VN-T01,'Pre-PQ Process',Vietnam,'Pre-PQ Process',Lamivudine/Nevirapine/Stavudine,Generic,150/200/30mg,'Tablet - FDC','Cipla Goa India',Adult
+106-HT-T30,FPQ-4384,Haiti,10/23/09,Abacavir,Generic,300mg,Tablet,'Aurobindo Unit III India',Adult
+161-ZA-T30,FPQ-6708,'South Africa',11/26/10,'Tenofovir Disoproxil Fumarate',Generic,300mg,Tablet,'Aurobindo Unit III India',Adult
+114-UG-T30,FPQ-12473,Uganda,6/11/13,Efavirenz,Generic,600mg,Tablet,'Aurobindo Unit III India',Adult
+116-ZA-T30,FPQ-12522,'South Africa',7/11/13,'Emtricitabine/Tenofovir Disoproxil Fumarate',Generic,200/300mg,'Tablet - FDC','Aurobindo Unit III India',Adult
+114-UG-T30,FPQ-3891,Uganda,7/22/09,Indinavir,Crixivan,400mg,Capsule,'MSD Haarlem NL',Adult
+161-ZA-T30,FPQ-6708,'South Africa',11/26/10,Abacavir,Ziagen,20mg/ml,'Oral solution','GSK Mississauga (Canada)',Pediatric
+108-VN-T01,'Pre-PQ Process',Vietnam,'Pre-PQ Process',Lopinavir/Ritonavir,Aluvia,200/50mg,Tablet,'ABBVIE Ludwigshafen Germany',Adult
+101-CD-T30,FPQ-11096,'Congo DRC',11/20/12,Lamivudine/Nevirapine/Zidovudine,Generic,30/50/60mg,'Chewable/dispersible tablet - FDC','Mylan (formerly Matrix) Nashik',Pediatric
+106-HT-T30,FPQ-5523,Haiti,4/19/10,Stavudine,Generic,20mg,Capsule,'Aurobindo Unit III India',Adult
+110-ZM-T30,FPQ-7667,Zambia,7/26/11,Nevirapine,Generic,10mg/ml,'Oral suspension','Aurobindo Unit III India',Pediatric
+111-MZ-T30,FPQ-12416,Mozambique,6/28/13,Lamivudine/Nevirapine/Zidovudine,Generic,150/300/200mg,'Tablet - FDC','Strides Bangalore India.',Adult
+117-ET-T01,'Pre-PQ Process',Ethiopia,'Pre-PQ Process','HIV 1/2 Stat-Pak HIV Kit',Stat-Pak,300mg,'Test kit','Chembio Diagnostics Sys. Inc.','HIV test'
+107-RW-T30,FPQ-14111,Rwanda,4/22/14,Lamivudine/Nevirapine/Zidovudine,Generic,150/300/200mg,'Tablet - FDC','Mylan (formerly Matrix) Nashik',Adult
+101-CD-T30,FPQ-8840,'Congo DRC',11/21/11,Lamivudine,Generic,150mg,Tablet,'Hetero Unit III Hyderabad IN',Adult
+131-NG-T01,'Pre-PQ Process',Nigeria,'Pre-PQ Process','Emtricitabine/Tenofovir Disoproxil Fumarate',Truvada,300/200mg,'Tablet - FDC','Aspen-OSD Port Elizabeth SA',Adult
+112-NG-T01,'Pre-PQ Process',Nigeria,'Pre-PQ Process',Lamivudine,Generic,10mg/ml,'Oral solution','Aurobindo Unit III India',Pediatric
+104-CI-T30,FPQ-12144,'Cote d Ivoire',4/22/13,Abacavir/Lamivudine,Generic,600/300mg,'Tablet - FDC','Mylan (formerly Matrix) Nashik',Adult
+111-MZ-T30,FPQ-11033,Mozambique,11/12/12,Lamivudine/Zidovudine,Generic,150/300mg,'Tablet - FDC','Hetero Unit III Hyderabad IN',Adult
+101-CD-T30,FPQ-11096,'Congo DRC',11/20/12,Didanosine,Generic,200mg,'Delayed-release capsules','Aurobindo Unit III India',Pediatric
+109-TZ-T30,FPQ-12015,Tanzania,4/2/13,'Emtricitabine/Tenofovir Disoproxil Fumarate',Generic,200/300mg,'Tablet - FDC','Mylan (formerly Matrix) Nashik',Adult
+109-TZ-T30,FPQ-8303,Tanzania,8/22/11,Nevirapine,Generic,10mg/ml,'Oral suspension','Aurobindo Unit III India',Pediatric
+114-UG-T30,FPQ-5837,Uganda,6/25/10,Etravirine,Intelence,100mg,Tablet,'Janssen-Cilag Latina IT',Adult
+151-NG-T01,'Pre-PQ Process',Nigeria,'Pre-PQ Process','Emtricitabine/Tenofovir Disoproxil Fumarate',Truvada,300/200mg,'Tablet - FDC','Aspen-OSD Port Elizabeth SA',Adult
+151-NG-T30,FPQ-14766,Nigeria,8/13/14,Lamivudine/Nevirapine/Zidovudine,Generic,150/300/200mg,'Tablet - FDC','Strides Bangalore India.',Adult
+106-HT-T30,FPQ-6801,Haiti,12/14/10,Efavirenz,Generic,200mg,Capsule,'Aurobindo Unit III India',Pediatric
+100-SZ-T01,'Pre-PQ Process',Swaziland,'Pre-PQ Process','Tenofovir Disoproxil Fumarate',Generic,300mg,Tablet,'Mylan (formerly Matrix) Nashik',Adult
+108-VN-T30,FPQ-9576,Vietnam,4/11/12,Zidovudine,Generic,10mg/ml,'Oral solution','Aurobindo Unit III India',Pediatric
+105-SS-T30,FPQ-14470,'South Sudan',6/17/14,'HIV 1/2 Uni-Gold HIV Kit',Uni-Gold,300mg,'Test kit','Trinity Biotech Plc','HIV test'
+111-MZ-T30,FPQ-14226,Mozambique,5/2/14,'Tenofovir Disoproxil Fumarate',Generic,300mg,Tablet,'Hetero Unit III Hyderabad IN',Adult
+112-NG-T01,'Pre-PQ Process',Nigeria,'Pre-PQ Process',Lamivudine/Zidovudine,Generic,150/300mg,'Tablet - FDC','Mylan (formerly Matrix) Nashik',Adult
+102-SD-T30,FPQ-8261,Sudan,8/29/11,'HIV 1/2 Determine Complete HIV Kit',Determine,300mg,'Test kit','Alere Medical Co. Ltd.','HIV test'
+116-ZA-T30,FPQ-14942,'South Africa',9/11/14,Efavirenz,Generic,200mg,Capsule,'Aurobindo Unit III India',Pediatric
+151-NG-T30,FPQ-6800,Nigeria,12/7/10,Nevirapine,Generic,200mg,Tablet,'Strides Bangalore India.',Adult
+108-VN-T01,'Pre-PQ Process',Vietnam,'Pre-PQ Process','Tenofovir Disoproxil Fumarate',Generic,300mg,Tablet,'Mylan (formerly Matrix) Nashik',Adult
+116-ZA-T30,FPQ-12522,'South Africa',7/11/13,Efavirenz,Generic,200mg,Capsule,'Aurobindo Unit III India',Pediatric
+102-KE-T01,'Pre-PQ Process',Kenya,'Pre-PQ Process','HIV 1/2 Determine Complete HIV Kit',Determine,300mg,'Test kit','Inverness Japan','HIV test'
+114-UG-T01,'Pre-PQ Process',Uganda,'Pre-PQ Process',Zidovudine,Generic,300mg,Tablet,'Aurobindo Unit III India',Adult
+108-VN-T01,'Pre-PQ Process',Vietnam,'Pre-PQ Process',Lamivudine,Generic,150mg,Tablet,'Aurobindo Unit III India',Adult
+101-CD-T30,FPQ-12088,'Congo DRC',4/12/13,Zidovudine,Generic,10mg/ml,'Oral solution','Aurobindo Unit III India',Pediatric
+106-HT-T30,FPQ-9056,Haiti,12/20/11,Lamivudine,Generic,10mg/ml,'Oral solution','Aurobindo Unit III India',Pediatric
+107-RW-T01,'Pre-PQ Process',Rwanda,'Pre-PQ Process','HIV 1/2 Capillus HIV Kit',Capillus,300mg,'Test kit','Trinity Biotech Plc','HIV test'
+106-HT-T30,FPQ-11286,Haiti,1/16/13,Lopinavir/Ritonavir,Kaletra,80/20mg/ml,'Oral solution','ABBVIE (Abbott) Logis. UK',Pediatric
+117-ET-T01,'Pre-PQ Process',Ethiopia,'Pre-PQ Process','HIV 1/2 Determine Complete HIV Kit',Determine,300mg,'Test kit','ABBVIE GmbH & Co.KG Wiesbaden','HIV test'
+133-NG-T30,FPQ-8117,Nigeria,7/28/11,'HIV 1/2 Determine Complete HIV Kit',Determine,300mg,'Test kit','Alere Medical Co. Ltd.','HIV test'
+110-ZM-T01,'Pre-PQ Process',Zambia,'Pre-PQ Process','HIV Lancet Safety for HIV Test kits 100 Pcs',Generic,300mg,'Test kit - Ancillary','Inverness Japan','HIV test - Ancillary'
+114-UG-T01,'Pre-PQ Process',Uganda,'Pre-PQ Process','HIV 1/2 Uni-Gold HIV Kit',Uni-Gold,300mg,'Test kit','Trinity Biotech Plc','HIV test'
+112-NG-T01,'Pre-PQ Process',Nigeria,'Pre-PQ Process',Lamivudine/Nevirapine/Stavudine,Generic,150/200/40mg,'Tablet - FDC','Cipla Goa India',Adult
+151-NG-T30,FPQ-9968,Nigeria,5/23/12,Nevirapine,Generic,200mg,Tablet,'Aurobindo Unit III India',Adult
+116-ZA-T30,FPQ-14942,'South Africa',9/11/14,Nevirapine,Generic,200mg,Tablet,'Aurobindo Unit III India',Adult
+106-HT-T01,'Pre-PQ Process',Haiti,'Pre-PQ Process',Stavudine,Generic,1mg/ml,'Oral solution','Aurobindo Unit III India',Pediatric
+116-ZA-T01,'Pre-PQ Process','South Africa','Pre-PQ Process',Zidovudine,Generic,300mg,Tablet,'Aurobindo Unit III India',Adult
+109-TZ-T30,FPQ-12868,Tanzania,8/23/13,Abacavir,Generic,300mg,Tablet,'Aurobindo Unit III India',Adult
+106-HT-T30,FPQ-15038,Haiti,10/22/14,Efavirenz,Generic,600mg,Tablet,'Aurobindo Unit VII IN',Adult
+114-UG-T30,FPQ-9321,Uganda,2/10/12,Lamivudine/Nevirapine/Zidovudine,Generic,150/300/200mg,'Tablet - FDC','Strides Bangalore India.',Adult
+102-KE-T30,FPQ-6406,Kenya,9/27/10,'HIV 1/2 Determine Complete HIV Kit',Determine,300mg,'Test kit','Inverness Japan','HIV test'
+104-CI-T30,FPQ-4698,'Cote d Ivoire',12/28/09,Ritonavir,Norvir,100mg,Tablet,'ABBVIE Ludwigshafen Germany',Adult
+114-UG-T30,FPQ-5275,Uganda,3/4/10,Zidovudine,Generic,300mg,Tablet,'Aurobindo Unit III India',Adult
+114-UG-T30,FPQ-4373,Uganda,11/25/09,Ritonavir,Norvir,100mg,Capsule,'ABBVIE (Abbott) Logis. UK',Adult
+105-GY-T30,FPQ-12235,Guyana,5/6/13,'HIV 1/2 Determine Complete HIV Kit',Determine,300mg,'Test kit','Alere Medical Co. Ltd.','HIV test'
+123-NG-T01,'Pre-PQ Process',Nigeria,'Pre-PQ Process',Lamivudine/Zidovudine,Generic,150/300mg,'Tablet - FDC','Aurobindo Unit III India',Adult
+116-ZA-T30,FPQ-12522,'South Africa',7/11/13,Didanosine,Generic,400mg,'Delayed-release capsules','Aurobindo Unit III India',Adult
+111-MZ-T30,FPQ-11923,Mozambique,4/19/13,Ritonavir,Norvir,100mg,Tablet,'ABBVIE Ludwigshafen Germany',Adult
+111-MZ-T30,FPQ-15323,Mozambique,11/12/14,'HIV 1/2 Uni-Gold HIV Kit',Uni-Gold,300mg,'Test kit','Trinity Biotech Plc','HIV test'
+100-GH-T01,'Pre-PQ Process',Ghana,'Pre-PQ Process',Didanosine,Generic,100mg,'Chewable/dispersible tablet','Aurobindo Unit III India',Pediatric
+108-VN-T01,'Pre-PQ Process',Vietnam,'Pre-PQ Process',Lamivudine/Nevirapine/Zidovudine,Generic,150/300/200mg,'Tablet - FDC','Aurobindo Unit III India',Adult
+103-UG-T30,FPQ-10289,Uganda,7/11/12,'Efavirenz/Lamivudine/Tenofovir Disoproxil Fumarate',Generic,600/300/300mg,'Tablet - FDC','Mylan (formerly Matrix) Nashik',Adult
+104-CI-T30,FPQ-6144,'Cote d Ivoire',8/3/10,Didanosine,Generic,200mg,'Chewable/dispersible tablet','Aurobindo Unit III India',Pediatric
+117-ET-T30,FPQ-14544,Ethiopia,6/30/14,Abacavir/Lamivudine,Generic,60/30mg,'Chewable/dispersible tablet - FDC','Cipla Patalganga India',Pediatric
+107-RW-T30,FPQ-9969,Rwanda,5/25/12,'Efavirenz/Lamivudine/Tenofovir Disoproxil Fumarate',Generic,600/300/300mg,'Tablet - FDC','Mylan (formerly Matrix) Nashik',Adult
+111-MZ-T30,FPQ-11882,Mozambique,3/19/13,Zidovudine,Generic,300mg,Tablet,'Hetero Unit III Hyderabad IN',Adult
+109-TZ-T30,FPQ-12050,Tanzania,4/12/13,Lopinavir/Ritonavir,Kaletra,80/20mg/ml,'Oral solution','ABBVIE (Abbott) Logis. UK',Pediatric
+116-ZA-T30,FPQ-7176,'South Africa',3/10/11,Efavirenz,Generic,200mg,Capsule,'Aurobindo Unit III India',Pediatric
+116-ZA-T01,'Pre-PQ Process','South Africa','Pre-PQ Process','Emtricitabine/Tenofovir Disoproxil Fumarate',Truvada,300/200mg,'Tablet - FDC','Aspen-OSD Port Elizabeth SA',Adult
+114-UG-T30,FPQ-7162,Uganda,2/14/11,Lamivudine/Zidovudine,Generic,150/300mg,'Tablet - FDC','Aurobindo Unit III India',Adult
+102-SZ-T30,FPQ-9212,Swaziland,1/19/12,'HIV 1/2 Determine Complete HIV Kit',Determine,300mg,'Test kit','Alere Medical Co. Ltd.','HIV test'
+103-MW-T30,FPQ-10790,Malawi,10/17/12,'Efavirenz/Lamivudine/Tenofovir Disoproxil Fumarate',Generic,600/300/300mg,'Tablet - FDC','Mylan (formerly Matrix) Nashik',Adult
+114-UG-T01,'Pre-PQ Process',Uganda,'Pre-PQ Process',Lopinavir/Ritonavir,Aluvia,200/50mg,Tablet,'ABBVIE Ludwigshafen Germany',Adult
+114-UG-T01,'Pre-PQ Process',Uganda,'Pre-PQ Process',Lamivudine,Generic,150mg,Tablet,'Aurobindo Unit III India',Adult
+101-CD-T30,FPQ-8840,'Congo DRC',11/21/11,Nevirapine,Generic,200mg,Tablet,'Strides Bangalore India.',Adult
+116-ZA-T01,'Pre-PQ Process','South Africa','Pre-PQ Process',Nevirapine,Viramune,10mg/ml,'Oral suspension','BI Ingelheim Germany',Pediatric
+151-NG-T30,FPQ-5023,Nigeria,2/10/10,Nevirapine,Generic,200mg,Tablet,'Aurobindo Unit III India',Adult
+107-RW-T30,FPQ-6341,Rwanda,9/3/10,Nevirapine,Generic,200mg,Tablet,'Hetero Unit III Hyderabad IN',Adult
+111-MZ-T30,FPQ-8157,Mozambique,8/4/11,Lamivudine/Nevirapine/Zidovudine,Generic,150/300/200mg,'Tablet - FDC','Aurobindo Unit III India',Adult
+119-NA-T01,'Pre-PQ Process',Namibia,'Pre-PQ Process','HIV 1/2 Determine HIV Kit without Lancets',Determine,300mg,'Test kit','Inverness Japan','HIV test'
+104-CI-T30,FPQ-8295,'Cote d Ivoire',8/25/11,'Tenofovir Disoproxil Fumarate',Generic,300mg,Tablet,'Mylan (formerly Matrix) Nashik',Adult
+110-ZM-T30,FPQ-5702,Zambia,5/20/10,Lamivudine/Stavudine,Generic,150/30mg,'Tablet - FDC','Cipla Goa India',Adult
+108-VN-T01,'Pre-PQ Process',Vietnam,'Pre-PQ Process',Lopinavir/Ritonavir,Aluvia,200/50mg,Tablet,'ABBVIE Ludwigshafen Germany',Adult
+116-ZA-T01,'Pre-PQ Process','South Africa','Pre-PQ Process',Lopinavir/Ritonavir,Aluvia,200/50mg,Tablet,'ABBVIE Ludwigshafen Germany',Adult
+109-TZ-T30,FPQ-13042,Tanzania,10/1/13,Nevirapine,Generic,200mg,Tablet,'Hetero Unit III Hyderabad IN',Adult
+901-NA-T30,FPQ-14728,Namibia,7/30/14,'Efavirenz/Emtricitabine/Tenofovir Disoproxil Fumarate',Generic,600/200/300mg,'Tablet - FDC','Mylan  H-12 & H-13 India',Adult
+900-UG-T30,FPQ-10048,Uganda,6/6/12,Efavirenz,Generic,600mg,Tablet,'Strides Bangalore India.',Adult
+103-DO-T30,FPQ-11964,'Dominican Republic',4/10/13,Atazanavir,Generic,300mg,Capsule,'Emcure Plot No.P-2 I.T-B.T. Park Phase II MIDC Hinjwadi Pune India',Adult
+113-ZW-T30,FPQ-14458,Zimbabwe,6/13/14,'Efavirenz/Lamivudine/Tenofovir Disoproxil Fumarate',Generic,600/300/300mg,'Tablet - FDC','Cipla Ltd A-42 MIDC Mahar. IN',Adult
+151-NG-T30,FPQ-5023,Nigeria,2/10/10,'Emtricitabine/Tenofovir Disoproxil Fumarate',Generic,200/300mg,'Tablet - FDC','Mylan (formerly Matrix) Nashik',Adult
+116-ZA-T30,FPQ-11828,'South Africa',3/18/13,Stavudine,Generic,30mg,Capsule,'Aurobindo Unit III India',Adult
+106-HT-T01,'Pre-PQ Process',Haiti,'Pre-PQ Process',Stavudine,Generic,30mg,Capsule,'Aurobindo Unit III India',Adult
+110-ZM-T01,'Pre-PQ Process',Zambia,'Pre-PQ Process',Lamivudine/Zidovudine,Generic,150/300mg,'Tablet - FDC','Aurobindo Unit III India',Adult
+117-ET-T01,'Pre-PQ Process',Ethiopia,'Pre-PQ Process',Nevirapine,Generic,200mg,Tablet,'Aurobindo Unit III India',Adult
+116-ZA-T30,FPQ-11828,'South Africa',3/18/13,Efavirenz,Generic,600mg,Tablet,'Cipla Goa India',Adult
+108-VN-T30,FPQ-10811,Vietnam,10/15/12,Lamivudine,Generic,10mg/ml,'Oral solution','Aurobindo Unit III India',Pediatric
+106-HT-T30,FPQ-4469,Haiti,9/23/09,Zidovudine,Generic,100mg,Capsule,'Aurobindo Unit III India',Pediatric
+113-ZW-T30,FPQ-7052,Zimbabwe,1/19/11,Lamivudine/Nevirapine/Stavudine,Generic,150/200/30mg,'Tablet - FDC','Cipla Goa India',Adult
+144-BW-T30,FPQ-4167,Botswana,9/9/09,'HIV OraQuick Controls Kit 3 Vials',OraQuick,300mg,'Test kit - Ancillary','Orasure Technologies Inc USA','HIV test - Ancillary'
+108-VN-T01,'Pre-PQ Process',Vietnam,'Pre-PQ Process',Zidovudine,Generic,10mg/ml,'Oral solution','Aurobindo Unit III India',Pediatric
+102-GY-T01,'Pre-PQ Process',Guyana,'Pre-PQ Process','HIV 1/2 Uni-Gold HIV Kit',Uni-Gold,300mg,'Test kit','Trinity Biotech Plc','HIV test'
+119-NA-T01,'Pre-PQ Process',Namibia,'Pre-PQ Process',Lamivudine/Nevirapine/Stavudine,Generic,30/50/6mg,'Chewable/dispersible tablet - FDC','Cipla Goa India',Pediatric
+106-HT-T30,FPQ-14083,Haiti,5/11/14,'Efavirenz/Lamivudine/Tenofovir Disoproxil Fumarate',Generic,600/300/300mg,'Tablet - FDC','Hetero Unit III Hyderabad IN',Adult
+110-ZM-T30,FPQ-6222,Zambia,8/20/10,Efavirenz,Generic,600mg,Tablet,'Hetero Unit III Hyderabad IN',Adult
+111-MZ-T01,'Pre-PQ Process',Mozambique,'Pre-PQ Process',Ritonavir,Norvir,100mg,Capsule,'ABBVIE (Abbott) Logis. UK',Adult
+111-MZ-T30,FPQ-7053,Mozambique,1/24/11,Nevirapine,Generic,10mg/ml,'Oral suspension','Aurobindo Unit III India',Pediatric
+111-MZ-T01,'Pre-PQ Process',Mozambique,'Pre-PQ Process','HIV 1/2 Determine HIV Kit without Lancets',Determine,300mg,'Test kit','Inverness Japan','HIV test'
+104-CI-T01,'Pre-PQ Process','Cote d Ivoire','Pre-PQ Process',Nevirapine,Generic,200mg,Tablet,'Aurobindo Unit III India',Adult
+105-SS-T30,FPQ-9807,'South Sudan',5/18/12,'HIV 1/2 Uni-Gold HIV Kit',Uni-Gold,300mg,'Test kit','Trinity Biotech Plc','HIV test'
+151-NG-T30,FPQ-9432,Nigeria,3/1/12,Efavirenz,Generic,600mg,Tablet,'Strides Bangalore India.',Adult
+104-CI-T01,'Pre-PQ Process','Cote d Ivoire','Pre-PQ Process','HIV 1/2 Determine HIV Kit without Lancets',Determine,300mg,'Test kit','Inverness Japan','HIV test'
+113-ZW-T30,FPQ-7052,Zimbabwe,1/19/11,Lamivudine/Nevirapine/Stavudine,Generic,150/200/30mg,'Tablet - FDC','Strides Bangalore India.',Adult
+116-ZA-T30,FPQ-12522,'South Africa',7/11/13,'Tenofovir Disoproxil Fumarate',Generic,300mg,Tablet,'Aurobindo Unit III India',Adult
+114-UG-T30,FPQ-5239,Uganda,3/2/10,Lamivudine/Stavudine,Generic,150/30mg,'Tablet - FDC','Cipla Goa India',Adult
+105-GH-T30,FPQ-14052,Ghana,4/12/14,Lamivudine/Nevirapine/Zidovudine,Generic,150/300/200mg,'Tablet - FDC','Aurobindo Unit III India',Adult
+113-ZW-T30,FPQ-4694,Zimbabwe,12/8/09,Zidovudine,Generic,300mg,Tablet,'Hetero Unit III Hyderabad IN',Adult
+101-CD-T30,FPQ-12033,'Congo DRC',4/8/13,Zidovudine,Generic,300mg,Tablet,'Aurobindo Unit III India',Adult
+102-BW-T01,'Pre-PQ Process',Botswana,'Pre-PQ Process','HIV Lancet Safety for HIV Test kits 100 Pcs',Generic,300mg,'Test kit - Ancillary','Inverness Japan','HIV test - Ancillary'
+116-ZA-T01,'Pre-PQ Process','South Africa','Pre-PQ Process',Stavudine,Zerit,20mg,Capsule,'BMS Meymac France',Adult
+116-ZA-T30,FPQ-12522,'South Africa',7/11/13,Lopinavir/Ritonavir,Kaletra,80/20mg/ml,'Oral solution','ABBVIE (Abbott) Logis. UK',Pediatric
+102-KE-T01,'Pre-PQ Process',Kenya,'Pre-PQ Process','HIV Lancet Safety for HIV Test kits 100 Pcs',Generic,300mg,'Test kit - Ancillary','Inverness Japan','HIV test - Ancillary'
+111-MZ-T30,FPQ-13123,Mozambique,10/21/13,Lamivudine/Stavudine,Generic,150/30mg,'Tablet - FDC','Hetero Unit III Hyderabad IN',Adult
+109-TZ-T01,'Pre-PQ Process',Tanzania,'Pre-PQ Process','HIV 1/2 Capillus HIV Kit',Capillus,300mg,'Test kit','Trinity Biotech Plc','HIV test'
+100-ZW-T01,'Pre-PQ Process',Zimbabwe,'Pre-PQ Process',Efavirenz,Generic,600mg,Tablet,'Aurobindo Unit III India',Adult
+133-NG-T30,FPQ-4891,Nigeria,1/15/10,'HIV 1/2 Determine Complete HIV Kit',Determine,300mg,'Test kit','Inverness Japan','HIV test'
+151-NG-T30,FPQ-6800,Nigeria,12/7/10,Lamivudine/Nevirapine/Zidovudine,Generic,150/300/200mg,'Tablet - FDC','Aurobindo Unit III India',Adult
+114-UG-T30,FPQ-4497,Uganda,10/28/09,Stavudine,Generic,30mg,Capsule,'Aurobindo Unit III India',Adult
+101-CD-T30,FPQ-8840,'Congo DRC',11/21/11,Lamivudine,Generic,150mg,Tablet,'Hetero Unit III Hyderabad IN',Adult
+161-ZA-T30,FPQ-5303,'South Africa',3/18/10,Lamivudine,Generic,150mg,Tablet,'Aurobindo Unit III India',Adult
+116-ZA-T01,'Pre-PQ Process','South Africa','Pre-PQ Process',Efavirenz,Generic,50mg,Capsule,'Aurobindo Unit III India',Pediatric
+108-VN-T01,'Pre-PQ Process',Vietnam,'Pre-PQ Process',Lopinavir/Ritonavir,Aluvia,200/50mg,Tablet,'ABBVIE (Abbott) Logis. UK',Adult
+105-SS-T30,FPQ-12623,'South Sudan',7/18/13,'HIV 1/2 Uni-Gold HIV Kit',Uni-Gold,300mg,'Test kit','Trinity Biotech Plc','HIV test'
+101-CD-T30,FPQ-12093,'Congo DRC',4/23/13,Lopinavir/Ritonavir,Kaletra,80/20mg/ml,'Oral solution','ABBVIE (Abbott) Logis. UK',Pediatric
+109-TZ-T30,FPQ-13042,Tanzania,10/1/13,Nevirapine,Generic,10mg/ml,'Oral suspension','Aurobindo Unit III India',Pediatric
+102-NG-T01,'Pre-PQ Process',Nigeria,'Pre-PQ Process','HIV 1/2 Determine Complete HIV Kit',Determine,300mg,'Test kit','ABBVIE GmbH & Co.KG Wiesbaden','HIV test'
+114-UG-T01,'Pre-PQ Process',Uganda,'Pre-PQ Process',Lamivudine/Nevirapine/Stavudine,Generic,150/200/30mg,'Tablet - FDC','Strides Bangalore India.',Adult
+114-UG-T30,FPQ-14396,Uganda,6/4/14,Lamivudine/Nevirapine/Zidovudine,Generic,30/50/60mg,'Chewable/dispersible tablet - FDC','Strides Bangalore India.',Pediatric
+110-ZM-T01,'Pre-PQ Process',Zambia,'Pre-PQ Process',Lamivudine/Nevirapine/Stavudine,Generic,150/200/30mg,'Tablet - FDC','Strides Bangalore India.',Adult
+161-ZA-T30,FPQ-7175,'South Africa',3/10/11,Nevirapine,Generic,200mg,Tablet,'Cipla Goa India',Adult
+106-HT-T30,FPQ-6484,Haiti,10/13/10,Lamivudine,Generic,10mg/ml,'Oral solution','Aurobindo Unit III India',Pediatric
+104-CI-T30,FPQ-10633,'Cote d Ivoire',9/11/12,Lopinavir/Ritonavir,Generic,200/50mg,Tablet,'Aurobindo Unit III India',Adult
+102-UG-T30,FPQ-6202,Uganda,8/6/10,Efavirenz,Generic,600mg,Tablet,'Strides Bangalore India.',Adult
+113-ZW-T30,FPQ-10632,Zimbabwe,9/11/12,Lamivudine/Nevirapine/Zidovudine,Generic,150/300/200mg,'Tablet - FDC','Aurobindo Unit III India',Adult
+111-MZ-T30,FPQ-12416,Mozambique,6/28/13,Abacavir,Generic,300mg,Tablet,'Mylan (formerly Matrix) Nashik',Adult
+107-RW-T30,FPQ-12766,Rwanda,8/2/13,Lamivudine/Nevirapine/Zidovudine,Generic,150/300/200mg,'Tablet - FDC','Aurobindo Unit III India',Adult
+107-RW-T30,FPQ-13812,Rwanda,3/4/14,Nevirapine,Generic,200mg,Tablet,'Hetero Unit III Hyderabad IN',Adult
+116-ZA-T30,FPQ-13973,'South Africa',4/30/14,Didanosine,Generic,250mg,'Delayed-release capsules','Aurobindo Unit III India',Adult
+108-VN-T30,FPQ-12539,Vietnam,7/11/13,Lamivudine/Nevirapine/Zidovudine,Generic,150/300/200mg,'Tablet - FDC','Cipla Goa India',Adult
+133-NG-T30,FPQ-9599,Nigeria,3/27/12,'HIV 1/2 Determine Complete HIV Kit',Determine,300mg,'Test kit','Alere Medical Co. Ltd.','HIV test'
+116-ZA-T30,FPQ-13973,'South Africa',4/30/14,Lamivudine,Generic,150mg,Tablet,'Aurobindo Unit III India',Adult
+106-HT-T01,'Pre-PQ Process',Haiti,'Pre-PQ Process',Lamivudine,Generic,150mg,Tablet,'Ranbaxy Paonta Shahib India',Adult
+161-ZA-T30,FPQ-7175,'South Africa',3/10/11,Efavirenz,Generic,600mg,Tablet,'Hetero Unit III Hyderabad IN',Adult
+113-ZW-T01,'Pre-PQ Process',Zimbabwe,'Pre-PQ Process',Lamivudine/Nevirapine/Stavudine,Generic,150/200/30mg,'Tablet - FDC','Cipla Goa India',Adult
+106-HT-T30,FPQ-11442,Haiti,1/30/13,Ritonavir,Norvir,100mg,Tablet,'ABBVIE Ludwigshafen Germany',Adult
+151-NG-T30,FPQ-11864,Nigeria,3/14/13,Efavirenz,Generic,600mg,Tablet,'Aurobindo Unit III India',Adult
+153-NA-T30,FPQ-8795,Namibia,12/5/11,'HIV 1/2 Uni-Gold HIV Kit',Uni-Gold,300mg,'Test kit','Trinity Biotech Plc','HIV test'
+116-ZA-T30,FPQ-13973,'South Africa',4/30/14,Raltegravir,Isentress,400mg,Tablet,'MSD Haarlem NL',Adult
+110-ZM-T30,FPQ-4356,Zambia,9/25/09,Lamivudine/Zidovudine,Generic,150/300mg,'Tablet - FDC','Hetero Unit III Hyderabad IN',Adult
+151-NG-T30,FPQ-13102,Nigeria,10/17/13,Zidovudine,Generic,300mg,Tablet,'Aurobindo Unit III India',Adult
+100-CI-T01,'Pre-PQ Process','Cote d Ivoire','Pre-PQ Process',Lamivudine/Zidovudine,Generic,150/300mg,'Tablet - FDC','Aurobindo Unit III India',Adult
+110-ZM-T01,'Pre-PQ Process',Zambia,'Pre-PQ Process',Lamivudine/Zidovudine,Generic,150/300mg,'Tablet - FDC','Aurobindo Unit III India',Adult
+107-RW-T30,FPQ-13851,Rwanda,3/10/14,Atazanavir/Ritonavir,Generic,300/100mg,Tablet,'Mylan (formerly Matrix) Nashik',Adult
+901-CM-T30,FPQ-12520,Cameroon,6/21/13,'Efavirenz/Lamivudine/Tenofovir Disoproxil Fumarate',Generic,600/300/300mg,'Tablet - FDC','Hetero Unit III Hyderabad IN',Adult
+104-CI-T01,'Pre-PQ Process','Cote d Ivoire','Pre-PQ Process',Lamivudine/Nevirapine/Stavudine,Generic,150/200/30mg,'Tablet - FDC','Cipla Goa India',Adult
+108-VN-T30,FPQ-12051,Vietnam,5/3/13,Lopinavir/Ritonavir,Aluvia,200/50mg,Tablet,'ABBVIE Ludwigshafen Germany',Adult
+151-NG-T30,FPQ-14989,Nigeria,9/19/14,'Efavirenz/Lamivudine/Tenofovir Disoproxil Fumarate',Generic,600/300/300mg,'Tablet - FDC','Aurobindo Unit VII IN',Adult
+106-HT-T30,FPQ-15038,Haiti,10/22/14,Lamivudine/Nevirapine/Zidovudine,Generic,150/300/200mg,'Tablet - FDC','Hetero Unit III Hyderabad IN',Adult
+116-ZA-T30,FPQ-14942,'South Africa',9/11/14,Etravirine,Intelence,100mg,Tablet,'Janssen-Cilag Latina IT',Adult
+110-ZM-T30,FPQ-12634,Zambia,7/17/13,'HIV 1/2 Uni-Gold HIV Kit',Uni-Gold,300mg,'Test kit','Trinity Biotech Plc','HIV test'
+113-ZW-T30,FPQ-7052,Zimbabwe,1/19/11,Efavirenz,Generic,600mg,Tablet,'Mylan (formerly Matrix) Nashik',Adult
+116-ZA-T30,FPQ-3596,'South Africa',5/7/09,Efavirenz,Generic,600mg,Tablet,'Aurobindo Unit III India',Adult
+131-NG-T01,'Pre-PQ Process',Nigeria,'Pre-PQ Process','Efavirenz/Emtricitabine/Tenofovir Disoproxil Fumarate',Atripla,600/200/300mg,'Tablet - FDC','MSD Haarlem NL',Adult
+108-VN-T30,FPQ-14516,Vietnam,7/9/14,Ritonavir,Norvir,100mg,Tablet,'ABBVIE Ludwigshafen Germany',Adult
+151-NG-T01,'Pre-PQ Process',Nigeria,'Pre-PQ Process',Lamivudine/Nevirapine/Zidovudine,Generic,150/300/200mg,'Tablet - FDC','Aurobindo Unit III India',Adult
+105-GY-T30,FPQ-8620,Guyana,10/27/11,Stavudine,Generic,15mg,Capsule,'Aurobindo Unit III India',Adult
+116-ZA-T30,FPQ-13973,'South Africa',4/30/14,Nevirapine,Generic,200mg,Tablet,'Aurobindo Unit III India',Adult
+161-ZA-T30,FPQ-6708,'South Africa',11/26/10,'Tenofovir Disoproxil Fumarate',Generic,300mg,Tablet,'Aurobindo Unit III India',Adult
+111-MZ-T30,FPQ-9506,Mozambique,3/16/12,Lamivudine,Generic,150mg,Tablet,'Strides Bangalore India.',Adult
+116-ZA-T01,'Pre-PQ Process','South Africa','Pre-PQ Process',Nevirapine,Generic,200mg,Tablet,'Cipla Goa India',Adult
+111-MZ-T01,'Pre-PQ Process',Mozambique,'Pre-PQ Process','Tenofovir Disoproxil Fumarate',Viread,300mg,Tablet,'Gilead(Nycomed) Oranienburg DE',Adult
+151-NG-T30,FPQ-14989,Nigeria,9/19/14,'Efavirenz/Lamivudine/Tenofovir Disoproxil Fumarate',Generic,600/300/300mg,'Tablet - FDC','Hetero Unit III Hyderabad IN',Adult
+113-ZW-T30,FPQ-6470,Zimbabwe,10/13/10,'Lamivudine/Tenofovir Disoproxil Fumarate',Generic,300/300mg,'Tablet - FDC','Mylan (formerly Matrix) Nashik',Adult
+104-CI-T30,FPQ-4378,'Cote d Ivoire',10/15/09,'Tenofovir Disoproxil Fumarate',Generic,300mg,Tablet,'Mylan (formerly Matrix) Nashik',Adult
+109-TZ-T30,FPQ-13804,Tanzania,2/28/14,Abacavir,Generic,300mg,Tablet,'Mylan (formerly Matrix) Nashik',Adult
+161-ZA-T30,FPQ-6708,'South Africa',11/26/10,'Tenofovir Disoproxil Fumarate',Generic,300mg,Tablet,'Aurobindo Unit III India',Adult
+110-ZM-T30,FPQ-10728,Zambia,10/5/12,Lamivudine/Zidovudine,Generic,150/300mg,'Tablet - FDC','Hetero Unit III Hyderabad IN',Adult
+116-ZA-T30,FPQ-14942,'South Africa',9/11/14,Abacavir,Generic,300mg,Tablet,'Aurobindo Unit III India',Adult
+110-ZM-T30,FPQ-7085,Zambia,2/3/11,Nevirapine,Generic,200mg,Tablet,'Hetero Unit III Hyderabad IN',Adult
+117-ET-T30,FPQ-15928,Ethiopia,3/10/15,'HIV 1/2 Stat-Pak HIV Kit',Stat-Pak,300mg,'Test kit','Chembio Diagnostics Sys. Inc.','HIV test'
+111-MZ-T01,'Pre-PQ Process',Mozambique,'Pre-PQ Process',Lamivudine,Generic,150mg,Tablet,'Aurobindo Unit III India',Adult
+106-HT-T30,FPQ-14895,Haiti,9/24/14,'Efavirenz/Lamivudine/Tenofovir Disoproxil Fumarate',Generic,600/300/300mg,'Tablet - FDC','Hetero Unit III Hyderabad IN',Adult
+116-ZA-T30,FPQ-4770,'South Africa',12/17/09,Ritonavir,Norvir,100mg,Capsule,'ABBVIE (Abbott) Logis. UK',Adult
+107-RW-T30,FPQ-8263,Rwanda,8/19/11,'HIV 1/2 Uni-Gold HIV Kit',Uni-Gold,300mg,'Test kit','Trinity Biotech Plc','HIV test'
+109-TZ-T30,FPQ-12197,Tanzania,4/30/13,'HIV 1/2 Determine Complete HIV Kit',Determine,300mg,'Test kit','Alere Medical Co. Ltd.','HIV test'
+114-UG-T30,FPQ-14396,Uganda,6/4/14,Efavirenz,Generic,600mg,Tablet,'Strides Bangalore India.',Adult
+901-CM-T30,FPQ-12837,Cameroon,8/19/13,Zidovudine,Generic,300mg,Tablet,'Aurobindo Unit III India',Adult
+151-NG-T30,FPQ-4537,Nigeria,11/6/09,Lamivudine/Zidovudine,Generic,150/300mg,'Tablet - FDC','Hetero Unit III Hyderabad IN',Adult
+116-ZA-T30,FPQ-5535,'South Africa',4/19/10,Efavirenz,Generic,50mg,Capsule,'Aurobindo Unit III India',Pediatric
+151-NG-T30,FPQ-11771,Nigeria,2/28/13,Lopinavir/Ritonavir,Generic,200/50mg,Tablet,'Hetero Unit III Hyderabad IN',Adult
+800-CM-T30,FPQ-12570,Cameroon,7/10/13,'HIV 1/2 Determine Complete HIV Kit',Determine,300mg,'Test kit','Alere Medical Co. Ltd.','HIV test'
+107-RW-T30,FPQ-14813,Rwanda,10/9/14,Atazanavir/Ritonavir,Generic,300/100mg,Tablet,'Emcure Plot No.P-2 I.T-B.T. Park Phase II MIDC Hinjwadi Pune India',Adult
+108-VN-T01,'Pre-PQ Process',Vietnam,'Pre-PQ Process',Didanosine,Generic,100mg,'Chewable/dispersible tablet','Aurobindo Unit III India',Pediatric
+116-ZA-T30,FPQ-13035,'South Africa',10/8/13,Nevirapine,Generic,200mg,Tablet,'Cipla Goa India',Adult
+116-ZA-T01,'Pre-PQ Process','South Africa','Pre-PQ Process',Efavirenz,Stocrin/Sustiva,50mg,Capsule,'MSD Midrand J burg SA',Pediatric
+104-CI-T30,FPQ-10405,'Cote d Ivoire',7/24/12,Efavirenz,Generic,600mg,Tablet,'Hetero Jadcherla unit 5 IN',Adult
+105-GH-T30,FPQ-14667,Ghana,8/11/14,Lamivudine/Zidovudine,Generic,30/60mg,'Chewable/dispersible tablet - FDC','Mylan  H-12 & H-13 India',Pediatric
+102-DO-T30,FPQ-9676,'Dominican Republic',4/9/12,Abacavir,Generic,300mg,Tablet,'Mylan (formerly Matrix) Nashik',Adult
+102-BW-T01,'Pre-PQ Process',Botswana,'Pre-PQ Process','HIV 1/2 OraQuick Advance HIV Rapid Antibody Kit',OraQuick,300mg,'Test kit','Pacific Biotech Thailand','HIV test'
+133-NG-T30,FPQ-12812,Nigeria,8/13/13,'HIV 1/2 Determine Complete HIV Kit',Determine,300mg,'Test kit','Alere Medical Co. Ltd.','HIV test'
+151-NG-T30,FPQ-5023,Nigeria,2/10/10,Lamivudine/Zidovudine,Generic,150/300mg,'Tablet - FDC','Mylan (formerly Matrix) Nashik',Adult
+103-ZW-T30,FPQ-13967,Zimbabwe,4/2/14,Lamivudine/Nevirapine/Zidovudine,Generic,30/50/60mg,'Chewable/dispersible tablet - FDC','Cipla Goa India',Pediatric
+800-LS-T30,FPQ-13954,Lesotho,3/24/14,'HIV 1/2 Determine Complete HIV Kit',Determine,300mg,'Test kit','Alere Medical Co. Ltd.','HIV test'
+113-ZW-T30,FPQ-7052,Zimbabwe,1/19/11,Lamivudine/Stavudine,Generic,150/30mg,'Tablet - FDC','Strides Bangalore India.',Adult
+116-ZA-T30,FPQ-13035,'South Africa',10/8/13,Efavirenz,Generic,600mg,Tablet,'Aurobindo Unit III India',Adult
+114-UG-T30,FPQ-10556,Uganda,8/30/12,Efavirenz,Generic,600mg,Tablet,'Aurobindo Unit III India',Adult
+151-NG-T01,'Pre-PQ Process',Nigeria,'Pre-PQ Process',Lamivudine/Nevirapine/Zidovudine,Generic,150/300/200mg,'Tablet - FDC','Aurobindo Unit III India',Adult
+111-MZ-T01,'Pre-PQ Process',Mozambique,'Pre-PQ Process',Abacavir/Lamivudine/Zidovudine,Trizivir,300/150/300mg,'Tablet - FDC','GSK Ware (UK)',Adult
+104-CI-T30,FPQ-5201,'Cote d Ivoire',3/3/10,Stavudine,Generic,1mg/ml,'Oral solution','Aurobindo Unit III India',Pediatric
+105-SS-T30,FPQ-12623,'South Sudan',7/18/13,'HIV 1/2 Uni-Gold HIV Kit',Uni-Gold,300mg,'Test kit','Trinity Biotech Plc','HIV test'
+105-SS-T30,FPQ-15569,'South Sudan',12/29/14,'HIV 1/2 Uni-Gold HIV Kit',Uni-Gold,300mg,'Test kit','Trinity Biotech Plc','HIV test'
+110-ZM-T30,FPQ-12066,Zambia,4/19/13,Nevirapine,Generic,200mg,Tablet,'Hetero Unit III Hyderabad IN',Adult
+111-MZ-T30,FPQ-4711,Mozambique,12/23/09,Lamivudine/Stavudine,Generic,150/30mg,'Tablet - FDC','Strides Bangalore India.',Adult
+100-LB-T01,'Pre-PQ Process',Lebanon,'Pre-PQ Process',Zidovudine,Generic,10mg/ml,'Oral solution','Aurobindo Unit III India',Pediatric
+101-CD-T30,FPQ-14636,'Congo DRC',7/23/14,Lamivudine,Generic,150mg,Tablet,'Micro labs Verna Goa India',Adult
+116-ZA-T30,FPQ-14942,'South Africa',9/11/14,Efavirenz,Generic,200mg,Capsule,'Aurobindo Unit III India',Pediatric
+113-ZW-T30,FPQ-7934,Zimbabwe,6/28/11,'Lamivudine/Tenofovir Disoproxil Fumarate',Generic,300/300mg,'Tablet - FDC','Mylan (formerly Matrix) Nashik',Adult
+900-UG-T30,FPQ-10089,Uganda,6/7/12,Nevirapine,Generic,200mg,Tablet,'Hetero Unit III Hyderabad IN',Adult
+106-HT-T30,FPQ-15038,Haiti,10/22/14,'Efavirenz/Lamivudine/Tenofovir Disoproxil Fumarate',Generic,600/300/300mg,'Tablet - FDC','Aurobindo Unit VII IN',Adult
+113-ZW-T30,FPQ-13508,Zimbabwe,12/24/13,Nevirapine,Generic,200mg,Tablet,'Micro labs Verna Goa India',Adult
+104-CI-T01,'Pre-PQ Process','Cote d Ivoire','Pre-PQ Process',Efavirenz,Generic,600mg,Tablet,'Aurobindo Unit III India',Adult
+105-SS-T30,FPQ-15569,'South Sudan',12/29/14,'HIV 1/2 Determine Complete HIV Kit',Determine,300mg,'Test kit','Alere Medical Co. Ltd.','HIV test'
+109-TZ-T30,FPQ-3782,Tanzania,6/11/09,Ritonavir,Norvir,100mg,Capsule,'ABBVIE (Abbott) Logis. UK',Adult
+111-MZ-T30,FPQ-10210,Mozambique,6/28/12,Nevirapine,Generic,200mg,Tablet,'Mylan (formerly Matrix) Nashik',Adult
+110-ZM-T01,'Pre-PQ Process',Zambia,'Pre-PQ Process',Lamivudine/Nevirapine/Stavudine,Generic,150/200/30mg,'Tablet - FDC','Cipla Goa India',Adult
+107-RW-T30,FPQ-13853,Rwanda,3/25/14,Atazanavir,Reyataz,150mg,Capsule,'BMS Evansville US',Pediatric
+110-ZM-T30,FPQ-14827,Zambia,8/19/14,'HIV 1/2 Determine Complete HIV Kit',Determine,300mg,'Test kit','Alere Medical Co. Ltd.','HIV test'
+107-RW-T30,FPQ-8716,Rwanda,10/31/11,Abacavir,Generic,20mg/ml,'Oral solution','Aurobindo Unit III India',Pediatric
+102-BI-T30,FPQ-12065,Burundi,4/22/13,'Emtricitabine/Tenofovir Disoproxil Fumarate',Generic,200/300mg,'Tablet - FDC','Aurobindo Unit III India',Adult
+106-HT-T01,'Pre-PQ Process',Haiti,'Pre-PQ Process',Efavirenz,Stocrin/Sustiva,30mg/ml,'Oral solution','MSD Haarlem NL',Pediatric
+111-MZ-T30,FPQ-12416,Mozambique,6/28/13,Zidovudine,Generic,300mg,Tablet,'Aurobindo Unit III India',Adult
+116-ZA-T30,FPQ-14942,'South Africa',9/11/14,Efavirenz,Generic,200mg,Capsule,'Aurobindo Unit III India',Pediatric
+108-VN-T30,FPQ-10286,Vietnam,7/25/12,Lamivudine/Nevirapine/Zidovudine,Generic,30/50/60mg,'Chewable/dispersible tablet - FDC','Mylan (formerly Matrix) Nashik',Pediatric
+116-ZA-T30,FPQ-13973,'South Africa',4/30/14,Nevirapine,Generic,200mg,Tablet,'Aurobindo Unit III India',Adult
+109-TZ-T30,FPQ-12015,Tanzania,4/2/13,'Efavirenz/Emtricitabine/Tenofovir Disoproxil Fumarate',Generic,600/200/300mg,'Tablet - FDC','Aurobindo Unit VII IN',Adult
+102-SD-T30,FPQ-7321,Sudan,3/29/11,'HIV 1/2 Determine Complete HIV Kit',Determine,300mg,'Test kit','Inverness Japan','HIV test'
+116-ZA-T01,'Pre-PQ Process','South Africa','Pre-PQ Process','Didanosine EC','Videx EC',250mg,'Delayed-release capsules - blister','BMS Meymac France',Adult
+151-NG-T30,FPQ-13293,Nigeria,11/19/13,Efavirenz,Generic,200mg,Tablet,'Strides Bangalore India.',Pediatric
+110-ZM-T01,'Pre-PQ Process',Zambia,'Pre-PQ Process',Nevirapine,Generic,200mg,Tablet,'Hetero Unit III Hyderabad IN',Adult
+114-UG-T30,FPQ-4275,Uganda,9/17/09,Lamivudine/Nevirapine/Zidovudine,Generic,150/300/200mg,'Tablet - FDC','Aurobindo Unit III India',Adult
+111-MZ-T30,FPQ-13124,Mozambique,10/21/13,Nevirapine,Generic,200mg,Tablet,'Hetero Unit III Hyderabad IN',Adult
+114-UG-T30,FPQ-4275,Uganda,9/17/09,Lamivudine/Zidovudine,Generic,150/300mg,'Tablet - FDC','Mylan (formerly Matrix) Nashik',Adult
+116-ZA-T01,'Pre-PQ Process','South Africa','Pre-PQ Process',Zidovudine,Retrovir,10mg/ml,'Oral solution','GSK Mississauga (Canada)',Pediatric
+110-ZM-T01,'Pre-PQ Process',Zambia,'Pre-PQ Process',Nevirapine,Generic,200mg,Tablet,'Hetero Unit III Hyderabad IN',Adult
+104-CI-T01,'Pre-PQ Process','Cote d Ivoire','Pre-PQ Process',Lamivudine,Generic,10mg/ml,'Oral solution','Aurobindo Unit III India',Pediatric
+111-MZ-T30,FPQ-13093,Mozambique,10/15/13,'HIV 1/2 Determine Complete HIV Kit',Determine,300mg,'Test kit','Alere Medical Co. Ltd.','HIV test'
+102-NG-T01,'Pre-PQ Process',Nigeria,'Pre-PQ Process','HIV Genie II HIV-1/HIV-2 Kit',Genie,300mg,'Test kit','Bio-Rad Laboratories','HIV test'
+110-ZM-T30,FPQ-9472,Zambia,3/8/12,'Efavirenz/Emtricitabine/Tenofovir Disoproxil Fumarate',Generic,600/200/300mg,'Tablet - FDC','Mylan (formerly Matrix) Nashik',Adult
+161-ZA-T30,FPQ-6262,'South Africa',8/31/10,Lamivudine,Generic,150mg,Tablet,'Aurobindo Unit III India',Adult
+102-ML-T30,FPQ-13391,Mali,12/16/13,'HIV 1/2 Clearview Complete Kit',Clearview,300mg,'Test kit','Chembio Diagnostics Sys. Inc.','HIV test'
+900-UG-T30,FPQ-10084,Uganda,6/7/12,Lopinavir/Ritonavir,Generic,200/50mg,Tablet,'Mylan (formerly Matrix) Nashik',Adult
+112-NG-T01,'Pre-PQ Process',Nigeria,'Pre-PQ Process',Lamivudine,Generic,150mg,Tablet,'Aurobindo Unit III India',Adult
+101-CD-T30,FPQ-14717,'Congo DRC',7/28/14,Didanosine,Generic,200mg,'Delayed-release capsules','Aurobindo Unit III India',Pediatric
+104-CI-T30,FPQ-11254,'Cote d Ivoire',12/14/12,Abacavir/Lamivudine,Generic,60/30mg,'Tablet - FDC','Mylan (formerly Matrix) Nashik',Pediatric
+119-NA-T01,'Pre-PQ Process',Namibia,'Pre-PQ Process','HIV 1/2 Clearview Complete Kit',Clearview,300mg,'Test kit','Inverness USA','HIV test'
+106-HT-T30,FPQ-4384,Haiti,10/23/09,Lamivudine/Zidovudine,Generic,150/300mg,'Tablet - FDC','Hetero Unit III Hyderabad IN',Adult
+114-UG-T30,FPQ-10945,Uganda,11/6/12,'Efavirenz/Lamivudine/Tenofovir Disoproxil Fumarate',Generic,600/300/300mg,'Tablet - FDC','Hetero Unit III Hyderabad IN',Adult
+110-ZM-T30,FPQ-12066,Zambia,4/19/13,Lamivudine/Nevirapine/Zidovudine,Generic,30/50/60mg,'Chewable/dispersible tablet - FDC','Mylan (formerly Matrix) Nashik',Pediatric
+116-ZA-T30,FPQ-14942,'South Africa',9/11/14,Lamivudine/Zidovudine,Generic,150/300mg,'Tablet - FDC','Aurobindo Unit III India',Adult
+901-NA-T30,FPQ-14728,Namibia,7/30/14,'Efavirenz/Emtricitabine/Tenofovir Disoproxil Fumarate',Generic,600/200/300mg,'Tablet - FDC','Mylan  H-12 & H-13 India',Adult
+116-ZA-T01,'Pre-PQ Process','South Africa','Pre-PQ Process',Zidovudine,Retrovir,300mg,Tablet,'GSK Aranda',Adult
+114-UG-T30,FPQ-7267,Uganda,3/4/11,'Efavirenz/Emtricitabine/Tenofovir Disoproxil Fumarate',Generic,600/200/300mg,'Tablet - FDC','Mylan (formerly Matrix) Nashik',Adult
+108-VN-T30,FPQ-4266,Vietnam,10/20/09,Lamivudine/Nevirapine/Zidovudine,Generic,150/300/200mg,'Tablet - FDC','Aurobindo Unit III India',Adult
+112-NG-T30,FPQ-4151,Nigeria,9/18/09,Artemether/Lumefantrine,Coartem,20/120mg,'Tablet - FDC + blister','Novartis Pharma AG Switzerland',ACT
+109-TZ-T30,FPQ-6226,Tanzania,8/16/10,Efavirenz,Generic,600mg,Tablet,'Mylan (formerly Matrix) Nashik',Adult
+104-CI-T01,'Pre-PQ Process','Cote d Ivoire','Pre-PQ Process',Nevirapine,Generic,10mg/ml,'Oral suspension','Aurobindo Unit III India',Pediatric
+109-TZ-T30,FPQ-10994,Tanzania,11/13/12,'HIV 1/2 Uni-Gold HIV Kit',Uni-Gold,300mg,'Test kit','Trinity Biotech Plc','HIV test'
+113-ZW-T30,FPQ-11545,Zimbabwe,1/24/13,'Lamivudine/Tenofovir Disoproxil Fumarate',Generic,300/300mg,'Tablet - FDC','Cipla Kurkumbh India',Adult
+114-UG-T30,FPQ-8522,Uganda,10/5/11,'Efavirenz/Emtricitabine/Tenofovir Disoproxil Fumarate',Generic,600/200/300mg,'Tablet - FDC','Mylan (formerly Matrix) Nashik',Adult
+106-HT-T30,FPQ-15038,Haiti,10/22/14,'Tenofovir Disoproxil Fumarate',Generic,300mg,Tablet,'Hetero Unit III Hyderabad IN',Adult
+104-CI-T30,FPQ-11253,'Cote d Ivoire',12/14/12,Lopinavir/Ritonavir,Generic,200/50mg,Tablet,'Aurobindo Unit III India',Adult
+104-CI-T01,'Pre-PQ Process','Cote d Ivoire','Pre-PQ Process',Lopinavir/Ritonavir,Kaletra,80/20mg/ml,'Oral solution','ABBVIE (Abbott) Logis. UK',Pediatric
+151-NG-T01,'Pre-PQ Process',Nigeria,'Pre-PQ Process','Emtricitabine/Tenofovir Disoproxil Fumarate',Generic,200/300mg,'Tablet - FDC','Mylan (formerly Matrix) Nashik',Adult
+151-NG-T30,FPQ-5688,Nigeria,5/27/10,Lamivudine/Nevirapine/Zidovudine,Generic,150/300/200mg,'Tablet - FDC','Aurobindo Unit III India',Adult
+107-RW-T30,FPQ-4854,Rwanda,1/6/10,Nelfinavir,Viracept,50mg/g,'Oral powder','Roche Basel',Pediatric
+113-ZW-T30,FPQ-8464,Zimbabwe,10/4/11,'Lamivudine/Tenofovir Disoproxil Fumarate',Generic,300/300mg,'Tablet - FDC','Mylan (formerly Matrix) Nashik',Adult
+116-ZA-T01,'Pre-PQ Process','South Africa','Pre-PQ Process','Tenofovir Disoproxil Fumarate',Viread,300mg,Tablet,'Aspen-OSD Port Elizabeth SA',Adult
+108-VN-T30,FPQ-6384,Vietnam,9/30/10,'Tenofovir Disoproxil Fumarate',Generic,300mg,Tablet,'Mylan (formerly Matrix) Nashik',Adult
+113-ZW-T30,FPQ-6470,Zimbabwe,10/13/10,Efavirenz,Generic,600mg,Tablet,'Mylan (formerly Matrix) Nashik',Adult
+103-MW-T30,FPQ-10790,Malawi,10/17/12,'Efavirenz/Lamivudine/Tenofovir Disoproxil Fumarate',Generic,600/300/300mg,'Tablet - FDC','Mylan (formerly Matrix) Nashik',Adult
+104-CI-T30,FPQ-9063,'Cote d Ivoire',12/21/11,Efavirenz,Generic,600mg,Tablet,'Strides Bangalore India.',Adult
+110-ZM-T30,FPQ-8315,Zambia,8/31/11,'HIV 1/2 Uni-Gold HIV Kit',Uni-Gold,300mg,'Test kit','Trinity Biotech Plc','HIV test'
+102-KE-T01,'Pre-PQ Process',Kenya,'Pre-PQ Process','HIV 1/2 Determine HIV Kit without Lancets',Determine,300mg,'Test kit','Inverness Japan','HIV test'
+144-BW-T30,FPQ-4487,Botswana,11/2/09,'HIV 1 Uni-Gold Recombigen HIV Control Vial 2 x 0.5 ml',Uni-Gold,300mg,'Test kit - Ancillary','Trinity Biotech Plc','HIV test - Ancillary'
+111-MZ-T01,'Pre-PQ Process',Mozambique,'Pre-PQ Process',Stavudine,Generic,15mg,Capsule,'Aurobindo Unit III India',Adult
+106-HT-T30,FPQ-7653,Haiti,5/11/11,Efavirenz,Generic,600mg,Tablet,'Strides Bangalore India.',Adult
+200-ZW-T30,FPQ-6483,Zimbabwe,10/13/10,Lamivudine/Nevirapine/Zidovudine,Generic,30/50/60mg,'Chewable/dispersible tablet - FDC','Mylan (formerly Matrix) Nashik',Pediatric
+101-CD-T30,FPQ-14654,'Congo DRC',8/11/14,'HIV 1/2 Uni-Gold HIV Kit',Uni-Gold,300mg,'Test kit','Trinity Biotech Plc','HIV test'
+103-ZW-T30,FPQ-13294,Zimbabwe,11/19/13,Abacavir/Lamivudine,Generic,60/30mg,'Tablet - FDC','Aurobindo Unit III India',Pediatric
+104-CI-T30,FPQ-6252,'Cote d Ivoire',8/26/10,'HIV 1/2 Stat-Pak Buffer Only',Stat-Pak,300mg,'Test kit - Ancillary','Chembio Diagnostics Sys. Inc.','HIV test - Ancillary'
+116-ZA-T30,FPQ-13973,'South Africa',4/30/14,Abacavir,Generic,300mg,Tablet,'Aurobindo Unit III India',Adult
+106-HT-T30,FPQ-5523,Haiti,4/19/10,Efavirenz,Generic,600mg,Tablet,'Strides Bangalore India.',Adult
+110-ZM-T30,FPQ-11553,Zambia,1/28/13,Nevirapine,Generic,200mg,Tablet,'Cipla Goa India',Adult
+116-ZA-T30,FPQ-14942,'South Africa',9/11/14,Didanosine,Generic,400mg,'Delayed-release capsules','Aurobindo Unit III India',Adult
+117-ET-T01,'Pre-PQ Process',Ethiopia,'Pre-PQ Process',Lamivudine,Generic,150mg,Tablet,'Aurobindo Unit III India',Adult
+104-CI-T30,FPQ-6891,'Cote d Ivoire',12/21/10,Lamivudine/Nevirapine/Zidovudine,Generic,150/300/200mg,'Tablet - FDC','Mylan (formerly Matrix) Nashik',Adult
+116-ZA-T30,FPQ-12522,'South Africa',7/11/13,Nevirapine,Generic,200mg,Tablet,'Aurobindo Unit III India',Adult
+101-CD-T30,FPQ-15787,'Congo DRC',1/26/15,Zidovudine,Generic,10mg/ml,'Oral solution','Aurobindo Unit III India',Pediatric
+108-VN-T30,FPQ-5094,Vietnam,3/15/10,Lamivudine/Zidovudine,Generic,150/300mg,'Tablet - FDC','Aurobindo Unit III India',Adult
+106-HT-T01,'Pre-PQ Process',Haiti,'Pre-PQ Process',Zidovudine,Generic,10mg/ml,'Oral solution','Aurobindo Unit III India',Pediatric
+109-TZ-T30,FPQ-13945,Tanzania,3/27/14,'HIV 1/2 Uni-Gold HIV Kit',Uni-Gold,300mg,'Test kit','Trinity Biotech Plc','HIV test'
+110-ZM-T30,FPQ-14151,Zambia,4/30/14,Nevirapine,Generic,200mg,Tablet,'Aurobindo Unit III India',Adult
+102-BI-T30,FPQ-9229,Burundi,1/25/12,Nevirapine,Generic,10mg/ml,'Oral suspension','Aurobindo Unit III India',Pediatric
+133-NG-T30,FPQ-10349,Nigeria,7/17/12,'HIV 1/2 Determine Complete HIV Kit',Determine,300mg,'Test kit','Alere Medical Co. Ltd.','HIV test'
+161-ZA-T30,FPQ-6262,'South Africa',8/31/10,'Tenofovir Disoproxil Fumarate',Generic,300mg,Tablet,'Cipla Goa India',Adult
+151-NG-T30,FPQ-10477,Nigeria,8/9/12,Nevirapine,Generic,200mg,Tablet,'Aurobindo Unit III India',Adult
+102-SD-T30,FPQ-8261,Sudan,8/29/11,'HIV 1/2 Uni-Gold HIV Kit',Uni-Gold,300mg,'Test kit','Trinity Biotech Plc','HIV test'
+108-VN-T01,'Pre-PQ Process',Vietnam,'Pre-PQ Process',Lamivudine/Zidovudine,Generic,150/300mg,'Tablet - FDC','Aurobindo Unit III India',Adult
+107-RW-T30,FPQ-14111,Rwanda,4/22/14,Lamivudine/Nevirapine/Zidovudine,Generic,30/50/60mg,'Chewable/dispersible tablet - FDC','Strides Bangalore India.',Pediatric
+116-ZA-T01,'Pre-PQ Process','South Africa','Pre-PQ Process',Efavirenz,Generic,200mg,Capsule,'Aurobindo Unit III India',Pediatric
+105-GY-T30,FPQ-5599,Guyana,4/28/10,Efavirenz,Generic,600mg,Tablet,'Aurobindo Unit III India',Adult
+110-ZM-T01,'Pre-PQ Process',Zambia,'Pre-PQ Process','HIV 1/2 Determine HIV Kit without Lancets',Determine,300mg,'Test kit','Inverness Japan','HIV test'
+104-CI-T30,FPQ-4378,'Cote d Ivoire',10/15/09,Lamivudine,Generic,10mg/ml,'Oral solution','Cipla Goa India',Pediatric
+116-ZA-T30,FPQ-4359,'South Africa',10/8/09,Zidovudine,Retrovir,300mg,Tablet,'GSK Ware (UK)',Adult
+109-TZ-T01,'Pre-PQ Process',Tanzania,'Pre-PQ Process',Ritonavir,Norvir,100mg,Capsule,'ABBVIE (Abbott) Logis. UK',Adult
+102-DO-T30,FPQ-9676,'Dominican Republic',4/9/12,Lamivudine,Generic,150mg,Tablet,'Macleods Daman Plant INDIA',Adult
+104-CI-T30,FPQ-6495,'Cote d Ivoire',10/4/10,Lamivudine/Nevirapine/Zidovudine,Generic,150/300/200mg,'Tablet - FDC','Aurobindo Unit III India',Adult
+102-CD-T30,FPQ-9640,'Congo DRC',4/2/12,Nevirapine,Generic,10mg/ml,'Oral suspension','Aurobindo Unit III India',Pediatric
+113-ZW-T01,'Pre-PQ Process',Zimbabwe,'Pre-PQ Process',Efavirenz,Generic,600mg,Tablet,'Aurobindo Unit III India',Adult
+112-NG-T01,'Pre-PQ Process',Nigeria,'Pre-PQ Process',Nevirapine,Generic,10mg/ml,'Oral suspension','Aurobindo Unit III India',Pediatric
+111-MZ-T01,'Pre-PQ Process',Mozambique,'Pre-PQ Process',Efavirenz,Generic,200mg,Capsule,'Aurobindo Unit III India',Pediatric
+110-ZM-T30,FPQ-14784,Zambia,8/12/14,Abacavir/Lamivudine,Generic,60/30mg,'Tablet - FDC','Mylan (formerly Matrix) Nashik',Pediatric
+151-NG-T30,FPQ-14156,Nigeria,4/25/14,Lamivudine/Nevirapine/Zidovudine,Generic,150/300/200mg,'Tablet - FDC','Cipla Goa India',Adult
+100-CI-T01,'Pre-PQ Process','Cote d Ivoire','Pre-PQ Process','Tenofovir Disoproxil Fumarate',Viread,300mg,Tablet,'Gilead(Nycomed) Oranienburg DE',Adult
+151-NG-T30,FPQ-9432,Nigeria,3/1/12,Lamivudine/Nevirapine/Zidovudine,Generic,150/300/200mg,'Tablet - FDC','Aurobindo Unit III India',Adult
+108-VN-T01,'Pre-PQ Process',Vietnam,'Pre-PQ Process',Lamivudine,Generic,150mg,Tablet,'Ranbaxy Paonta Shahib India',Adult
+101-CD-T30,FPQ-13554,'Congo DRC',1/15/14,Lamivudine/Nevirapine/Zidovudine,Generic,30/50/60mg,'Chewable/dispersible tablet - FDC','Strides Bangalore India.',Pediatric
+114-UG-T30,FPQ-8522,Uganda,10/5/11,'Lamivudine/Tenofovir Disoproxil Fumarate',Generic,300/300mg,'Tablet - FDC','Mylan (formerly Matrix) Nashik',Adult
+108-VN-T01,'Pre-PQ Process',Vietnam,'Pre-PQ Process',Didanosine,Videx,25mg,'Chewable/dispersible tablet','BMS Meymac France',Pediatric
+110-ZM-T30,FPQ-6482,Zambia,10/15/10,Nevirapine,Generic,200mg,Tablet,'Strides Bangalore India.',Adult
+110-ZM-T01,'Pre-PQ Process',Zambia,'Pre-PQ Process',Lopinavir/Ritonavir,Kaletra,80/20mg/ml,'Oral solution','ABBVIE (Abbott) Logis. UK',Pediatric
+106-HT-T01,'Pre-PQ Process',Haiti,'Pre-PQ Process',Efavirenz,Generic,600mg,Tablet,'Aurobindo Unit III India',Adult
+116-ZA-T30,FPQ-4359,'South Africa',10/8/09,Zidovudine,Retrovir,10mg/ml,'Oral solution','GSK Mississauga (Canada)',Pediatric
+104-CI-T30,FPQ-5925,'Cote d Ivoire',6/23/10,Lamivudine/Stavudine,Generic,150/30mg,'Tablet - FDC','Mylan (formerly Matrix) Nashik',Adult
+108-VN-T01,'Pre-PQ Process',Vietnam,'Pre-PQ Process',Efavirenz,Generic,600mg,Tablet,'Mylan (formerly Matrix) Nashik',Adult
+105-SS-T30,FPQ-15569,'South Sudan',12/29/14,'Chase Buffer Determine 100 Tests 2.5ml x 1 Vial',Determine,300mg,'Test kit - Ancillary','Alere Medical Co. Ltd.','HIV test - Ancillary'
+161-ZA-T30,FPQ-5303,'South Africa',3/18/10,Efavirenz,Generic,600mg,Tablet,'Aurobindo Unit III India',Adult
+110-ZM-T30,FPQ-12251,Zambia,5/2/13,'HIV 1/2 Determine Complete HIV Kit',Determine,300mg,'Test kit','Alere Medical Co. Ltd.','HIV test'
+116-ZA-T30,FPQ-13973,'South Africa',4/30/14,Efavirenz,Generic,600mg,Tablet,'Aurobindo Unit III India',Adult
+114-UG-T30,FPQ-5239,Uganda,3/2/10,'Emtricitabine/Tenofovir Disoproxil Fumarate',Generic,200/300mg,'Tablet - FDC','Mylan (formerly Matrix) Nashik',Adult
+106-HT-T01,'Pre-PQ Process',Haiti,'Pre-PQ Process',Nevirapine,Generic,10mg/ml,'Oral suspension','Aurobindo Unit III India',Pediatric
+103-ZW-T30,FPQ-14475,Zimbabwe,6/17/14,Efavirenz,Generic,200mg,Tablet,'Strides Bangalore India.',Pediatric
+111-MZ-T30,FPQ-8157,Mozambique,8/4/11,Zidovudine,Generic,10mg/ml,'Oral solution','Aurobindo Unit III India',Pediatric
+101-CD-T30,FPQ-12033,'Congo DRC',4/8/13,Lamivudine,Generic,150mg,Tablet,'Hetero Unit III Hyderabad IN',Adult
+114-UG-T30,FPQ-10558,Uganda,8/24/12,Atazanavir/Ritonavir,Generic,300/100mg,Tablet,'Mylan (formerly Matrix) Nashik',Adult
+114-UG-T30,FPQ-11133,Uganda,12/13/12,Abacavir/Lamivudine,Generic,600/300mg,'Tablet - FDC','Mylan (formerly Matrix) Nashik',Adult
+108-VN-T30,FPQ-13034,Vietnam,10/4/13,Nevirapine,Generic,200mg,Tablet,'Emcure Plot No.P-2 I.T-B.T. Park Phase II MIDC Hinjwadi Pune India',Adult
+104-CI-T30,FPQ-5201,'Cote d Ivoire',3/3/10,Efavirenz,Generic,600mg,Tablet,'Strides Bangalore India.',Adult
+110-ZM-T30,FPQ-7233,Zambia,3/1/11,'Emtricitabine/Tenofovir Disoproxil Fumarate',Generic,200/300mg,'Tablet - FDC','Mylan (formerly Matrix) Nashik',Adult
+116-ZA-T01,'Pre-PQ Process','South Africa','Pre-PQ Process',Lamivudine,Generic,150mg,Tablet,'Aurobindo Unit III India',Adult
+901-GH-T30,FPQ-14101,Ghana,4/30/14,Lamivudine,Generic,10mg/ml,'Oral solution','Aurobindo Unit III India',Pediatric
+104-CI-T30,FPQ-5925,'Cote d Ivoire',6/23/10,Zidovudine,Generic,10mg/ml,'Oral solution','Aurobindo Unit III India',Pediatric
+116-ZA-T01,'Pre-PQ Process','South Africa','Pre-PQ Process',Lopinavir/Ritonavir,Aluvia,200/50mg,Tablet,'ABBVIE Ludwigshafen Germany',Adult
+105-GY-T30,FPQ-15680,Guyana,1/2/15,Lopinavir/Ritonavir,Generic,200/50mg,Tablet,'Hetero Unit III Hyderabad IN',Adult
+116-ZA-T30,FPQ-14942,'South Africa',9/11/14,Didanosine,Generic,400mg,'Delayed-release capsules','Aurobindo Unit III India',Adult
+151-NG-T30,FPQ-8952,Nigeria,12/8/11,Lamivudine,Generic,150mg,Tablet,'Strides Bangalore India.',Adult
+101-CD-T30,FPQ-14100,'Congo DRC',4/23/14,'HIV 1/2 Determine Complete HIV Kit',Determine,300mg,'Test kit','Alere Medical Co. Ltd.','HIV test'
+114-UG-T30,FPQ-4325,Uganda,9/23/09,Zidovudine,Generic,300mg,Tablet,'Aurobindo Unit III India',Adult
+113-ZW-T30,FPQ-12950,Zimbabwe,9/10/13,'Efavirenz/Lamivudine/Tenofovir Disoproxil Fumarate',Generic,600/300/300mg,'Tablet - FDC','Hetero Unit III Hyderabad IN',Adult
+116-ZA-T01,'Pre-PQ Process','South Africa','Pre-PQ Process',Stavudine,Generic,30mg,Capsule,'Aurobindo Unit III India',Adult
+108-VN-T30,FPQ-15823,Vietnam,2/13/15,Ritonavir,Norvir,100mg,Tablet,'ABBVIE Ludwigshafen Germany',Adult
+107-RW-T30,FPQ-10015,Rwanda,6/4/12,Nevirapine,Generic,200mg,Tablet,'Strides Bangalore India.',Adult
+116-ZA-T30,FPQ-13214,'South Africa',11/14/13,'Tenofovir Disoproxil Fumarate',Generic,300mg,Tablet,'Hetero Unit III Hyderabad IN',Adult
+108-VN-T30,FPQ-5317,Vietnam,3/22/10,Didanosine,Generic,250mg,'Delayed-release capsules','Aurobindo Unit III India',Adult
+116-ZA-T30,FPQ-14942,'South Africa',9/11/14,Efavirenz,Generic,200mg,Capsule,'Aurobindo Unit III India',Pediatric
+114-UG-T30,FPQ-4470,Uganda,8/17/09,Nevirapine,Generic,200mg,Tablet,'Aurobindo Unit III India',Adult
+101-CD-T30,FPQ-14255,'Congo DRC',5/15/14,Didanosine,Generic,200mg,'Delayed-release capsules','Aurobindo Unit III India',Pediatric
+116-ZA-T30,FPQ-13973,'South Africa',4/30/14,Lamivudine,Generic,150mg,Tablet,'Aurobindo Unit III India',Adult
+114-UG-T01,'Pre-PQ Process',Uganda,'Pre-PQ Process',Lamivudine/Zidovudine,Generic,150/300mg,'Tablet - FDC','Aurobindo Unit III India',Adult
+104-CI-T30,FPQ-4932,'Cote d Ivoire',12/8/09,Lopinavir/Ritonavir,Aluvia,200/50mg,Tablet,'ABBVIE Ludwigshafen Germany',Adult
+102-CD-T30,FPQ-9906,'Congo DRC',5/15/12,Abacavir,Generic,300mg,Tablet,'Mylan (formerly Matrix) Nashik',Adult
+131-NG-T01,'Pre-PQ Process',Nigeria,'Pre-PQ Process',Zidovudine,Generic,300mg,Tablet,'Aurobindo Unit III India',Adult
+104-CI-T30,FPQ-15259,'Cote d Ivoire',10/24/14,Efavirenz,Generic,600mg,Tablet,'Strides Bangalore India.',Adult
+104-CI-T30,FPQ-9063,'Cote d Ivoire',12/21/11,Efavirenz,Generic,600mg,Tablet,'Strides Bangalore India.',Adult
+110-ZM-T30,FPQ-12066,Zambia,4/19/13,'Efavirenz/Emtricitabine/Tenofovir Disoproxil Fumarate',Generic,600/200/300mg,'Tablet - FDC','Mylan (formerly Matrix) Nashik',Adult
+113-ZW-T30,FPQ-4694,Zimbabwe,12/8/09,Lamivudine/Nevirapine/Stavudine,Generic,150/200/30mg,'Tablet - FDC','Cipla Goa India',Adult
+106-HT-T30,FPQ-4277,Haiti,9/22/09,Lamivudine,Generic,150mg,Tablet,'Aurobindo Unit III India',Adult
+106-HT-T30,FPQ-9635,Haiti,5/14/12,Efavirenz,Generic,50mg,Capsule,'Aurobindo Unit III India',Pediatric
+114-UG-T01,'Pre-PQ Process',Uganda,'Pre-PQ Process',Lamivudine/Nevirapine/Zidovudine,Generic,150/300/200mg,'Tablet - FDC','Aurobindo Unit III India',Adult
+101-CD-T30,FPQ-16001,'Congo DRC',3/10/15,'HIV 1/2 Determine Complete HIV Kit',Determine,300mg,'Test kit','Alere Medical Co. Ltd.','HIV test'
+105-GH-T30,FPQ-14052,Ghana,4/12/14,Lamivudine,Generic,10mg/ml,'Oral solution','Aurobindo Unit III India',Pediatric
+106-HT-T30,FPQ-4384,Haiti,10/23/09,Efavirenz,Stocrin/Sustiva,30mg/ml,'Oral solution','MSD Haarlem NL',Pediatric
+109-TZ-T30,FPQ-13042,Tanzania,10/1/13,Lopinavir/Ritonavir,Aluvia,200/50mg,Tablet,'ABBVIE Ludwigshafen Germany',Adult
+116-ZA-T30,FPQ-14942,'South Africa',9/11/14,Didanosine,Generic,400mg,'Delayed-release capsules','Aurobindo Unit III India',Adult
+114-UG-T01,'Pre-PQ Process',Uganda,'Pre-PQ Process',Lamivudine,Generic,150mg,Tablet,'Ranbaxy Paonta Shahib India',Adult
+113-ZW-T30,FPQ-13939,Zimbabwe,4/1/14,'Lamivudine/Tenofovir Disoproxil Fumarate',Generic,300/300mg,'Tablet - FDC','Aurobindo Unit VII IN',Adult
+103-ZW-T30,FPQ-11478,Zimbabwe,1/16/13,Lamivudine/Nevirapine/Zidovudine,Generic,30/50/60mg,'Chewable/dispersible tablet - FDC','Mylan (formerly Matrix) Nashik',Pediatric
+106-HT-T01,'Pre-PQ Process',Haiti,'Pre-PQ Process',Efavirenz,Stocrin/Sustiva,30mg/ml,'Oral solution','MSD Haarlem NL',Pediatric
+113-ZW-T01,'Pre-PQ Process',Zimbabwe,'Pre-PQ Process',Efavirenz,Generic,600mg,Tablet,'Aurobindo Unit III India',Adult
+114-UG-T30,FPQ-9355,Uganda,2/20/12,Efavirenz,Generic,600mg,Tablet,'Aurobindo Unit III India',Adult
+103-SS-T30,FPQ-14409,'South Sudan',6/5/14,Efavirenz,Generic,200mg,Tablet,'Strides Bangalore India.',Pediatric
+106-HT-T01,'Pre-PQ Process',Haiti,'Pre-PQ Process',Stavudine,Generic,30mg,Capsule,'Aurobindo Unit III India',Adult
+100-LB-T01,'Pre-PQ Process',Lebanon,'Pre-PQ Process',Abacavir,Generic,300mg,Tablet,'Mylan (formerly Matrix) Nashik',Adult
+109-TZ-T30,FPQ-7909,Tanzania,6/24/11,'HIV 1/2 Bioline 3.0 Kit Lancets Capillary pipets Alcohol swabs included',Bioline,300mg,'Test kit','Standard Diagnostics Korea','HIV test'
+110-ZM-T01,'Pre-PQ Process',Zambia,'Pre-PQ Process','Lamivudine/Tenofovir Disoproxil Fumarate',Generic,300/300mg,'Tablet - FDC','Mylan (formerly Matrix) Nashik',Adult
+117-ET-T30,FPQ-4867,Ethiopia,1/5/10,'HIV 1/2 Stat-Pak HIV Kit',Stat-Pak,300mg,'Test kit','Chembio Diagnostics Sys. Inc.','HIV test'
+114-UG-T30,FPQ-14396,Uganda,6/4/14,Lopinavir/Ritonavir,Aluvia,200/50mg,Tablet,'ABBVIE Ludwigshafen Germany',Adult
+109-TZ-T01,'Pre-PQ Process',Tanzania,'Pre-PQ Process',Lamivudine/Zidovudine,Generic,150/300mg,'Tablet - FDC','Aurobindo Unit III India',Adult
+102-ZW-T30,FPQ-9927,Zimbabwe,5/15/12,Lamivudine/Zidovudine,Generic,150/300mg,'Tablet - FDC','Hetero Unit III Hyderabad IN',Adult
+102-ZW-T30,FPQ-15196,Zimbabwe,10/16/14,'Efavirenz/Lamivudine/Tenofovir Disoproxil Fumarate',Generic,600/300/300mg,'Tablet - FDC','Aurobindo Unit VII IN',Adult
+116-ZA-T30,FPQ-14942,'South Africa',9/11/14,Lamivudine,Generic,150mg,Tablet,'Aurobindo Unit III India',Adult
+114-UG-T30,FPQ-11098,Uganda,12/13/12,'HIV 1/2 Determine Complete HIV Kit',Determine,300mg,'Test kit','Alere Medical Co. Ltd.','HIV test'
+116-ZA-T30,FPQ-12522,'South Africa',7/11/13,Abacavir,Generic,20mg/ml,'Oral solution','Aurobindo Unit III India',Pediatric
+108-VN-T30,FPQ-5094,Vietnam,3/15/10,Ritonavir,Norvir,100mg,Capsule,'ABBVIE (Abbott) Logis. UK',Adult
+114-UG-T30,FPQ-7267,Uganda,3/4/11,'Efavirenz/Emtricitabine/Tenofovir Disoproxil Fumarate',Generic,600/200/300mg,'Tablet - FDC','Mylan (formerly Matrix) Nashik',Adult
+116-ZA-T01,'Pre-PQ Process','South Africa','Pre-PQ Process',Stavudine,Zerit,30mg,Capsule,'BMS Meymac France',Adult
+108-VN-T01,'Pre-PQ Process',Vietnam,'Pre-PQ Process',Lamivudine,Generic,10mg/ml,'Oral solution','Aurobindo Unit III India',Pediatric
+110-ZM-T30,FPQ-6221,Zambia,8/20/10,Lamivudine/Nevirapine/Stavudine,Generic,150/200/30mg,'Tablet - FDC','Cipla Goa India',Adult
+102-SD-T30,FPQ-6991,Sudan,2/5/11,'HIV 1/2 Bioline 3.0 Diluent 25 Tests',Bioline,300mg,'Test kit - Ancillary','Standard Diagnostics Korea','HIV test - Ancillary'
+116-ZA-T01,'Pre-PQ Process','South Africa','Pre-PQ Process',Lamivudine,Epivir,150mg,Tablet,'GSK Cape Town Factory (South Africa)',Adult
+114-UG-T30,FPQ-15294,Uganda,11/3/14,'Efavirenz/Lamivudine/Tenofovir Disoproxil Fumarate',Generic,600/300/300mg,'Tablet - FDC','Mylan (formerly Matrix) Nashik',Adult
+114-UG-T30,FPQ-9875,Uganda,5/9/12,Lamivudine/Nevirapine/Zidovudine,Generic,150/300/200mg,'Tablet - FDC','Mylan (formerly Matrix) Nashik',Adult
+107-RW-T30,FPQ-6185,Rwanda,9/3/10,Lopinavir/Ritonavir,Generic,200/50mg,Tablet,'Cipla Ltd A-42 MIDC Mahar. IN',Adult
+113-ZW-T30,FPQ-4694,Zimbabwe,12/8/09,Efavirenz,Generic,600mg,Tablet,'Aurobindo Unit III India',Adult
+109-TZ-T30,FPQ-11919,Tanzania,3/25/13,'HIV 1/2 Determine Complete HIV Kit',Determine,300mg,'Test kit','Alere Medical Co. Ltd.','HIV test'
+116-ZA-T30,FPQ-14942,'South Africa',9/11/14,Etravirine,Intelence,100mg,Tablet,'Janssen-Cilag Latina IT',Adult
+117-ET-T01,'Pre-PQ Process',Ethiopia,'Pre-PQ Process',Efavirenz,Generic,600mg,Tablet,'Aurobindo Unit III India',Adult
+108-VN-T30,FPQ-16194,Vietnam,4/14/15,'Efavirenz/Lamivudine/Tenofovir Disoproxil Fumarate',Generic,600/300/300mg,'Tablet - FDC','Hetero Unit III Hyderabad IN',Adult
+106-HT-T30,FPQ-12682,Haiti,8/23/13,Abacavir,Generic,60mg,'Chewable/dispersible tablet','Cipla Patalganga India',Pediatric
+109-TZ-T01,'Pre-PQ Process',Tanzania,'Pre-PQ Process',Efavirenz,Generic,600mg,Tablet,'Mylan (formerly Matrix) Nashik',Adult
+105-SS-T30,FPQ-15569,'South Sudan',12/29/14,'HIV 1/2 Uni-Gold HIV Kit',Uni-Gold,300mg,'Test kit','Trinity Biotech Plc','HIV test'
+108-VN-T30,FPQ-13976,Vietnam,4/8/14,Ritonavir,Norvir,100mg,Tablet,'ABBVIE Ludwigshafen Germany',Adult
+110-ZM-T30,FPQ-12066,Zambia,4/19/13,Nevirapine,Generic,200mg,Tablet,'Hetero Unit III Hyderabad IN',Adult
+102-GY-T30,FPQ-6983,Guyana,1/5/11,'HIV 1/2 Uni-Gold HIV Kit',Uni-Gold,300mg,'Test kit','Trinity Biotech Plc','HIV test'
+102-KE-T01,'Pre-PQ Process',Kenya,'Pre-PQ Process','HIV 1/2 Determine HIV Kit without Lancets',Determine,300mg,'Test kit','Inverness Japan','HIV test'
+105-GY-T30,FPQ-8024,Guyana,8/19/11,Nevirapine,Generic,10mg/ml,'Oral suspension','Aurobindo Unit III India',Pediatric
+104-CI-T01,'Pre-PQ Process','Cote d Ivoire','Pre-PQ Process',Abacavir,Generic,300mg,Tablet,'Aurobindo Unit III India',Adult
+901-NA-T30,FPQ-14670,Namibia,7/30/14,Lamivudine/Zidovudine,Generic,150/300mg,'Tablet - FDC','Aurobindo Unit III India',Adult
+112-NG-T01,'Pre-PQ Process',Nigeria,'Pre-PQ Process',Nevirapine,Generic,10mg/ml,'Oral suspension','Aurobindo Unit III India',Pediatric
+104-CI-T01,'Pre-PQ Process','Cote d Ivoire','Pre-PQ Process',Stavudine,Generic,15mg,Capsule,'Aurobindo Unit III India',Adult
+110-ZM-T01,'Pre-PQ Process',Zambia,'Pre-PQ Process',Efavirenz,Generic,50mg,Capsule,'Aurobindo Unit III India',Pediatric
+100-ZW-T30,FPQ-5018,Zimbabwe,2/2/10,'HIV 1/2 Determine Complete HIV Kit',Determine,300mg,'Test kit','Inverness Japan','HIV test'
+116-ZA-T30,FPQ-12522,'South Africa',7/11/13,Nevirapine,Generic,200mg,Tablet,'Aurobindo Unit III India',Adult
+105-GY-T30,FPQ-10252,Guyana,7/5/12,Abacavir,Generic,20mg/ml,'Oral solution','Aurobindo Unit III India',Pediatric
+161-ZA-T30,FPQ-5303,'South Africa',3/18/10,Lamivudine,Generic,150mg,Tablet,'Aurobindo Unit III India',Adult
+113-ZW-T30,FPQ-11545,Zimbabwe,1/24/13,'Lamivudine/Tenofovir Disoproxil Fumarate',Generic,300/300mg,'Tablet - FDC','Hetero Unit III Hyderabad IN',Adult
+116-ZA-T30,FPQ-13973,'South Africa',4/30/14,Zidovudine,Generic,300mg,Tablet,'Aurobindo Unit III India',Adult
+114-UG-T30,FPQ-5239,Uganda,3/2/10,Lamivudine/Nevirapine/Zidovudine,Generic,150/300/200mg,'Tablet - FDC','Aurobindo Unit III India',Adult
+110-ZM-T30,FPQ-8759,Zambia,11/6/11,Efavirenz,Generic,600mg,Tablet,'Mylan (formerly Matrix) Nashik',Adult
+116-ZA-T01,'Pre-PQ Process','South Africa','Pre-PQ Process',Lamivudine,Generic,150mg,Tablet,'Aurobindo Unit III India',Adult
+102-KE-T30,FPQ-6406,Kenya,9/27/10,'HIV 1/2 Determine Complete HIV Kit',Determine,300mg,'Test kit','Inverness Japan','HIV test'
+104-CI-T30,FPQ-3964,'Cote d Ivoire',7/24/09,Lamivudine,Generic,10mg/ml,'Oral solution','Aurobindo Unit III India',Pediatric
+114-UG-T30,FPQ-10945,Uganda,11/6/12,'Efavirenz/Lamivudine/Tenofovir Disoproxil Fumarate',Generic,600/300/300mg,'Tablet - FDC','Hetero Unit III Hyderabad IN',Adult
+112-NG-T01,'Pre-PQ Process',Nigeria,'Pre-PQ Process',Lamivudine,Generic,150mg,Tablet,'Aurobindo Unit III India',Adult
+107-RW-T30,FPQ-8932,Rwanda,12/6/11,'Lamivudine/Tenofovir Disoproxil Fumarate',Generic,300/300mg,'Tablet - FDC','Aurobindo Unit VII IN',Adult
+111-MZ-T01,'Pre-PQ Process',Mozambique,'Pre-PQ Process',Lamivudine,Generic,150mg,Tablet,'Aurobindo Unit III India',Adult
+109-TZ-T01,'Pre-PQ Process',Tanzania,'Pre-PQ Process',Lamivudine/Zidovudine,Generic,150/300mg,'Tablet - FDC','Aurobindo Unit III India',Adult
+133-NG-T30,FPQ-10765,Nigeria,10/5/12,'HIV 1/2 Determine Complete HIV Kit',Determine,300mg,'Test kit','Alere Medical Co. Ltd.','HIV test'
+126-NG-T01,'Pre-PQ Process',Nigeria,'Pre-PQ Process',Lamivudine,Generic,150mg,Tablet,'Aurobindo Unit III India',Adult
+151-NG-T30,FPQ-4537,Nigeria,11/6/09,Lamivudine/Zidovudine,Generic,150/300mg,'Tablet - FDC','Aurobindo Unit III India',Adult
+106-HT-T30,FPQ-12590,Haiti,8/21/13,Efavirenz,Generic,50mg,Capsule,'Aurobindo Unit III India',Pediatric
+111-MZ-T30,FPQ-7270,Mozambique,3/4/11,'HIV 1/2 Uni-Gold HIV Kit',Uni-Gold,300mg,'Test kit','Trinity Biotech Plc','HIV test'
+104-CI-T01,'Pre-PQ Process','Cote d Ivoire','Pre-PQ Process',Lamivudine,Generic,150mg,Tablet,'Aurobindo Unit III India',Adult
+102-GY-T30,FPQ-8053,Guyana,7/13/11,'HIV 1/2 Stat-Pak HIV Kit',Stat-Pak,300mg,'Test kit','Chembio Diagnostics Sys. Inc.','HIV test'
+106-HT-T30,FPQ-5523,Haiti,4/19/10,Zidovudine,Generic,300mg,Tablet,'Aurobindo Unit III India',Adult
+114-UG-T30,FPQ-12473,Uganda,6/11/13,'Lamivudine/Tenofovir Disoproxil Fumarate',Generic,300/300mg,'Tablet - FDC','Aurobindo Unit VII IN',Adult
+116-ZA-T30,FPQ-12522,'South Africa',7/11/13,Abacavir,Generic,300mg,Tablet,'Aurobindo Unit III India',Adult
+104-CI-T30,FPQ-10626,'Cote d Ivoire',9/6/12,Abacavir/Lamivudine,Generic,600/300mg,'Tablet - FDC','Aurobindo Unit III India',Adult
+131-NG-T01,'Pre-PQ Process',Nigeria,'Pre-PQ Process','Efavirenz/Emtricitabine/Tenofovir Disoproxil Fumarate',Atripla,600/200/300mg,'Tablet - FDC','MSD Haarlem NL',Adult
+108-VN-T30,FPQ-7427,Vietnam,3/31/11,Efavirenz,Generic,600mg,Tablet,'Hetero Unit III Hyderabad IN',Adult
+104-CI-T30,FPQ-14370,'Cote d Ivoire',5/23/14,'Lamivudine/Tenofovir Disoproxil Fumarate',Generic,300/300mg,'Tablet - FDC','Cipla Kurkumbh India',Adult
+106-HT-T01,'Pre-PQ Process',Haiti,'Pre-PQ Process','HIV 1/2 Capillus HIV Kit',Capillus,300mg,'Test kit','Not Applicable','HIV test'
+133-NG-T30,FPQ-16302,Nigeria,5/4/15,'HIV 1/2 Uni-Gold HIV Kit',Uni-Gold,300mg,'Test kit','Trinity Biotech Plc','HIV test'
+116-ZA-T30,FPQ-14942,'South Africa',9/11/14,Efavirenz,Generic,200mg,Capsule,'Aurobindo Unit III India',Pediatric
+110-ZM-T30,FPQ-8315,Zambia,8/31/11,'HIV 1/2 Determine Complete HIV Kit',Determine,300mg,'Test kit','Alere Medical Co. Ltd.','HIV test'
+114-UG-T01,'Pre-PQ Process',Uganda,'Pre-PQ Process',Lamivudine/Nevirapine/Zidovudine,Generic,150/300/200mg,'Tablet - FDC','Aurobindo Unit III India',Adult
+104-CI-T01,'Pre-PQ Process','Cote d Ivoire','Pre-PQ Process',Efavirenz,Generic,50mg,Capsule,'Aurobindo Unit III India',Pediatric
+111-MZ-T01,'Pre-PQ Process',Mozambique,'Pre-PQ Process',Abacavir,Generic,20mg/ml,'Oral solution','Aurobindo Unit III India',Pediatric
+100-HT-T01,'Pre-PQ Process',Haiti,'Pre-PQ Process','HIV 1/2 Capillus HIV Kit',Capillus,300mg,'Test kit','Trinity Biotech Plc','HIV test'
+122-HT-T30,FPQ-8671,Haiti,11/9/11,'Malaria Antigen P.f  HRP2 Kit',Generic,300mg,'Test kit','Standard Diagnostics Korea',Malaria
+113-ZW-T30,FPQ-8464,Zimbabwe,10/4/11,Lamivudine/Nevirapine/Stavudine,Generic,150/200/30mg,'Tablet - FDC','Strides Bangalore India.',Adult
+108-VN-T30,FPQ-5094,Vietnam,3/15/10,Lopinavir/Ritonavir,Aluvia,200/50mg,Tablet,'ABBVIE Ludwigshafen Germany',Adult
+161-ZA-T30,FPQ-7175,'South Africa',3/10/11,Lamivudine,Generic,10mg/ml,'Oral solution','Cipla Goa India',Pediatric
+114-UG-T30,FPQ-4275,Uganda,9/17/09,Efavirenz,Generic,600mg,Tablet,'Aurobindo Unit III India',Adult
+106-HT-T30,FPQ-11442,Haiti,1/30/13,Lamivudine,Generic,150mg,Tablet,'Aurobindo Unit III India',Adult
+104-CI-T30,FPQ-6891,'Cote d Ivoire',12/21/10,Lamivudine,Generic,10mg/ml,'Oral solution','Aurobindo Unit III India',Pediatric
+114-UG-T01,'Pre-PQ Process',Uganda,'Pre-PQ Process',Lamivudine/Nevirapine/Stavudine,Generic,150/200/30mg,'Tablet - FDC','Cipla Goa India',Adult
+109-TZ-T30,FPQ-12587,Tanzania,7/4/13,Abacavir,Generic,300mg,Tablet,'Aurobindo Unit III India',Adult
+104-CI-T01,'Pre-PQ Process','Cote d Ivoire','Pre-PQ Process',Lopinavir/Ritonavir,Aluvia,200/50mg,Tablet,'ABBVIE Ludwigshafen Germany',Adult
+151-NG-T30,FPQ-8952,Nigeria,12/8/11,Lamivudine,Generic,150mg,Tablet,'Aurobindo Unit III India',Adult
+111-MZ-T30,FPQ-7053,Mozambique,1/24/11,Zidovudine,Generic,10mg/ml,'Oral solution','Aurobindo Unit III India',Pediatric
+110-ZM-T01,'Pre-PQ Process',Zambia,'Pre-PQ Process',Efavirenz,Generic,600mg,Tablet,'Aurobindo Unit III India',Adult
+111-MZ-T30,FPQ-14844,Mozambique,8/27/14,Darunavir,Prezista,600mg,Tablet,'Janssen-Cilag Latina IT',Adult
+101-KE-T30,FPQ-10314,Kenya,7/12/12,'HIV 1/2 Determine Complete HIV Kit',Determine,300mg,'Test kit','Alere Medical Co. Ltd.','HIV test'
+110-ZM-T01,'Pre-PQ Process',Zambia,'Pre-PQ Process',Lamivudine/Zidovudine,Generic,150/300mg,'Tablet - FDC','Aurobindo Unit III India',Adult
+102-KE-T30,FPQ-4587,Kenya,11/18/09,'HIV 1/2 Determine Complete HIV Kit',Determine,300mg,'Test kit','Inverness Japan','HIV test'
+109-TZ-T30,FPQ-4157,Tanzania,8/27/09,'HIV 1/2 Bioline 3.0 Kit (no accessories)',Bioline,300mg,'Test kit','Standard Diagnostics Korea','HIV test'
+114-UG-T30,FPQ-10780,Uganda,10/10/12,'Efavirenz/Emtricitabine/Tenofovir Disoproxil Fumarate',Generic,600/200/300mg,'Tablet - FDC','Mylan (formerly Matrix) Nashik',Adult
+109-TZ-T30,FPQ-12540,Tanzania,7/3/13,Lamivudine/Nevirapine/Zidovudine,Generic,150/300/200mg,'Tablet - FDC','Aurobindo Unit III India',Adult
+151-NG-T01,'Pre-PQ Process',Nigeria,'Pre-PQ Process','Emtricitabine/Tenofovir Disoproxil Fumarate',Truvada,300/200mg,'Tablet - FDC','Aspen-OSD Port Elizabeth SA',Adult
+109-TZ-T30,FPQ-5237,Tanzania,3/1/10,Nevirapine,Generic,200mg,Tablet,'Strides Bangalore India.',Adult
+104-CI-T30,FPQ-12712,'Cote d Ivoire',7/30/13,Lamivudine/Nevirapine/Zidovudine,Generic,30/50/60mg,'Chewable/dispersible tablet - FDC','Strides Bangalore India.',Pediatric
+107-RW-T30,FPQ-8263,Rwanda,8/19/11,'HIV 1/2 Determine HIV Kit without Lancets',Determine,300mg,'Test kit','Inverness Japan','HIV test'
+106-HT-T30,FPQ-11281,Haiti,1/16/13,Stavudine,Generic,15mg,Capsule,'Aurobindo Unit III India',Adult
+111-MZ-T30,FPQ-10210,Mozambique,6/28/12,Lamivudine,Generic,150mg,Tablet,'Hetero Unit III Hyderabad IN',Adult
+116-ZA-T30,FPQ-4054,'South Africa',7/29/09,Efavirenz,Generic,50mg,Capsule,'Aurobindo Unit III India',Pediatric
+100-CI-T01,'Pre-PQ Process','Cote d Ivoire','Pre-PQ Process',Lamivudine/Nevirapine/Stavudine,Generic,150/200/30mg,'Tablet - FDC','Cipla Goa India',Adult
+106-HT-T30,FPQ-5523,Haiti,4/19/10,Zidovudine,Generic,300mg,Tablet,'Aurobindo Unit III India',Adult
+107-RW-T30,FPQ-5393,Rwanda,3/23/10,Lamivudine/Nevirapine/Zidovudine,Generic,150/300/200mg,'Tablet - FDC','Aurobindo Unit III India',Adult
+151-NG-T30,FPQ-14766,Nigeria,8/13/14,Lamivudine/Nevirapine/Zidovudine,Generic,150/300/200mg,'Tablet - FDC','Hetero Unit III Hyderabad IN',Adult
+116-ZA-T30,FPQ-5535,'South Africa',4/19/10,Ritonavir,Norvir,80mg/ml,'Oral solution','ABBVIE (Abbott) France',Pediatric
+116-ZA-T30,FPQ-5381,'South Africa',3/23/10,Abacavir,Ziagen,300mg,'Tablet - blister','GSK Ware (UK)',Adult
+114-UG-T01,'Pre-PQ Process',Uganda,'Pre-PQ Process',Lamivudine/Zidovudine,Generic,150/300mg,'Tablet - FDC','Aurobindo Unit III India',Adult
+116-ZA-T30,FPQ-13973,'South Africa',4/30/14,Abacavir,Generic,300mg,Tablet,'Aurobindo Unit III India',Adult
+104-CI-T30,FPQ-5925,'Cote d Ivoire',6/23/10,Abacavir,Generic,300mg,Tablet,'Aurobindo Unit III India',Adult
+108-VN-T30,FPQ-10644,Vietnam,9/19/12,Lamivudine,Generic,150mg,Tablet,'Micro labs Verna Goa India',Adult
+116-ZA-T30,FPQ-3560,'South Africa',5/7/09,Efavirenz,Generic,600mg,Tablet,'Cipla Goa India',Adult
+109-TZ-T30,FPQ-9211,Tanzania,1/25/12,'HIV 1/2 Determine Complete HIV Kit',Determine,300mg,'Test kit','Alere Medical Co. Ltd.','HIV test'
+104-CI-T30,FPQ-10633,'Cote d Ivoire',9/11/12,Lopinavir/Ritonavir,Generic,200/50mg,Tablet,'Mylan (formerly Matrix) Nashik',Adult
+113-ZW-T01,'Pre-PQ Process',Zimbabwe,'Pre-PQ Process',Lamivudine,Generic,150mg,Tablet,'Ranbaxy Paonta Shahib India',Adult
+111-MZ-T30,FPQ-11882,Mozambique,3/19/13,Lamivudine/Zidovudine,Generic,150/300mg,'Tablet - FDC','Hetero Unit III Hyderabad IN',Adult
+102-NG-T01,'Pre-PQ Process',Nigeria,'Pre-PQ Process','HIV 1/2 Determine HIV Kit without Lancets',Determine,300mg,'Test kit','Inverness Japan','HIV test'
+109-TZ-T01,'Pre-PQ Process',Tanzania,'Pre-PQ Process','HIV 1/2 Bioline 3.0 Kit Lancets Capillary pipets Alcohol swabs included',Bioline,300mg,'Test kit','Standard Diagnostics Korea','HIV test'
+104-CI-T30,FPQ-6037,'Cote d Ivoire',7/14/10,'HIV 1/2 Determine HIV Kit without Lancets',Determine,300mg,'Test kit','Inverness Japan','HIV test'
+105-GY-T30,FPQ-8024,Guyana,8/19/11,Lamivudine,Generic,150mg,Tablet,'Aurobindo Unit III India',Adult
+105-SS-T30,FPQ-9807,'South Sudan',5/18/12,'HIV 1/2 Determine Complete HIV Kit',Determine,300mg,'Test kit','Alere Medical Co. Ltd.','HIV test'
+108-VN-T30,FPQ-10287,Vietnam,7/25/12,Lamivudine/Nevirapine/Zidovudine,Generic,30/50/60mg,'Chewable/dispersible tablet - FDC','Mylan (formerly Matrix) Nashik',Pediatric
+116-ZA-T30,FPQ-11828,'South Africa',3/18/13,Abacavir,Generic,300mg,Tablet,'Cipla Patalganga India',Adult
+117-ET-T30,FPQ-9209,Ethiopia,1/18/12,'HIV 1/2 Uni-Gold HIV Kit',Uni-Gold,300mg,'Test kit','Trinity Biotech Plc','HIV test'
+100-ZM-T30,FPQ-13679,Zambia,2/2/14,Abacavir,Generic,300mg,Tablet,'Mylan (formerly Matrix) Nashik',Adult
+104-CI-T30,FPQ-13125,'Cote d Ivoire',10/25/13,'HIV 1/2 Bioline 3.0 Kit Lancets Capillary pipets Alcohol swabs included',Bioline,300mg,'Test kit','Standard Diagnostics Korea','HIV test'
+161-ZA-T30,FPQ-5303,'South Africa',3/18/10,Lamivudine,Generic,150mg,Tablet,'Strides Bangalore India.',Adult
+144-BW-T30,FPQ-4487,Botswana,11/2/09,'HIV 1 Uni-Gold Recombigen HIV Control Vial 2 x 0.5 ml',Uni-Gold,300mg,'Test kit - Ancillary','Trinity Biotech Plc','HIV test - Ancillary'
+109-TZ-T30,FPQ-10545,Tanzania,8/24/12,Lopinavir/Ritonavir,Generic,200/50mg,Tablet,'Mylan (formerly Matrix) Nashik',Adult
+106-HT-T01,'Pre-PQ Process',Haiti,'Pre-PQ Process',Stavudine,Generic,30mg,Capsule,'Aurobindo Unit III India',Adult
+113-ZW-T30,FPQ-4694,Zimbabwe,12/8/09,Zidovudine,Generic,300mg,Tablet,'Aurobindo Unit III India',Adult
+900-SS-T30,FPQ-8624,'South Sudan',11/4/11,Lamivudine,Generic,150mg,Tablet,'Macleods Daman Plant INDIA',Adult
+104-CI-T30,FPQ-9063,'Cote d Ivoire',12/21/11,'Efavirenz/Emtricitabine/Tenofovir Disoproxil Fumarate',Generic,600/200/300mg,'Tablet - FDC','Mylan (formerly Matrix) Nashik',Adult
+111-MZ-T01,'Pre-PQ Process',Mozambique,'Pre-PQ Process',Lamivudine,Generic,150mg,Tablet,'Hetero Unit III Hyderabad IN',Adult
+111-MZ-T01,'Pre-PQ Process',Mozambique,'Pre-PQ Process',Lamivudine/Nevirapine/Stavudine,Generic,150/200/30mg,'Tablet - FDC','Strides Bangalore India.',Adult
+116-ZA-T01,'Pre-PQ Process','South Africa','Pre-PQ Process',Lamivudine,Epivir,10mg/ml,'Oral solution','GSK Mississauga (Canada)',Pediatric
+105-GY-T30,FPQ-8023,Guyana,8/19/11,Zidovudine,Generic,10mg/ml,'Oral solution','Aurobindo Unit III India',Pediatric
+116-ZA-T01,'Pre-PQ Process','South Africa','Pre-PQ Process',Efavirenz,Stocrin/Sustiva,50mg,Capsule,'MSD Midrand J burg SA',Pediatric
+151-NG-T01,'Pre-PQ Process',Nigeria,'Pre-PQ Process',Lamivudine/Nevirapine/Zidovudine,Generic,150/300/200mg,'Tablet - FDC','Aurobindo Unit III India',Adult
+151-NG-T30,FPQ-7812,Nigeria,6/6/11,Lamivudine/Zidovudine,Generic,150/300mg,'Tablet - FDC','Mylan (formerly Matrix) Nashik',Adult
+114-UG-T30,FPQ-15639,Uganda,12/22/14,Lamivudine/Zidovudine,Generic,150/300mg,'Tablet - FDC','Hetero Unit III Hyderabad IN',Adult
+117-ET-T30,FPQ-15928,Ethiopia,3/10/15,'HIV 1/2 Uni-Gold HIV Kit',Uni-Gold,300mg,'Test kit','Trinity Biotech Plc','HIV test'
+111-MZ-T01,'Pre-PQ Process',Mozambique,'Pre-PQ Process',Zidovudine,Generic,300mg,Tablet,'Aurobindo Unit III India',Adult
+116-ZA-T30,FPQ-13035,'South Africa',10/8/13,Lamivudine,Generic,10mg/ml,'Oral solution','Cipla Goa India',Pediatric
+108-VN-T30,FPQ-15040,Vietnam,10/30/14,'Tenofovir Disoproxil Fumarate',Generic,300mg,Tablet,'Hetero Unit III Hyderabad IN',Adult
+151-NG-T01,'Pre-PQ Process',Nigeria,'Pre-PQ Process',Lamivudine/Nevirapine/Zidovudine,Generic,150/300/200mg,'Tablet - FDC','Aurobindo Unit III India',Adult
+109-TZ-T30,FPQ-12015,Tanzania,4/2/13,Efavirenz,Generic,200mg,Tablet,'Strides Bangalore India.',Pediatric
+101-CD-T30,FPQ-11054,'Congo DRC',11/16/12,Abacavir,Generic,300mg,Tablet,'Mylan (formerly Matrix) Nashik',Adult
+100-BW-T01,'Pre-PQ Process',Botswana,'Pre-PQ Process','HIV 1/2 OraQuick Advance HIV Rapid Antibody Kit',OraQuick,300mg,'Test kit','Pacific Biotech Thailand','HIV test'
+111-MZ-T30,FPQ-14226,Mozambique,5/2/14,Efavirenz,Generic,600mg,Tablet,'Cipla Goa India',Adult
+107-RW-T01,'Pre-PQ Process',Rwanda,'Pre-PQ Process',Lamivudine/Zidovudine,Generic,150/300mg,'Tablet - FDC','Aurobindo Unit III India',Adult
+109-TZ-T30,FPQ-5174,Tanzania,3/1/10,Lopinavir/Ritonavir,Aluvia,200/50mg,Tablet,'ABBVIE Ludwigshafen Germany',Adult
+105-GY-T30,FPQ-13567,Guyana,1/16/14,Efavirenz,Generic,200mg,Tablet,'Strides Bangalore India.',Pediatric
+106-HT-T30,FPQ-5523,Haiti,4/19/10,Nevirapine,Generic,200mg,Tablet,'Strides Bangalore India.',Adult
+104-CI-T30,FPQ-11253,'Cote d Ivoire',12/14/12,Lamivudine/Nevirapine/Zidovudine,Generic,150/300/200mg,'Tablet - FDC','Cipla Goa India',Adult
+116-ZA-T01,'Pre-PQ Process','South Africa','Pre-PQ Process',Stavudine,Zerit,40mg,Capsule,'BMS Meymac France',Adult
+111-MZ-T01,'Pre-PQ Process',Mozambique,'Pre-PQ Process',Lamivudine/Stavudine,Generic,150/30mg,'Tablet - FDC','Cipla Goa India',Adult

@@ -1,0 +1,621 @@
+country,'vendor inco term','shipment mode','molecule/test type',brand,dosage,'dosage form','unit of measure (per pack)','line item quantity','line item value','pack price','unit price','manufacturing site','weight (kilograms)','freight cost (usd)','line item insurance (usd)','sub classification'
+Rwanda,CIP,Air,Lamivudine/Zidovudine,Generic,150/300mg,'Tablet - FDC',59.059059,12.643589,11.986578,6.762581,0.628536,'Cipla Goa India',0.838627,2.945357,18.139857,Adult
+'South Africa',DDP,Truck,Lamivudine,Epivir,150mg,Tablet,59.059059,5.674212,6.425141,8.077941,0.754243,'GSK Cape Town Factory (South Africa)',1.519792,23.33324,6.137429,Adult
+Nigeria,'N/A - From RDC','Air Charter',Lamivudine/Nevirapine/Zidovudine,Generic,150/300/200mg,'Tablet - FDC',59.059059,333.633334,389.935216,8.33804,0.796145,'Aurobindo Unit III India',34.236733,46.253053,496.789234,Adult
+Cameroon,EXW,Air,'HIV 1/2 Determine Complete HIV Kit',Determine,300mg,'Test kit',99.099099,0.191936,1.612906,59.451265,3.352189,'Alere Medical Co. Ltd.',0.064151,2.920535,1.280415,'HIV test'
+Mozambique,'N/A - From RDC',Truck,'Efavirenz/Lamivudine/Tenofovir Disoproxil Fumarate',Generic,600/300/300mg,'Tablet - FDC',29.029029,25.246856,25.669235,7.253054,1.382778,'Hetero Unit III Hyderabad IN',130.665979,274.514129,20.375069,Adult
+Tanzania,EXW,Air,'HIV 1/2 Uni-Gold HIV Kit',Uni-Gold,300mg,'Test kit',19.019019,0.133871,0.451614,23.780506,6.704379,'Trinity Biotech Plc',0.038491,3.240539,0.358049,'HIV test'
+'Cote d Ivoire','N/A - From RDC',Truck,Abacavir/Lamivudine,Generic,60/30mg,'Tablet - FDC',59.059059,16.127471,6.871651,3.039446,0.293317,'Mylan (formerly Matrix) Nashik',0.425728,8.408595,5.45506,Pediatric
+Namibia,EXW,Air,'HIV 1/2 Uni-Gold HIV Kit',Uni-Gold,300mg,'Test kit',19.019019,1.172584,3.913985,23.780506,6.704379,'Trinity Biotech Plc',0.285763,23.811157,4.986742,'HIV test'
+Nigeria,'N/A - From RDC','Air Charter','Emtricitabine/Tenofovir Disoproxil Fumarate',Generic,200/300mg,'Tablet - FDC',29.029029,0.966132,1.184478,8.731905,1.634192,'Mylan (formerly Matrix) Nashik',0.975093,32.248096,1.79284,Adult
+'Cote d Ivoire','N/A - From RDC',Truck,Lamivudine/Nevirapine/Zidovudine,Generic,30/50/60mg,'Chewable/dispersible tablet - FDC',59.059059,10.964551,4.283651,2.786778,0.251414,'Strides Bangalore India.',0.340583,5.772263,4.091619,Pediatric
+Mozambique,'N/A - From RDC',Truck,Abacavir,Generic,300mg,Tablet,59.059059,5.459695,6.388582,8.345471,0.796145,'Mylan (formerly Matrix) Nashik',18.59442,16.458725,5.071065,Adult
+Zambia,'N/A - From RDC',Truck,Lamivudine/Nevirapine/Zidovudine,Generic,30/50/60mg,'Chewable/dispersible tablet - FDC',59.059059,61.255036,24.821665,2.890818,0.251414,'Strides Bangalore India.',1.898866,12.173003,23.70778,Pediatric
+Haiti,EXW,Ocean,Nevirapine,Generic,10mg/ml,'Oral suspension',239.239239,3.28872,0.517541,1.122143,0.041902,'Aurobindo Unit III India',4.086993,24.569583,0.494263,Pediatric
+Nigeria,'N/A - From RDC','Air Charter',Lamivudine,Generic,150mg,Tablet,59.059059,8.869383,2.254708,1.813264,0.167609,'Mylan (formerly Matrix) Nashik',0.975093,32.248096,3.411845,Adult
+'South Africa',DDP,Truck,Lamivudine,Generic,150mg,Tablet,59.059059,0.156452,0.116106,5.239143,0.502828,'Aurobindo Unit III India',1.519792,23.33324,0.092107,Adult
+Uganda,'N/A - From RDC',Air,Lamivudine/Nevirapine/Zidovudine,Generic,150/300/200mg,'Tablet - FDC',59.059059,11.766167,16.278736,9.86891,0.921852,'Aurobindo Unit III India',0.961097,10.984785,20.111722,Adult
+Nigeria,'N/A - From RDC','Air Charter','Efavirenz/Lamivudine/Tenofovir Disoproxil Fumarate',Generic,600/300/300mg,'Tablet - FDC',29.029029,275.450889,275.452057,7.134152,1.340876,'Mylan (formerly Matrix) Nashik',41.854357,235.119572,218.642164,Adult
+Nigeria,'N/A - From RDC','Air Charter',Lamivudine/Nevirapine/Zidovudine,Generic,150/300/200mg,'Tablet - FDC',59.059059,526.017826,602.729635,8.174549,0.754243,'Mylan (formerly Matrix) Nashik',54.2623,94.735846,652.478322,Adult
+'South Africa',DDP,Truck,Didanosine,Generic,250mg,'Delayed-release capsules',29.029029,0.003226,0.005553,8.189412,1.550388,'Aurobindo Unit III India',1.519792,23.33324,0.003892,Adult
+Tanzania,EXW,Air,'Efavirenz/Emtricitabine/Tenofovir Disoproxil Fumarate',Generic,600/200/300mg,'Tablet - FDC',29.029029,349.604354,445.746888,9.096044,1.717997,'Mylan (formerly Matrix) Nashik',33.449427,409.250845,425.748919,Adult
+Rwanda,CIP,Air,Lamivudine,Generic,150mg,Tablet,59.059059,7.256475,1.958168,1.924735,0.167609,'Hetero Unit III Hyderabad IN',0.323087,4.808073,2.962986,Adult
+Zambia,'N/A - From RDC',Air,Efavirenz,Generic,600mg,Tablet,29.029029,71.184101,92.096368,9.229809,1.717997,'Mylan (formerly Matrix) Nashik',4.028674,43.124959,113.777885,Adult
+'South Africa',DDP,Truck,Lamivudine,Epivir,150mg,Tablet,59.059059,3.730657,4.470031,8.546119,0.796145,'GSK Cape Town Factory (South Africa)',1.519792,23.33324,3.548059,Adult
+Pakistan,'N/A - From RDC',Air,'HIV 1/2 Uni-Gold HIV Kit',Uni-Gold,300mg,'Test kit',19.019019,0.03871,0.134409,23.780506,6.704379,'Trinity Biotech Plc',0.022161,2.936243,0.203673,'HIV test'
+Tanzania,EXW,Air,'HIV 1/2 Determine Complete HIV Kit',Determine,300mg,'Test kit',99.099099,1.35323,11.290341,59.451265,3.352189,'Alere Medical Co. Ltd.',0.472384,26.807507,12.221669,'HIV test'
+'South Africa',DDP,Air,'Tenofovir Disoproxil Fumarate',Generic,300mg,Tablet,29.029029,104.414853,85.055776,5.811361,1.089462,'Cipla Goa India',5.198553,12.585359,141.595446,Adult
+'Cote d Ivoire','N/A - From RDC',Air,Lamivudine,Generic,10mg/ml,'Oral solution',239.239239,6.99841,1.407294,1.434262,0.041902,'Aurobindo Unit III India',8.154158,43.664778,2.342886,Pediatric
+Zambia,EXW,Air,'HIV 1/2 Determine Complete HIV Kit',Determine,300mg,'Test kit',99.099099,6.450021,53.763528,59.451265,3.352189,'Alere Medical Co. Ltd.',1.893034,71.269137,51.351506,'HIV test'
+Guyana,EXW,Air,'HIV 1/2 Determine Complete HIV Kit',Determine,300mg,'Test kit',99.099099,0.540324,5.080653,66.882673,3.771213,'Inverness Japan',0.179622,14.735522,8.458261,'HIV test'
+'Cote d Ivoire','N/A - From RDC',Air,Lamivudine,Generic,150mg,Tablet,59.059059,35.558179,11.260583,2.259148,0.209512,'Ranbaxy Paonta Shahib India',1.232863,11.556091,13.912024,Adult
+Zambia,EXW,Air,'HIV 1/2 Determine Complete HIV Kit',Determine,300mg,'Test kit',99.099099,4.220981,35.188229,59.451265,3.352189,'Alere Medical Co. Ltd.',1.453309,78.071116,44.83138,'HIV test'
+Mozambique,'N/A - From RDC',Truck,Abacavir,Generic,300mg,Tablet,59.059059,5.966148,6.981026,8.345471,0.796145,'Mylan (formerly Matrix) Nashik',11.093434,35.270787,5.54068,Adult
+'South Africa',DDP,Truck,Lopinavir/Ritonavir,Kaletra,80/20mg/ml,'Oral solution',299.299299,0.001613,0.00788,17.426652,0.335219,'ABBVIE (Abbott) Logis. UK',1.519792,23.33324,0.007784,Pediatric
+Tanzania,'N/A - From RDC',Air,Lamivudine,Generic,150mg,Tablet,59.059059,18.032316,5.466526,2.16254,0.209512,'Aurobindo Unit III India',0.660171,12.407456,6.753636,Adult
+Nigeria,'N/A - From RDC',Air,Stavudine,Generic,30mg,Capsule,59.059059,17.969413,2.901567,1.151868,0.125707,'Aurobindo Unit III India',0.861954,21.800437,4.391291,Adult
+Zambia,EXW,Air,'HIV 1/2 Determine Complete HIV Kit',Determine,300mg,'Test kit',99.099099,4.537111,37.822642,59.451265,3.352189,'Inverness Japan',1.589775,78.528146,62.96475,'HIV test'
+'South Africa',DDP,Air,Abacavir,Generic,300mg,Tablet,59.059059,16.127471,29.032305,12.841473,1.215169,'Cipla Patalganga India',1.267854,8.736505,48.331439,Adult
+Nigeria,FCA,Air,Ritonavir,Norvir,100mg,Tablet,59.059059,0.72097,0.515592,5.090515,0.460926,'ABBVIE Ludwigshafen Germany',0.079314,3.874954,0.656423,Adult
+Uganda,'N/A - From RDC',Air,Lamivudine/Zidovudine,Generic,150/300mg,'Tablet - FDC',59.059059,101.850329,90.711739,6.353854,0.586633,'Aurobindo Unit III India',23.641343,458.78956,151.0111,Adult
+Mozambique,'N/A - From RDC',Air,Zidovudine,Generic,300mg,Tablet,59.059059,4.933887,4.190027,6.056598,0.586633,'Aurobindo Unit III India',3.446651,15.711139,5.176145,Adult
+Haiti,EXW,Ocean,Lamivudine,Generic,10mg/ml,'Oral solution',239.239239,2.659686,0.396422,1.062691,0.041902,'Aurobindo Unit III India',1.519792,23.33324,0.315239,Pediatric
+Zimbabwe,'N/A - From RDC',Truck,Lamivudine/Nevirapine/Stavudine,Generic,30/50/6mg,'Chewable/dispersible tablet - FDC',59.059059,45.514663,10.904924,1.709224,0.167609,'Cipla Goa India',6.360267,32.470155,11.805242,Pediatric
+'Cote d Ivoire','N/A - From RDC',Air,Abacavir,Generic,300mg,Tablet,59.059059,1.693554,6.321549,26.604441,2.514142,'Aurobindo Unit III India',0.435059,6.384375,7.809622,Adult
+'South Africa',DDP,Ocean,'Tenofovir Disoproxil Fumarate',Generic,300mg,Tablet,29.029029,82.872848,55.853843,4.808121,0.921852,'Cipla Goa India',1.519792,23.33324,71.159664,Adult
+Zimbabwe,'N/A - From RDC',Air,Efavirenz,Generic,600mg,Tablet,29.029029,11.288746,19.111254,12.076038,2.262728,'Aurobindo Unit III India',0.677666,6.509387,31.149964,Adult
+Nigeria,'N/A - From RDC','Air Charter',Lamivudine/Zidovudine,Generic,150/300mg,'Tablet - FDC',59.059059,69.038932,52.283745,5.402634,0.502828,'Cipla Goa India',12.959641,128.573917,56.599001,Adult
+'South Africa',DDP,Truck,Lamivudine/Zidovudine,Generic,150/300mg,'Tablet - FDC',59.059059,0.020968,0.050417,15.925508,1.508485,'Aurobindo Unit III India',1.519792,23.33324,0.040216,Adult
+'South Africa',DDP,Air,Nevirapine,Generic,10mg/ml,'Oral suspension',239.239239,30.801712,10.107325,2.340894,0.041902,'Aurobindo Unit III India',8.592717,11.888489,16.825713,Pediatric
+Tanzania,'N/A - From RDC',Truck,Lopinavir/Ritonavir,Aluvia,200/50mg,Tablet,119.119119,4.159691,17.815553,30.543087,1.42468,'ABBVIE Ludwigshafen Germany',0.684665,3.954809,22.009641,Adult
+Nigeria,'N/A - From RDC','Air Charter',Lamivudine/Zidovudine,Generic,150/300mg,'Tablet - FDC',59.059059,99.30032,85.440901,6.138343,0.586633,'Aurobindo Unit III India',7.723764,63.852904,108.85471,Adult
+Zimbabwe,'N/A - From RDC',Truck,'Efavirenz/Lamivudine/Tenofovir Disoproxil Fumarate',Generic,600/300/300mg,'Tablet - FDC',29.029029,32.514621,37.76619,8.28602,1.550388,'Mylan (formerly Matrix) Nashik',2.655846,37.776756,36.072149,Adult
+Burundi,EXW,Air,'HIV 1/2 Determine Complete HIV Kit',Determine,300mg,'Test kit',99.099099,2.372588,19.784978,59.451265,3.352189,'Alere Medical Co. Ltd.',0.74415,55.891777,18.897468,'HIV test'
+'Cote d Ivoire',EXW,Air,'HIV 1/2 Bioline 3.0 Kit (no accessories)',Bioline,300mg,'Test kit',29.029029,2.346782,5.870977,17.835379,3.352189,'Standard Diagnostics Korea',0.56686,17.516096,9.773703,'HIV test'
+Zimbabwe,'N/A - From RDC',Truck,Efavirenz,Generic,50mg,Capsule,29.029029,6.853248,1.599465,1.664635,0.293317,'Aurobindo Unit III India',1.94902,18.456568,2.663314,Pediatric
+Tanzania,EXW,Ocean,'Efavirenz/Emtricitabine/Tenofovir Disoproxil Fumarate',Generic,600/200/300mg,'Tablet - FDC',29.029029,56.450182,69.03573,8.724473,1.634192,'Mylan (formerly Matrix) Nashik',12.251649,97.59983,54.798377,Adult
+Tanzania,EXW,Air,'HIV 1/2 Bioline 3.0 Kit Lancets Capillary pipets Alcohol swabs included',Bioline,300mg,'Test kit',24.024024,12.901655,26.881764,14.862816,3.352189,'Standard Diagnostics Korea',3.110734,61.360399,34.248175,'HIV test'
+Mozambique,EXW,Air,'HIV 1/2 Uni-Gold HIV Kit',Uni-Gold,300mg,'Test kit',19.019019,7.927445,26.43015,23.780506,6.704379,'Trinity Biotech Plc',1.925692,80.439264,39.999014,'HIV test'
+Mozambique,EXW,Air,'HIV 1/2 Determine Complete HIV Kit',Determine,300mg,'Test kit',99.099099,9.675838,80.645291,59.451265,3.352189,'Alere Medical Co. Ltd.',3.338178,180.349726,87.301711,'HIV test'
+Nigeria,EXW,Air,'HIV 1/2 Stat-Pak HIV Kit',Stat-Pak,300mg,'Test kit',19.019019,2.296782,6.464224,20.064802,5.65682,'Chembio Diagnostics Sys. Inc.',0.563361,18.878245,7.986052,'HIV test'
+'South Africa',DDP,Air,Efavirenz,Generic,600mg,Tablet,29.029029,54.908242,26.711313,3.470468,0.670438,'Aurobindo Unit III India',3.373169,21.077122,44.466844,Adult
+Vietnam,EXW,Air,Abacavir,Generic,300mg,Tablet,59.059059,1.611296,7.476491,33.069766,3.100775,'Aurobindo Unit III India',0.106141,27.195731,31.149964,Adult
+'Cote d Ivoire','N/A - From RDC',Truck,Nevirapine,Generic,10mg/ml,'Oral suspension',99.099099,6.450021,0.873657,0.966083,0.041902,'Aurobindo Unit III India',14.228662,160.604269,0.694044,Pediatric
+'Cote d Ivoire','N/A - From RDC',Truck,'Tenofovir Disoproxil Fumarate',Generic,300mg,Tablet,29.029029,9.443579,4.742266,3.581939,0.670438,'Mylan (formerly Matrix) Nashik',0.412898,10.446554,5.133334,Adult
+Nigeria,'N/A - From RDC','Air Charter','Efavirenz/Lamivudine/Tenofovir Disoproxil Fumarate',Generic,600/300/300mg,'Tablet - FDC',29.029029,322.580073,374.664583,8.28602,1.550388,'Hetero Unit III Hyderabad IN',33.81567,90.93398,357.855805,Adult
+Vietnam,EXW,Air,'Efavirenz/Lamivudine/Tenofovir Disoproxil Fumarate',Generic,600/300/300mg,'Tablet - FDC',29.029029,135.482695,162.15752,8.538688,1.59229,'Mylan (formerly Matrix) Nashik',11.05611,49.722245,154.882181,Adult
+Zambia,'N/A - From RDC',Air,Lamivudine,Generic,150mg,Tablet,59.059059,10.611325,2.575844,1.731518,0.167609,'Hetero Unit III Hyderabad IN',0.675334,16.081342,4.287508,Adult
+'Congo DRC','N/A - From RDC',Air,Lamivudine/Zidovudine,Generic,150/300mg,'Tablet - FDC',59.059059,1.972587,1.587583,5.737047,0.544731,'Mylan (formerly Matrix) Nashik',4.242122,88.498198,1.718895,Adult
+Swaziland,'N/A - From RDC',Air,'Lamivudine/Tenofovir Disoproxil Fumarate',Generic,300/300mg,'Tablet - FDC',29.029029,27.901703,22.729539,5.811361,1.089462,'Mylan (formerly Matrix) Nashik',2.374748,53.978794,28.95787,Adult
+Mozambique,'N/A - From RDC',Truck,Lopinavir/Ritonavir,Aluvia,200/50mg,Tablet,119.119119,16.191988,31.8811,14.045361,0.670438,'ABBVIE Ludwigshafen Germany',18.59442,16.458725,25.306028,Adult
+'South Africa',DDP,Truck,Lamivudine,Epivir,150mg,Tablet,59.059059,1.400005,0.995286,5.06822,0.460926,'GSK Ware (UK)',1.519792,23.33324,0.950906,Adult
+Nigeria,EXW,Air,'HIV 1/2 Determine Complete HIV Kit',Determine,300mg,'Test kit',99.099099,4.570982,42.391701,66.139532,3.729311,'Alere Medical Co. Ltd.',1.576945,106.077024,45.891257,'HIV test'
+Nigeria,'N/A - From RDC','Air Charter','Emtricitabine/Tenofovir Disoproxil Fumarate',Generic,200/300mg,'Tablet - FDC',29.029029,9.595192,8.967,6.665973,1.257071,'Aurobindo Unit III India',0.735985,52.897809,11.423842,Adult
+'Congo DRC',EXW,Air,'HIV 1/2 Determine Complete HIV Kit',Determine,300mg,'Test kit',99.099099,0.080645,0.685485,59.451265,3.352189,'Alere Medical Co. Ltd.',1.519792,23.33324,0.622694,'HIV test'
+Haiti,'N/A - From RDC',Air,Efavirenz,Generic,600mg,Tablet,29.029029,43.082397,25.940122,4.295354,0.796145,'Aurobindo Unit III India',2.73166,41.483992,43.183835,Adult
+'South Africa',DDP,Air,Efavirenz,Generic,600mg,Tablet,29.029029,92.901913,45.193621,3.470468,0.670438,'Aurobindo Unit III India',5.6826,20.321423,75.235716,Adult
+'South Africa',DDP,Truck,Ritonavir,Norvir,100mg,Capsule,83.083083,0.004839,0.006532,7.223329,0.502828,'ABBVIE (Abbott) Logis. UK',1.519792,23.33324,0.007784,Adult
+'South Africa',DDP,Ocean,Efavirenz,Generic,200mg,Capsule,89.089089,40.321098,34.316252,6.07146,0.377121,'Aurobindo Unit III India',3.864215,16.187849,43.719611,Pediatric
+'South Africa',DDP,Truck,Abacavir,Ziagen,300mg,'Tablet - blister',59.059059,0.401614,1.990981,35.224874,3.310287,'GSK Ware (UK)',1.519792,23.33324,3.01358,Adult
+Burundi,EXW,Air,'HIV 1/2 Determine Complete HIV Kit',Determine,300mg,'Test kit',99.099099,3.408076,28.414024,59.451265,3.352189,'Alere Medical Co. Ltd.',0.958764,73.701293,22.554499,'HIV test'
+Nigeria,'N/A - From RDC','Air Charter',Zidovudine,Generic,300mg,Tablet,59.059059,6.559699,4.27168,4.64463,0.419024,'Aurobindo Unit III India',0.31259,69.822713,3.391088,Adult
+Nigeria,'N/A - From RDC','Air Charter',Nevirapine,Generic,200mg,Tablet,59.059059,0.037097,0.012097,2.229422,0.209512,'Aurobindo Unit III India',0.024494,25.303014,0.018162,Adult
+'South Africa',DDP,Truck,Lopinavir/Ritonavir,Generic,100/25mg,Tablet,59.059059,0.025807,0.016514,4.295354,0.419024,'ABBVIE Ludwigshafen Germany',1.519792,23.33324,0.015567,Pediatric
+Mozambique,'N/A - From RDC',Air,Efavirenz,Generic,600mg,Tablet,29.029029,15.562953,19.47189,8.925121,1.676095,'Aurobindo Unit III India',4.911623,11.140006,24.055451,Adult
+'Cote d Ivoire','N/A - From RDC',Air,Lamivudine/Nevirapine/Zidovudine,Generic,30/50/60mg,'Chewable/dispersible tablet - FDC',59.059059,16.933926,6.615434,2.786778,0.251414,'Strides Bangalore India.',0.669502,14.027363,6.319048,Pediatric
+'South Africa',DDP,Air,Lamivudine,Generic,150mg,Tablet,59.059059,3.230656,0.851836,1.880146,0.167609,'Aurobindo Unit III India',0.003499,6.182099,1.417926,Adult
+'South Africa',DDP,Truck,Nevirapine,Generic,200mg,Tablet,59.059059,8.21293,15.811356,13.733242,1.298973,'Cipla Goa India',1.519792,23.33324,15.101629,Adult
+Haiti,'N/A - From RDC',Air,Abacavir,Generic,300mg,Tablet,59.059059,3.627431,5.530503,10.87215,1.005657,'Mylan (formerly Matrix) Nashik',11.238065,328.906729,5.986944,Adult
+'South Africa',DDP,Truck,Didanosine,Generic,400mg,'Delayed-release capsules',29.029029,0.025807,0.061994,16.133587,3.01697,'Aurobindo Unit III India',1.519792,23.33324,0.059675,Adult
+Haiti,'N/A - From RDC',Air,Lamivudine,Generic,150mg,Tablet,59.059059,51.819522,16.41,2.259148,0.209512,'Ranbaxy Paonta Shahib India',3.013924,92.788961,20.273882,Adult
+Zambia,EXW,Air,Lamivudine/Nevirapine/Stavudine,Generic,60/100/12mg,'Chewable/dispersible tablet - FDC',59.059059,112.901977,50.571318,3.195505,0.293317,'Cipla Goa India',6.99711,87.631194,54.745188,Pediatric
+Zambia,'N/A - From RDC',Air,Lamivudine/Zidovudine,Generic,150/300mg,'Tablet - FDC',59.059059,81.529295,87.05109,7.617193,0.71234,'Aurobindo Unit III India',5.458655,66.590702,31.149964,Adult
+'Cote d Ivoire','N/A - From RDC',Air,Lamivudine/Zidovudine,Generic,150/300mg,'Tablet - FDC',59.059059,32.714622,32.375388,7.059838,0.670438,'Aurobindo Unit III India',2.212622,13.206931,39.997717,Adult
+'Cote d Ivoire',EXW,Air,'HIV 1/2 Stat-Pak HIV Kit',Stat-Pak,300mg,'Test kit',19.019019,0.353227,0.997985,20.064802,5.65682,'Chembio Diagnostics Sys. Inc.',0.134134,27.21389,1.661815,'HIV test'
+Uganda,'N/A - From RDC',Truck,Lamivudine/Nevirapine/Zidovudine,Generic,150/300/200mg,'Tablet - FDC',59.059059,80.643809,69.388553,6.138343,0.586633,'Aurobindo Unit III India',8.058515,17.077812,55.077292,Adult
+Nigeria,'N/A - From RDC','Air Charter',Lamivudine,Generic,150mg,Tablet,59.059059,31.451714,7.633972,1.731518,0.167609,'Hetero Unit III Hyderabad IN',2.386412,87.108568,8.263669,Adult
+'South Sudan','N/A - From RDC',Air,Nevirapine,Generic,10mg/ml,'Oral suspension',239.239239,6.966152,1.415325,1.449125,0.041902,'Aurobindo Unit III India',1.8942,53.324769,1.532087,Pediatric
+Nigeria,EXW,Air,Nevirapine,Generic,10mg/ml,'Oral suspension',239.239239,0.669357,0.433334,4.607473,0.125707,'Aurobindo Unit III India',0.587855,20.437148,31.149964,Pediatric
+'Congo DRC','N/A - From RDC',Air,Efavirenz,Generic,600mg,Tablet,29.029029,0.320969,0.138441,3.06174,0.586633,'Strides Bangalore India.',0.319588,8.18329,0.150484,Adult
+'South Africa',DDP,Truck,'Emtricitabine/Tenofovir Disoproxil Fumarate',Generic,200/300mg,'Tablet - FDC',29.029029,0.020968,0.079323,25.058708,4.693065,'Aurobindo Unit III India',1.519792,23.33324,0.075242,Adult
+'Cote d Ivoire','N/A - From RDC',Truck,'Lamivudine/Tenofovir Disoproxil Fumarate',Generic,300/300mg,'Tablet - FDC',29.029029,19.643612,9.617959,3.492762,0.670438,'Aurobindo Unit VII IN',1.408986,12.904327,9.186035,Adult
+Mozambique,'N/A - From RDC',Air,Lamivudine/Nevirapine/Stavudine,Generic,150/200/30mg,'Tablet - FDC',59.059059,76.437343,57.329125,5.350614,0.502828,'Cipla Goa India',8.296456,12.42527,86.762043,Adult
+Nigeria,EXW,Air,'HIV 1/2 Stat-Pak HIV Kit',Stat-Pak,300mg,'Test kit',19.019019,4.024207,11.322599,20.064802,5.65682,'Chembio Diagnostics Sys. Inc.',0.818798,15.444026,31.149964,'HIV test'
+Nigeria,EXW,Air,'HIV 1/2 Determine Complete HIV Kit',Determine,300mg,'Test kit',99.099099,9.522611,88.297353,66.139532,3.729311,'Alere Medical Co. Ltd.',2.801643,123.411799,70.086814,'HIV test'
+Mozambique,EXW,Air,'HIV 1/2 Determine Complete HIV Kit',Determine,300mg,'Test kit',99.099099,4.988726,41.586089,59.451265,3.352189,'Alere Medical Co. Ltd.',1.722742,95.581929,52.982186,'HIV test'
+Nigeria,'N/A - From RDC',Air,'Emtricitabine/Tenofovir Disoproxil Fumarate',Truvada,300/200mg,'Tablet - FDC',29.029029,5.469372,14.959702,19.507446,3.687408,'Aspen-OSD Port Elizabeth SA',0.347581,10.087192,22.640119,Adult
+'Congo DRC',EXW,Air,'Chase Buffer Determine 100 Tests 2.5ml x 1 Vial',Determine,300mg,'Test kit - Ancillary',0.0,5.543566,2.888109,3.715704,20.951184,'Alere Medical Co. Ltd.',1.844046,141.428184,2.292293,'HIV test - Ancillary'
+Kenya,EXW,Air,'HIV 1/2 Uni-Gold HIV Kit',Uni-Gold,300mg,'Test kit',19.019019,24.192014,80.645291,23.780506,6.704379,'Trinity Biotech Plc',5.780576,125.040475,87.301711,'HIV test'
+'Cote d Ivoire','N/A - From RDC',Truck,Efavirenz,Generic,600mg,Tablet,29.029029,70.598615,28.01942,2.831366,0.544731,'Aurobindo Unit III India',4.695843,54.124279,30.331688,Adult
+Vietnam,EXW,Air,Nevirapine,Generic,200mg,Tablet,59.059059,6.772602,2.046374,2.155108,0.209512,'Aurobindo Unit III India',1.2177,13.303806,3.096606,Adult
+Nigeria,'N/A - From RDC','Air Charter','Efavirenz/Emtricitabine/Tenofovir Disoproxil Fumarate',Generic,600/200/300mg,'Tablet - FDC',29.029029,96.151923,129.807064,9.631105,1.801802,'Cipla Goa India',9.006781,50.221567,140.521299,Adult
+Nigeria,'N/A - From RDC','Air Charter','Emtricitabine/Tenofovir Disoproxil Fumarate',Generic,200/300mg,'Tablet - FDC',29.029029,153.616625,143.536809,6.665973,1.257071,'Aurobindo Unit III India',16.897338,23.33324,155.384228,Adult
+Zimbabwe,'N/A - From RDC',Truck,'HIV 1/2 Bioline 3.0 Kit Lancets Capillary pipets Alcohol swabs included',Bioline,300mg,'Test kit',24.024024,4.017755,8.373669,14.862816,3.352189,'Standard Diagnostics Korea',0.860788,10.651006,10.344506,'HIV test'
+'South Africa',DDP,Truck,Efavirenz,Generic,200mg,Capsule,89.089089,0.072581,0.182294,17.530692,1.089462,'Aurobindo Unit III India',1.519792,23.33324,0.145295,Pediatric
+Nigeria,'N/A - From RDC',Air,Lamivudine/Zidovudine,Generic,150/300mg,'Tablet - FDC',59.059059,1.798393,1.753128,6.948367,0.670438,'Aurobindo Unit III India',0.118971,12.703431,2.652936,Adult
+'South Africa',DDP,Ocean,Efavirenz,Generic,600mg,Tablet,29.029029,177.887671,83.570768,3.351565,0.628536,'Aurobindo Unit III India',10.934806,34.353688,106.471608,Adult
+Nigeria,EXW,Air,'HIV 1/2 Uni-Gold HIV Kit',Uni-Gold,300mg,'Test kit',19.019019,0.062903,0.268818,29.725632,8.380473,'Trinity Biotech Plc',0.016329,2.460984,31.149964,'HIV test'
+Vietnam,EXW,Air,Nevirapine,Generic,200mg,Tablet,59.059059,43.542076,10.024104,1.642341,0.167609,'Hetero Unit III Hyderabad IN',2.013171,41.374275,9.573922,Adult
+Sudan,EXW,Air,'HIV 1/2 Uni-Gold HIV Kit',Uni-Gold,300mg,'Test kit',19.019019,0.256452,0.860216,23.780506,6.704379,'Trinity Biotech Plc',0.061818,4.523248,1.432196,'HIV test'
+Rwanda,EXW,Air,'HIV 1/2 Colloidal Gold Diagnostic Kit Antibody','Colloidal Gold',300mg,'Test kit',0.0,4.817757,12.299415,18.20695,102.6608,'KHB Test Kit Facility Shanghai China',2.323428,90.679675,11.748162,'HIV test'
+Vietnam,EXW,Air,Efavirenz,Generic,600mg,Tablet,29.029029,36.288827,46.610458,9.162926,1.717997,'Aurobindo Unit III India',2.280272,55.565351,57.583636,Adult
+'Cote d Ivoire','N/A - From RDC',Air,Nevirapine,Generic,200mg,Tablet,59.059059,6.611312,2.204305,2.378051,0.209512,'Aurobindo Unit III India',1.698248,17.426298,3.336602,Adult
+Guyana,EXW,Air,'HIV 1/2 Determine Complete HIV Kit',Determine,300mg,'Test kit',99.099099,0.341937,2.576617,53.506138,3.01697,'Inverness Japan',0.074648,3.737617,3.899622,'HIV test'
+Mozambique,'N/A - From RDC',Truck,'Efavirenz/Lamivudine/Tenofovir Disoproxil Fumarate',Generic,600/300/300mg,'Tablet - FDC',29.029029,290.634808,329.084667,8.077941,1.508485,'Aurobindo Unit VII IN',16.024886,23.33324,314.320407,Adult
+Nigeria,'N/A - From RDC','Air Charter',Efavirenz,Generic,200mg,Capsule,89.089089,1.966135,1.986193,7.201034,0.460926,'Aurobindo Unit III India',0.197118,46.253053,2.530992,Pediatric
+Nigeria,'N/A - From RDC',Air,'Emtricitabine/Tenofovir Disoproxil Fumarate',Truvada,300/200mg,'Tablet - FDC',29.029029,24.192014,66.154341,19.507446,3.687408,'Aspen-OSD Port Elizabeth SA',1.526791,25.765327,81.728599,Adult
+'Cote d Ivoire','N/A - From RDC',Air,Efavirenz,Stocrin/Sustiva,50mg,Capsule,29.029029,0.780648,0.282754,2.578699,0.502828,'MSD Haarlem NL',0.332418,6.163421,0.348968,Pediatric
+Nigeria,'N/A - From RDC','Air Charter',Abacavir/Lamivudine,Generic,600/300mg,'Tablet - FDC',29.029029,31.217843,43.869768,10.02497,1.885607,'Mylan (formerly Matrix) Nashik',2.286104,24.195376,34.821572,Adult
+Nigeria,'N/A - From RDC',Air,'Emtricitabine/Tenofovir Disoproxil Fumarate',Truvada,300/200mg,'Tablet - FDC',29.029029,0.120968,0.335182,19.507446,3.687408,'Aspen-OSD Port Elizabeth SA',0.008165,2.57809,0.413832,Adult
+'Cote d Ivoire',FCA,Air,Lopinavir/Ritonavir,Aluvia,200/50mg,Tablet,119.119119,16.514569,70.709791,30.543087,1.42468,'ABBVIE Ludwigshafen Germany',2.942775,51.115501,107.011276,Adult
+Nigeria,'N/A - From RDC','Air Charter',Lamivudine/Zidovudine,Generic,150/300mg,'Tablet - FDC',59.059059,19.27103,17.586258,6.509913,0.628536,'Aurobindo Unit III India',1.264355,40.17539,26.614983,Adult
+Tanzania,'N/A - From RDC',Air,Lopinavir/Ritonavir,Aluvia,200/50mg,Tablet,119.119119,52.085652,102.546637,14.045361,0.670438,'ABBVIE Ludwigshafen Germany',23.481549,338.05383,97.945888,Adult
+Zimbabwe,'N/A - From RDC',Truck,Efavirenz,Generic,600mg,Tablet,29.029029,7.740348,2.685488,2.474659,0.460926,'Hetero Jadcherla unit 5 IN',3.594781,32.470121,2.564721,Adult
+Haiti,'N/A - From RDC',Air,Stavudine,Generic,1mg/ml,'Oral solution',199.199199,0.64355,0.094086,1.040397,0.041902,'Aurobindo Unit III India',0.045489,23.513145,0.142701,Pediatric
+Mozambique,'N/A - From RDC',Truck,Lamivudine/Nevirapine/Zidovudine,Generic,150/300/200mg,'Tablet - FDC',59.059059,109.045513,109.274131,7.149015,0.670438,'Aurobindo Unit III India',21.030986,25.659269,118.293714,Adult
+Haiti,'N/A - From RDC',Air,Lamivudine,Generic,150mg,Tablet,59.059059,13.740367,3.335288,1.731518,0.167609,'Strides Bangalore India.',2.05866,63.774189,5.552356,Adult
+Vietnam,EXW,Air,Abacavir,Generic,300mg,Tablet,59.059059,0.804841,2.100138,18.57852,1.759899,'Aurobindo Unit III India',0.144631,18.010688,2.594559,Adult
+Haiti,'N/A - From RDC',Air,Nevirapine,Generic,10mg/ml,'Oral suspension',239.239239,2.766138,0.562198,1.449125,0.041902,'Aurobindo Unit III India',18.702893,558.29709,0.537074,Pediatric
+'Cote d Ivoire','N/A - From RDC',Air,Lopinavir/Ritonavir,Aluvia,200/50mg,Tablet,119.119119,2.488718,10.661711,30.543087,1.42468,'ABBVIE (Abbott) Logis. UK',1.519792,23.33324,16.135561,Adult
+Nigeria,'N/A - From RDC','Air Charter',Lopinavir/Ritonavir,Aluvia,200/50mg,Tablet,119.119119,25.524276,50.254013,14.045361,0.670438,'ABBVIE Ludwigshafen Germany',4.448571,102.447502,47.999336,Adult
+Sudan,EXW,Air,'HIV 1/2 Bioline 3.0 Kit Lancets Capillary pipets Alcohol swabs included',Bioline,300mg,'Test kit',24.024024,0.024194,0.053764,14.862816,3.352189,'Standard Diagnostics Korea',0.162127,5.624327,0.089512,'HIV test'
+Uganda,'N/A - From RDC',Truck,Lamivudine/Nevirapine/Zidovudine,Generic,150/300/200mg,'Tablet - FDC',59.059059,72.766364,85.047436,8.33804,0.796145,'Aurobindo Unit III India',6.164315,38.198365,128.70957,Adult
+'Cote d Ivoire',CIP,Air,Didanosine,Videx,50mg,'Chewable/dispersible tablet',59.059059,3.041945,3.01185,7.059838,0.670438,'BMS Meymac France',0.36391,2.695472,5.013985,Pediatric
+Kenya,'N/A - From RDC',Truck,'HIV 1/2 Uni-Gold HIV Kit',Uni-Gold,300mg,'Test kit',19.019019,2.014523,6.720441,23.780506,6.704379,'Trinity Biotech Plc',0.459553,0.541166,10.17067,'HIV test'
+Guyana,'N/A - From RDC',Air,Lopinavir/Ritonavir,Generic,200/50mg,Tablet,119.119119,2.583879,5.30833,14.647305,0.670438,'Mylan (formerly Matrix) Nashik',0.601852,26.453807,4.213563,Adult
+Cameroon,'N/A - From RDC','Air Charter',Lamivudine/Nevirapine/Zidovudine,Generic,150/300/200mg,'Tablet - FDC',59.059059,112.901977,100.907421,6.376148,0.586633,'Aurobindo Unit III India',21.937263,427.90679,96.380072,Adult
+'Cote d Ivoire','N/A - From RDC',Truck,'Efavirenz/Lamivudine/Tenofovir Disoproxil Fumarate',Generic,600/300/300mg,'Tablet - FDC',29.029029,81.466392,92.245394,8.077941,1.508485,'Hetero Unit III Hyderabad IN',7.891723,63.100865,88.107321,Adult
+Nigeria,'N/A - From RDC','Air Charter',Lamivudine/Zidovudine,Generic,150/300mg,'Tablet - FDC',59.059059,80.643809,61.072007,5.402634,0.502828,'Hetero Unit III Hyderabad IN',12.959641,128.573917,66.113247,Adult
+Nigeria,EXW,Air,'HIV 1/2 Uni-Gold HIV Kit',Uni-Gold,300mg,'Test kit',19.019019,51.356617,171.193825,23.780506,6.704379,'Trinity Biotech Plc',10.861324,268.709932,163.512981,'HIV test'
+Zimbabwe,'N/A - From RDC',Truck,Lamivudine/Nevirapine/Zidovudine,Generic,30/50/60mg,'Chewable/dispersible tablet - FDC',59.059059,148.458543,60.157195,2.890818,0.251414,'Strides Bangalore India.',5.952034,40.061184,57.4578,Pediatric
+Zambia,'N/A - From RDC',Truck,'Lamivudine/Tenofovir Disoproxil Fumarate',Generic,300/300mg,'Tablet - FDC',29.029029,44.998532,21.750035,3.448173,0.628536,'Ranbaxy per Shasun Pharma Ltd',19.849444,67.541221,17.264194,Adult
+Zimbabwe,'N/A - From RDC',Truck,Abacavir/Lamivudine,Generic,60/30mg,'Tablet - FDC',59.059059,37.095281,15.263802,2.935406,0.293317,'Mylan (formerly Matrix) Nashik',1.110393,5.248808,12.115292,Pediatric
+Nigeria,'N/A - From RDC','Air Charter',Efavirenz,Generic,600mg,Tablet,29.029029,82.482524,37.289643,3.225231,0.586633,'Aurobindo Unit III India',81.77369,150.343109,62.077411,Adult
+Mozambique,'N/A - From RDC',Air,Ritonavir,Norvir,100mg,Capsule,335.335335,0.229033,0.921621,28.506881,0.460926,'ABBVIE (Abbott) Logis. UK',10.504412,34.071177,1.139011,Adult
+'South Africa',DDP,Truck,Abacavir,Generic,300mg,Tablet,59.059059,0.15,1.019918,47.992034,4.525456,'Aurobindo Unit III India',1.519792,23.33324,0.974257,Adult
+Nigeria,'N/A - From RDC',Air,Lamivudine/Zidovudine,Generic,150/300mg,'Tablet - FDC',59.059059,3.053236,2.97529,6.948367,0.670438,'Mylan (formerly Matrix) Nashik',0.526037,12.039221,3.675192,Adult
+Nigeria,'N/A - From RDC',Air,Zidovudine,Generic,300mg,Tablet,59.059059,0.200001,0.171161,6.056598,0.586633,'Aurobindo Unit III India',0.521372,7.696293,0.211457,Adult
+'South Africa',DDP,Truck,Atazanavir,Reyataz,150mg,Capsule,59.059059,0.001613,0.008631,19.083856,1.801802,'BMS Evansville US',1.519792,23.33324,0.007784,Pediatric
+Zimbabwe,'N/A - From RDC',Truck,Abacavir/Lamivudine,Generic,60/30mg,'Tablet - FDC',59.059059,82.009942,33.744283,2.935406,0.293317,'Aurobindo Unit III India',2.766652,8.971476,26.784927,Pediatric
+Ghana,EXW,Air,Lamivudine/Nevirapine/Zidovudine,Generic,150/300/200mg,'Tablet - FDC',59.059059,46.945313,40.100434,6.093755,0.586633,'Aurobindo Unit III India',4.253785,64.023004,31.830046,Adult
+Nigeria,'N/A - From RDC','Air Charter',Lopinavir/Ritonavir,Generic,200/50mg,Tablet,119.119119,28.219446,86.162281,21.781457,1.005657,'Aurobindo Unit III India',5.712926,63.733174,93.274385,Adult
+Haiti,'N/A - From RDC',Air,Lamivudine,Generic,10mg/ml,'Oral solution',239.239239,8.240349,1.656975,1.434262,0.041902,'Aurobindo Unit III India',2.146138,51.321472,2.110673,Pediatric
+Zimbabwe,FCA,Air,Lopinavir/Ritonavir,Kaletra,80/20mg/ml,'Oral solution',299.299299,1.650005,5.302374,22.9036,0.419024,'ABBVIE (Abbott) Logis. UK',1.182709,23.33324,5.740461,Pediatric
+Zambia,EXW,Air,'HIV 1/2 Uni-Gold HIV Kit',Uni-Gold,300mg,'Test kit',19.019019,7.256475,24.193587,23.780506,6.704379,'Trinity Biotech Plc',1.578111,60.442057,23.108437,'HIV test'
+Pakistan,EXW,Air,'HIV 1/2 Determine Complete HIV Kit',Determine,300mg,'Test kit',99.099099,7.230668,60.268914,59.451265,3.352189,'Alere Medical Co. Ltd.',2.272107,74.878151,65.24407,'HIV test'
+Zambia,EXW,Air,'HIV 1/2 Uni-Gold HIV Kit',Uni-Gold,300mg,'Test kit',19.019019,8.488737,28.301121,23.780506,6.704379,'Trinity Biotech Plc',2.129809,56.74908,47.113294,'HIV test'
+Rwanda,'N/A - From RDC',Air,'Lamivudine/Tenofovir Disoproxil Fumarate',Generic,300/300mg,'Tablet - FDC',29.029029,56.450182,32.577337,4.117,0.754243,'Mylan (formerly Matrix) Nashik',3.09907,49.4774,35.266539,Adult
+'Congo DRC',EXW,Air,'HIV 1/2 Uni-Gold HIV Kit',Uni-Gold,300mg,'Test kit',19.019019,0.567744,1.897853,23.780506,6.704379,'Trinity Biotech Plc',0.592521,13.525244,1.725382,'HIV test'
+Nigeria,'N/A - From RDC','Air Charter',Efavirenz,Generic,600mg,Tablet,29.029029,0.301614,0.150034,3.529919,0.670438,'Aurobindo Unit III India',0.019828,33.610453,0.250375,Adult
+'Cote d Ivoire','N/A - From RDC',Air,Lamivudine,Generic,10mg/ml,'Oral solution',239.239239,4.853241,0.976026,1.434262,0.041902,'Aurobindo Unit III India',3.734747,43.664847,1.624194,Pediatric
+Nigeria,'N/A - From RDC',Air,Efavirenz,Generic,600mg,Tablet,29.029029,4.961306,6.208809,8.925121,1.676095,'Aurobindo Unit III India',0.492212,9.706633,7.670813,Adult
+Rwanda,'N/A - From RDC',Air,'Tenofovir Disoproxil Fumarate',Generic,300mg,Tablet,29.029029,0.320969,0.119288,2.63815,0.502828,'Mylan (formerly Matrix) Nashik',0.013997,4.492246,0.108971,Adult
+Rwanda,EXW,Air,'HIV 1/2 Determine HIV Kit without Lancets',Determine,300mg,'Test kit',99.099099,8.062929,65.272283,57.742041,3.268385,'Inverness Japan',1.322674,53.050751,108.661415,'HIV test'
+'South Africa',DDP,Truck,Lamivudine,Epivir,150mg,Tablet,59.059059,1.583876,1.698027,7.639488,0.71234,'GSK Cape Town Factory (South Africa)',1.519792,23.33324,1.543762,Adult
+Zambia,'N/A - From RDC',Truck,'Lamivudine/Tenofovir Disoproxil Fumarate',Generic,300/300mg,'Tablet - FDC',29.029029,148.539189,177.939215,8.546119,1.59229,'Mylan (formerly Matrix) Nashik',8.964792,23.33324,269.291841,Adult
+Uganda,'N/A - From RDC',Truck,Zidovudine,Generic,300mg,Tablet,59.059059,7.091958,5.187166,5.216848,0.502828,'Hetero Unit III Hyderabad IN',0.261269,6.671962,6.608341,Adult
+Nigeria,'N/A - From RDC','Air Charter','Efavirenz/Emtricitabine/Tenofovir Disoproxil Fumarate',Generic,600/200/300mg,'Tablet - FDC',29.029029,169.376353,241.539647,10.173598,1.927509,'Mylan (formerly Matrix) Nashik',15.620152,128.573917,261.475733,Adult
+'South Africa',DDP,Truck,Efavirenz,Generic,50mg,Capsule,29.029029,0.143549,0.062078,3.054309,0.586633,'Aurobindo Unit III India',1.519792,23.33324,0.093404,Pediatric
+'South Africa',DDP,Truck,Didanosine,Videx,100mg,'Chewable/dispersible tablet',59.059059,0.009677,0.015348,9.697988,0.921852,'BMS Meymac France',1.519792,23.33324,0.023351,Pediatric
+'South Sudan',EXW,Air,'Chase Buffer Determine 100 Tests 2.5ml x 1 Vial',Determine,300mg,'Test kit - Ancillary',0.0,0.022581,0.012601,3.715704,20.951184,'Alere Medical Co. Ltd.',1.519792,23.33324,0.011676,'HIV test - Ancillary'
+Namibia,EXW,Air,'HIV 1/2 Clearview Complete Kit',Clearview,300mg,'Test kit',24.024024,0.004839,0.050403,55.735561,12.57071,'Chembio Diagnostics Sys. Inc.',0.004666,0.457445,0.076539,'HIV test'
+Haiti,'N/A - From RDC',Air,Efavirenz,Generic,50mg,Capsule,29.029029,2.708073,0.632259,1.664635,0.293317,'Aurobindo Unit III India',11.238065,328.906729,0.684963,Pediatric
+Zambia,'N/A - From RDC',Truck,Lamivudine/Zidovudine,Generic,150/300mg,'Tablet - FDC',59.059059,2.975816,2.046979,4.904729,0.460926,'Hetero Unit III Hyderabad IN',12.381117,77.748212,1.624194,Adult
+Guyana,'N/A - From RDC',Air,Nevirapine,Generic,10mg/ml,'Oral suspension',239.239239,0.633873,0.123125,1.382242,0.041902,'Aurobindo Unit III India',0.717323,29.069079,0.118052,Pediatric
+Haiti,'N/A - From RDC',Air,Abacavir,Generic,20mg/ml,'Oral solution',239.239239,0.462905,0.658066,10.106715,0.251414,'Aurobindo Unit III India',0.870119,20.839492,1.094904,Pediatric
+Tanzania,'N/A - From RDC',Truck,Nevirapine,Generic,10mg/ml,'Oral suspension',239.239239,47.585637,9.666145,1.449125,0.041902,'Aurobindo Unit III India',12.728698,13.302632,12.315073,Pediatric
+Vietnam,EXW,Air,Zidovudine,Generic,300mg,Tablet,59.059059,1.043552,0.816534,5.573556,0.502828,'Mylan (formerly Matrix) Nashik',1.792725,46.632335,1.009283,Adult
+Mozambique,'N/A - From RDC',Truck,Abacavir/Lamivudine,Generic,600/300mg,'Tablet - FDC',29.029029,5.482276,7.974475,10.374246,1.969411,'Mylan (formerly Matrix) Nashik',0.367409,6.838713,7.616327,Adult
+Vietnam,EXW,Air,'Tenofovir Disoproxil Fumarate',Generic,300mg,Tablet,29.029029,19.86458,7.346341,2.63815,0.502828,'Hetero Unit III Hyderabad IN',3.303186,25.801439,7.016984,Adult
+'South Africa',DDP,Air,Lopinavir/Ritonavir,Aluvia,200/50mg,Tablet,119.119119,0.320969,1.038644,22.970482,1.089462,'ABBVIE Ludwigshafen Germany',1.519792,23.33324,1.572303,Adult
+'Cote d Ivoire','N/A - From RDC',Truck,Abacavir/Lamivudine,Generic,60/30mg,'Tablet - FDC',59.059059,8.101639,3.882802,3.418448,0.335219,'Aurobindo Unit III India',3.186548,36.869669,4.203185,Pediatric
+'Cote d Ivoire','N/A - From RDC',Air,Abacavir,Generic,300mg,Tablet,59.059059,13.143591,26.016507,14.119675,1.340876,'Mylan (formerly Matrix) Nashik',11.504,66.111645,43.310968,Adult
+Malawi,EXW,Air,'HIV 1/2 Determine Complete HIV Kit',Determine,300mg,'Test kit',99.099099,0.104839,0.887098,59.451265,3.352189,'Alere Medical Co. Ltd.',0.034991,5.072769,0.959987,'HIV test'
+Zimbabwe,'N/A - From RDC',Truck,Nevirapine,Generic,200mg,Tablet,59.059059,14.632305,3.826154,1.865283,0.167609,'Hetero Unit III Hyderabad IN',2.451729,26.805988,6.369642,Adult
+Guyana,FCA,Air,Lopinavir/Ritonavir,Kaletra,80/20mg/ml,'Oral solution',299.299299,0.032258,0.214587,45.197824,0.838047,'ABBVIE (Abbott) Logis. UK',0.060652,3.784984,0.232213,Pediatric
+Benin,EXW,Air,'Efavirenz/Lamivudine/Tenofovir Disoproxil Fumarate',Generic,600/300/300mg,'Tablet - FDC',29.029029,2.004845,2.946981,10.478285,1.969411,'Mylan (formerly Matrix) Nashik',0.204116,20.244296,3.754326,Adult
+Vietnam,EXW,Air,Abacavir,Generic,300mg,Tablet,59.059059,0.966132,1.154236,8.508962,0.796145,'Hetero Unit III Hyderabad IN',2.272107,10.831947,0.915879,Adult
+Nigeria,'N/A - From RDC',Air,Efavirenz,Generic,600mg,Tablet,29.029029,195.086113,73.970644,2.705033,0.502828,'Aurobindo Unit III India',13.260567,53.36858,80.075865,Adult
+Mozambique,'N/A - From RDC',Truck,Zidovudine,Generic,10mg/ml,'Oral solution',239.239239,6.450021,1.411293,1.560596,0.041902,'Aurobindo Unit III India',1.326173,16.265079,1.798029,Pediatric
+Mozambique,EXW,Air,'Chase Buffer Determine 100 Tests 2.5ml x 1 Vial',Determine,300mg,'Test kit - Ancillary',0.0,0.129033,0.068044,3.715704,20.951184,'Alere Medical Co. Ltd.',0.018662,1.610585,0.073945,'HIV test - Ancillary'
+Vietnam,FCA,Air,Lopinavir/Ritonavir,Aluvia,200/50mg,Tablet,119.119119,2.256459,19.334709,61.086175,2.849361,'ABBVIE Ludwigshafen Germany',0.243773,3.292325,29.261433,Adult
+'South Africa',DDP,Truck,Lamivudine,Generic,150mg,Tablet,59.059059,0.667744,0.680307,7.253054,0.670438,'Hetero Unit III Hyderabad IN',1.519792,23.33324,0.649937,Adult
+'Cote d Ivoire','N/A - From RDC',Truck,'Lamivudine/Tenofovir Disoproxil Fumarate',Generic,300/300mg,'Tablet - FDC',29.029029,12.901655,6.317214,3.492762,0.670438,'Hetero Unit III Hyderabad IN',0.367409,37.311026,6.839257,Adult
+'Cote d Ivoire','N/A - From RDC',Air,Lamivudine/Nevirapine/Stavudine,Generic,150/200/30mg,'Tablet - FDC',59.059059,57.417927,44.260824,5.499242,0.502828,'Cipla Goa India',4.351761,23.40101,54.680324,Adult
+Uganda,CIP,Air,Raltegravir,Isentress,400mg,Tablet,59.059059,2.095168,12.121995,41.244315,3.855018,'MSD Haarlem NL',1.519792,23.33324,9.621921,Adult
+Zimbabwe,'N/A - From RDC',Truck,Lopinavir/Ritonavir,Generic,200/50mg,Tablet,119.119119,13.867787,31.46615,16.185607,0.754243,'Mylan (formerly Matrix) Nashik',2.674508,15.635704,30.054071,Adult
+Mozambique,'N/A - From RDC',Air,Zidovudine,Generic,300mg,Tablet,59.059059,6.450021,5.725816,6.33156,0.586633,'Ranbaxy Paonta Shahib India',1.519792,2.05643,31.149964,Adult
+'Cote d Ivoire',EXW,Air,'HIV 1/2 Determine HIV Kit without Lancets',Determine,300mg,'Test kit',99.099099,2.41775,17.641157,52.019857,2.933166,'Inverness Japan',0.397735,33.657509,26.698009,'HIV test'
+Uganda,EXW,Air,Lopinavir/Ritonavir,Kaletra,80/20mg/ml,'Oral solution',299.299299,0.301614,0.973483,22.9036,0.419024,'ABBVIE (Abbott) Logis. UK',0.25777,8.811629,0.773178,Pediatric
+Mozambique,'N/A - From RDC',Truck,Zidovudine,Generic,300mg,Tablet,59.059059,70.450227,47.995239,4.860141,0.460926,'Aurobindo Unit III India',7.622289,20.539823,45.84196,Adult
+'Cote d Ivoire','N/A - From RDC',Truck,Lamivudine/Zidovudine,Generic,150/300mg,'Tablet - FDC',59.059059,30.643647,20.813206,4.845278,0.460926,'Hetero Unit III Hyderabad IN',1.963016,22.243036,16.520852,Adult
+Uganda,'N/A - From RDC',Truck,Lamivudine/Nevirapine/Zidovudine,Generic,150/300/200mg,'Tablet - FDC',59.059059,85.318017,72.077196,6.026872,0.586633,'Hetero Unit III Hyderabad IN',21.85445,34.029058,57.211316,Adult
+Namibia,EXW,Air,Lamivudine/Zidovudine,Generic,150/300mg,'Tablet - FDC',59.059059,43.003365,29.610671,4.912161,0.460926,'Hetero Jadcherla unit 5 IN',4.937284,92.051319,23.504107,Adult
+Zambia,FCA,Air,Lopinavir/Ritonavir,Kaletra,80/20mg/ml,'Oral solution',299.299299,1.224197,3.935356,22.9036,0.419024,'ABBVIE (Abbott) Logis. UK',0.882949,35.782159,3.758218,Pediatric
+'South Africa',DDP,Ocean,Efavirenz,Generic,50mg,Capsule,29.029029,51.740489,12.881607,1.776107,0.335219,'Aurobindo Unit III India',3.109567,74.900868,21.444028,Pediatric
+'Cote d Ivoire','N/A - From RDC',Air,Stavudine,Generic,1mg/ml,'Oral solution',199.199199,3.17743,0.46361,1.040397,0.041902,'Aurobindo Unit III India',0.709159,6.890775,0.573397,Pediatric
+'South Africa',DDP,Truck,Lopinavir/Ritonavir,Aluvia,200/50mg,Tablet,119.119119,5.643567,25.629331,32.386077,1.508485,'ABBVIE Ludwigshafen Germany',1.519792,23.33324,38.787355,Adult
+Haiti,'N/A - From RDC',Air,Stavudine,Generic,30mg,Capsule,59.059059,7.111313,1.081756,1.084986,0.083805,'Aurobindo Unit III India',0.333584,13.262343,1.800624,Adult
+Tanzania,EXW,Air,'HIV 1/2 Bioline 3.0 Kit Lancets Capillary pipets Alcohol swabs included',Bioline,300mg,'Test kit',24.024024,16.127471,33.602205,14.862816,3.352189,'Standard Diagnostics Korea',3.889875,81.531953,42.810218,'HIV test'
+Kenya,'N/A - From RDC',Truck,Efavirenz,Stocrin/Sustiva,30mg/ml,'Oral solution',179.179179,6.337117,0.006603,0.007431,0.0,'MSD Haarlem NL',1.519792,23.33324,0.010378,Pediatric
+'Cote d Ivoire',EXW,Air,'HIV Genie II HIV-1/HIV-2 Kit',Genie,300mg,'Test kit',39.039039,0.804841,6.384419,56.478702,7.96145,'Bio-Rad Laboratories',0.655505,39.003226,7.887458,'HIV test'
+Zambia,'N/A - From RDC',Truck,Lamivudine/Nevirapine/Stavudine,Generic,150/200/30mg,'Tablet - FDC',59.059059,2.483879,1.675115,4.808121,0.460926,'Strides Bangalore India.',22.687245,58.336983,2.534884,Adult
+Zambia,'N/A - From RDC',Air,'HIV 1/2 Uni-Gold HIV Kit',Uni-Gold,300mg,'Test kit',19.019019,3.954851,13.188193,23.780506,6.704379,'Trinity Biotech Plc',0.957597,18.070104,16.292531,'HIV test'
+Vietnam,EXW,Air,Efavirenz,Generic,600mg,Tablet,29.029029,8.062929,2.772182,2.452365,0.460926,'Aurobindo Unit III India',1.519792,23.33324,2.519316,Adult
+Zambia,'N/A - From RDC',Air,Abacavir,Generic,300mg,Tablet,59.059059,13.306495,38.163709,20.458667,1.927509,'Aurobindo Unit III India',0.958764,11.402527,47.148321,Adult
+Uganda,'N/A - From RDC',Air,Zidovudine,Generic,300mg,Tablet,59.059059,0.079033,0.066364,5.870812,0.544731,'Aurobindo Unit III India',0.003499,3.377047,0.099891,Adult
+'Congo DRC','N/A - From RDC',Air,Efavirenz,Generic,200mg,Tablet,89.089089,0.501615,0.382662,5.424928,0.335219,'Strides Bangalore India.',0.884116,70.769572,0.365833,Pediatric
+Guyana,'N/A - From RDC',Air,Lopinavir/Ritonavir,Aluvia,200/50mg,Tablet,119.119119,1.588715,13.617159,61.086175,2.849361,'ABBVIE Ludwigshafen Germany',0.468884,16.593162,16.823119,Adult
+Uganda,CIP,Air,'Didanosine EC','Videx EC',250mg,'Delayed-release capsules - blister',29.029029,0.095162,0.184879,13.629202,2.556044,'BMS Meymac France',3.499138,1.478185,0.280212,Adult
+Rwanda,FCA,Air,Ritonavir,Norvir,100mg,Tablet,59.059059,0.175807,0.126596,5.090515,0.460926,'ABBVIE Ludwigshafen Germany',0.050154,3.608704,0.160863,Adult
+Mozambique,'N/A - From RDC',Truck,Lamivudine,Generic,150mg,Tablet,59.059059,0.708067,0.128629,1.293065,0.125707,'Micro labs Verna Goa India',0.031492,2.759341,0.102485,Adult
+Tanzania,'N/A - From RDC',Air,Lopinavir/Ritonavir,Kaletra,80/20mg/ml,'Oral solution',299.299299,0.235485,1.015072,30.543087,0.586633,'ABBVIE (Abbott) Logis. UK',0.63801,7.226764,1.254469,Pediatric
+Tanzania,EXW,Air,Zidovudine,Generic,300mg,Tablet,59.059059,101.9342,58.400632,4.087274,0.377121,'Hetero Unit III Hyderabad IN',4.673682,80.774943,46.355683,Adult
+Nigeria,'N/A - From RDC','Air Charter',Lamivudine/Nevirapine/Zidovudine,Generic,150/300/200mg,'Tablet - FDC',59.059059,143.539173,115.430529,5.737047,0.544731,'Cipla Goa India',48.87596,293.26208,91.624246,Adult
+Nigeria,'N/A - From RDC',Air,Lamivudine/Zidovudine,Generic,150/300mg,'Tablet - FDC',59.059059,1.224197,1.206655,7.022681,0.670438,'Aurobindo Unit III India',0.232109,6.617517,1.490574,Adult
+'South Africa',DDP,Ocean,Abacavir,Ziagen,20mg/ml,'Oral solution',239.239239,3.617754,3.498715,6.896347,0.167609,'GSK Mississauga (Canada)',1.01475,12.964365,4.457452,Pediatric
+Zambia,'N/A - From RDC',Truck,Abacavir/Lamivudine,Generic,60/30mg,'Tablet - FDC',59.059059,75.761535,31.567927,2.972563,0.293317,'Aurobindo Unit III India',3.77557,14.526375,25.056951,Pediatric
+'Cote d Ivoire',EXW,Air,Artesunate+Amodiaquine,Generic,50+153mg,'Tablet - FDC + co-blister',23.023023,40.321098,2.940193,0.520199,0.125707,'Ipca Dadra/Nagar Haveli IN',0.739485,29.447498,4.449668,ACT
+Haiti,'N/A - From RDC',Air,Efavirenz,Generic,600mg,Tablet,29.029029,30.256549,37.854161,8.925121,1.676095,'Mylan (formerly Matrix) Nashik',2.526378,71.041864,46.765623,Adult
+Mozambique,EXW,Air,'HIV 1/2 Determine Complete HIV Kit',Determine,300mg,'Test kit',99.099099,2.953235,24.623696,59.451265,3.352189,'Alere Medical Co. Ltd.',0.966928,29.965291,23.518377,'HIV test'
+Ethiopia,EXW,Air,'HIV 1/2 Colloidal Gold Diagnostic Kit Antibody','Colloidal Gold',300mg,'Test kit',0.0,5.595179,13.40896,17.092239,96.375445,'KHB Test Kit Facility Shanghai China',2.926446,68.639157,20.293341,'HIV test'
+Zimbabwe,'N/A - From RDC',Truck,Didanosine,Generic,125mg,'Delayed-release capsules',29.029029,0.167742,0.14995,6.316697,1.173266,'Aurobindo Unit III India',0.011664,11.749391,0.249078,Pediatric
+Haiti,EXW,Air,'HIV 1/2 Colloidal Gold Diagnostic Kit Antibody','Colloidal Gold',300mg,'Test kit',0.0,0.966132,2.469762,18.20695,102.6608,'KHB Test Kit Facility Shanghai China',0.506209,14.530725,2.673693,'HIV test'
+Guyana,'N/A - From RDC',Air,Zidovudine,Generic,300mg,Tablet,59.059059,0.335485,0.286182,6.056598,0.586633,'Ranbaxy Paonta Shahib India',0.013997,2.637195,0.354157,Adult
+Vietnam,EXW,Air,'Efavirenz/Lamivudine/Tenofovir Disoproxil Fumarate',Generic,600/300/300mg,'Tablet - FDC',29.029029,24.65008,24.394865,7.059838,1.340876,'Hetero Unit III Hyderabad IN',1.519792,23.33324,22.170504,Adult
+Zimbabwe,'N/A - From RDC',Truck,Nevirapine,Generic,200mg,Tablet,59.059059,46.984023,11.061184,1.679498,0.167609,'Hetero Unit III Hyderabad IN',10.048358,171.168654,11.973888,Adult
+'South Africa',DDP,Ocean,Efavirenz,Generic,600mg,Tablet,29.029029,149.192417,73.198203,3.500193,0.670438,'Hetero Unit III Hyderabad IN',9.188737,28.080619,93.256223,Adult
+Zimbabwe,'N/A - From RDC',Truck,Lamivudine/Zidovudine,Generic,150/300mg,'Tablet - FDC',59.059059,5.393566,4.372336,5.781636,0.544731,'Mylan (formerly Matrix) Nashik',8.275461,19.089637,5.570518,Adult
+'South Africa',DDP,Truck,Zidovudine,Generic,10mg/ml,'Oral solution',239.239239,0.320969,0.202957,4.48857,0.125707,'Aurobindo Unit III India',1.519792,10.820209,0.307455,Pediatric
+Rwanda,'N/A - From RDC',Truck,Abacavir,Generic,20mg/ml,'Oral solution',239.239239,1.288714,1.142475,6.316697,0.167609,'Aurobindo Unit III India',0.346415,7.878545,0.906798,Pediatric
+Nigeria,'N/A - From RDC','Air Charter',Lamivudine/Nevirapine/Zidovudine,Generic,150/300/200mg,'Tablet - FDC',59.059059,285.942858,229.946641,5.737047,0.544731,'Mylan (formerly Matrix) Nashik',48.87596,293.26208,182.522015,Adult
+Zambia,'N/A - From RDC',Truck,Zidovudine,Generic,300mg,Tablet,59.059059,16.762957,12.259072,5.216848,0.502828,'Hetero Unit III Hyderabad IN',17.419876,54.959418,20.407501,Adult
+Nigeria,EXW,Air,'HIV 1/2 Determine Complete HIV Kit',Determine,300mg,'Test kit',99.099099,5.120984,47.490668,66.139532,3.729311,'Alere Medical Co. Ltd.',1.502297,55.246279,37.696343,'HIV test'
+Vietnam,EXW,Air,Abacavir,Generic,300mg,Tablet,59.059059,0.624196,0.941971,10.738385,1.005657,'Aurobindo Unit III India',11.908733,60.041957,1.199983,Adult
+Mozambique,'N/A - From RDC',Truck,Lamivudine,Generic,150mg,Tablet,59.059059,6.530666,1.585436,1.731518,0.167609,'Aurobindo Unit III India',0.227444,12.066392,2.019864,Adult
+Rwanda,'N/A - From RDC',Air,Abacavir,Generic,300mg,Tablet,59.059059,11.045197,15.131804,9.772302,0.921852,'Aurobindo Unit III India',1.026414,47.785337,16.380746,Adult
+Rwanda,'N/A - From RDC',Truck,'Efavirenz/Lamivudine/Tenofovir Disoproxil Fumarate',Generic,600/300/300mg,'Tablet - FDC',29.029029,8.30164,8.303239,7.134152,1.340876,'Aurobindo Unit VII IN',14.088696,58.591529,6.590179,Adult
+'Cote d Ivoire','N/A - From RDC',Air,Nevirapine,Generic,200mg,Tablet,59.059059,8.480673,2.65071,2.229422,0.209512,'Hetero Unit III Hyderabad IN',0.342916,18.754131,4.011188,Adult
+'Cote d Ivoire','N/A - From RDC',Air,Nevirapine,Generic,10mg/ml,'Oral suspension',239.239239,7.19841,1.440002,1.42683,0.041902,'Aurobindo Unit III India',1.930358,4.17994,2.179429,Pediatric
+Ethiopia,'N/A - From RDC',Air,'Tenofovir Disoproxil Fumarate',Viread,300mg,Tablet,29.029029,1.908071,3.381726,12.633394,2.388435,'Gilead(Nycomed) Oranienburg DE',0.057153,2.206092,4.177239,Adult
+Zambia,'N/A - From RDC',Air,Lopinavir/Ritonavir,Aluvia,200/50mg,Tablet,119.119119,19.740386,84.520298,30.543087,1.42468,'ABBVIE (Abbott) Logis. UK',3.104902,33.611834,104.418015,Adult
+Uganda,'N/A - From RDC',Air,Lamivudine,Generic,150mg,Tablet,59.059059,2.601621,0.631826,1.731518,0.167609,'Macleods Daman Plant INDIA',1.657425,14.920813,0.683666,Adult
+Botswana,EXW,Air,'Efavirenz/Emtricitabine/Tenofovir Disoproxil Fumarate',Generic,600/200/300mg,'Tablet - FDC',29.029029,51.792103,56.271623,7.750959,1.466583,'Hetero Jadcherla unit 5 IN',4.652687,68.166073,51.140049,Adult
+'South Africa',DDP,Truck,Raltegravir,Isentress,400mg,Tablet,59.059059,0.008065,0.061658,45.450492,4.274041,'MSD Haarlem NL',1.519792,23.33324,0.049297,Adult
+'Cote d Ivoire','N/A - From RDC',Air,Efavirenz,Generic,600mg,Tablet,29.029029,0.796777,1.351439,12.076038,2.262728,'Aurobindo Unit III India',1.060239,9.677978,31.149964,Adult
+'South Sudan','N/A - From RDC',Air,'Lamivudine/Tenofovir Disoproxil Fumarate',Generic,300/300mg,'Tablet - FDC',29.029029,2.332266,1.142626,3.492762,0.670438,'Aurobindo Unit VII IN',0.690497,21.295349,0.906798,Adult
+Burundi,'N/A - From RDC',Air,Abacavir,Generic,300mg,Tablet,59.059059,0.562905,0.773271,9.772302,0.921852,'Mylan (formerly Matrix) Nashik',0.04199,4.101467,0.836745,Adult
+Zimbabwe,'N/A - From RDC',Truck,Efavirenz,Generic,600mg,Tablet,29.029029,10.308098,4.660841,3.225231,0.586633,'Hetero Unit III Hyderabad IN',0.628678,5.900278,7.759028,Adult
+Tanzania,EXW,Air,'HIV 1/2 Bioline 3.0 Kit Lancets Capillary pipets Alcohol swabs included',Bioline,300mg,'Test kit',24.024024,16.127471,33.602205,14.862816,3.352189,'Standard Diagnostics Korea',3.889875,97.907164,41.512939,'HIV test'
+Guyana,EXW,Air,'HIV 1/2 Determine Complete HIV Kit',Determine,300mg,'Test kit',99.099099,0.683873,6.426422,66.882673,3.771213,'Inverness Japan',0.151629,6.418175,9.725703,'HIV test'
+'South Africa',DDP,Truck,Efavirenz,Generic,600mg,Tablet,29.029029,4.030658,6.32937,11.199132,2.095118,'Hetero Unit III Hyderabad IN',1.519792,23.33324,6.045322,Adult
+Uganda,'N/A - From RDC',Truck,Nevirapine,Generic,200mg,Tablet,59.059059,0.85968,0.231472,1.917303,0.167609,'Strides Bangalore India.',0.034991,7.00581,0.294482,Adult
+Nigeria,'N/A - From RDC','Air Charter',Lamivudine/Nevirapine/Zidovudine,Generic,150/300/200mg,'Tablet - FDC',59.059059,134.353659,115.601329,6.138343,0.586633,'Hetero Unit III Hyderabad IN',70.89137,106.801617,110.415337,Adult
+Nigeria,'N/A - From RDC','Air Charter',Nevirapine,Generic,200mg,Tablet,59.059059,153.224688,36.071967,1.679498,0.167609,'Cipla Goa India',14.796688,142.693045,34.453145,Adult
+Vietnam,FCA,Air,Lopinavir/Ritonavir,Aluvia,200/50mg,Tablet,119.119119,3.224204,27.621012,61.086175,2.849361,'ABBVIE Ludwigshafen Germany',0.598353,20.250338,34.123636,Adult
+Nigeria,'N/A - From RDC',Air,Efavirenz,Generic,200mg,Capsule,89.089089,4.108078,3.536041,6.138343,0.377121,'Aurobindo Unit III India',0.43156,53.36858,3.828271,Pediatric
+Vietnam,EXW,Air,Efavirenz,Generic,600mg,Tablet,29.029029,34.104949,14.566321,3.046877,0.586633,'Strides Bangalore India.',1.51746,19.553572,18.557581,Adult
+Mozambique,EXW,Air,'Chase Buffer Determine 100 Tests 2.5ml x 1 Vial',Determine,300mg,'Test kit - Ancillary',0.0,0.367743,0.192373,3.715704,20.951184,'Alere Medical Co. Ltd.',1.519792,23.33324,0.153079,'HIV test - Ancillary'
+Ghana,'N/A - From RDC',Truck,Lopinavir/Ritonavir,Kaletra,80/20mg/ml,'Oral solution',299.299299,1.706457,0.001779,0.007431,0.0,'ABBVIE (Abbott) Logis. UK',1.519792,23.33324,0.002595,Pediatric
+'South Africa',DDP,Ocean,Efavirenz,Generic,600mg,Tablet,29.029029,174.400563,82.295894,3.366428,0.628536,'Aurobindo Unit III India',10.824,52.928121,137.000483,Adult
+'Congo DRC','N/A - From RDC',Air,'Efavirenz/Lamivudine/Tenofovir Disoproxil Fumarate',Generic,600/300/300mg,'Tablet - FDC',29.029029,89.192223,90.680254,7.253054,1.382778,'Mylan (formerly Matrix) Nashik',7.286372,211.290151,71.978247,Adult
+Nigeria,'N/A - From RDC','Air Charter','Emtricitabine/Tenofovir Disoproxil Fumarate',Generic,200/300mg,'Tablet - FDC',29.029029,13.427463,8.924725,4.741238,0.87995,'Aurobindo Unit III India',10.322457,102.812008,9.660839,Adult
+Ethiopia,EXW,Air,'HIV 1/2 Colloidal Gold Diagnostic Kit Antibody','Colloidal Gold',300mg,'Test kit',0.0,5.595179,13.40896,17.092239,96.375445,'KHB Test Kit Facility Shanghai China',2.926446,78.725555,20.293341,'HIV test'
+Mozambique,CIP,Air,Abacavir/Lamivudine/Zidovudine,Trizivir,300/150/300mg,'Tablet - FDC',59.059059,2.701622,15.12401,39.914093,3.771213,'GSK Ware (UK)',0.290428,23.33324,22.889197,Adult
+Zambia,EXW,Air,Abacavir/Lamivudine,Generic,60/30mg,'Chewable/dispersible tablet - FDC',59.059059,64.514724,40.322646,4.458845,0.419024,'Cipla Patalganga India',4.120818,69.695181,38.513629,Pediatric
+Vietnam,EXW,Air,'Efavirenz/Lamivudine/Tenofovir Disoproxil Fumarate',Generic,600/300/300mg,'Tablet - FDC',29.029029,10.991971,11.451631,7.431408,1.382778,'Hetero Unit III Hyderabad IN',2.96377,18.949607,10.406775,Adult
+Zimbabwe,EXW,Air,Lopinavir/Ritonavir,Kaletra,80/20mg/ml,'Oral solution',299.299299,6.117762,19.64571,22.9036,0.419024,'ABBVIE (Abbott) Logis. UK',3.833889,91.538877,15.594595,Pediatric
+'South Africa',DDP,Ocean,Efavirenz,Generic,50mg,Capsule,29.029029,161.28923,39.482591,1.746381,0.335219,'Aurobindo Unit III India',6.571381,61.51852,65.727955,Pediatric
+'South Africa',DDP,Ocean,Lamivudine,Generic,150mg,Tablet,59.059059,299.925161,77.168535,1.835558,0.167609,'Strides Bangalore India.',10.519575,47.218416,128.464384,Adult
+Zambia,'N/A - From RDC',Air,Nevirapine,Generic,200mg,Tablet,59.059059,94.643854,33.520215,2.526679,0.251414,'Aurobindo Unit III India',6.48157,52.630316,41.411751,Adult
+Uganda,'N/A - From RDC',Air,Lopinavir/Ritonavir,Aluvia,200/50mg,Tablet,119.119119,19.388772,40.840933,15.026307,0.71234,'ABBVIE Ludwigshafen Germany',22.345496,366.030462,39.00919,Adult
+Tanzania,'N/A - From RDC',Truck,Lopinavir/Ritonavir,Aluvia,200/50mg,Tablet,119.119119,27.687186,58.319439,15.026307,0.71234,'ABBVIE Ludwigshafen Germany',4.137148,20.891762,55.702581,Adult
+Vietnam,EXW,Air,Lamivudine,Generic,150mg,Tablet,59.059059,9.675838,2.419359,1.783538,0.167609,'Aurobindo Unit III India',2.116979,34.28502,3.660922,Adult
+Rwanda,CIP,Air,Nevirapine,Generic,200mg,Tablet,59.059059,101.080971,27.797666,1.961892,0.167609,'Hetero Unit III Hyderabad IN',4.275947,51.406021,46.275252,Adult
+Haiti,EXW,Air,Zidovudine,Generic,10mg/ml,'Oral solution',239.239239,1.39194,0.283065,1.449125,0.041902,'Cipla Goa India',1.519792,23.33324,0.224429,Pediatric
+Zimbabwe,'N/A - From RDC',Truck,Efavirenz,Generic,600mg,Tablet,29.029029,0.40484,0.150726,2.645581,0.502828,'Emcure Plot No.P-2 I.T-B.T. Park Phase II MIDC Hinjwadi Pune India',6.711347,34.783238,0.163457,Adult
+Burundi,'N/A - From RDC',Air,Lamivudine/Zidovudine,Generic,150/300mg,'Tablet - FDC',59.059059,12.966171,9.45566,5.201986,0.502828,'Hetero Unit III Hyderabad IN',1.0824,14.923713,9.031659,Adult
+'South Africa',DDP,Ocean,Lamivudine,Generic,150mg,Tablet,59.059059,197.971606,50.936777,1.835558,0.167609,'Strides Bangalore India.',1.519792,23.33324,84.796664,Adult
+Zimbabwe,'N/A - From RDC',Truck,Nevirapine,Generic,200mg,Tablet,59.059059,83.46156,19.64859,1.679498,0.167609,'Strides Bangalore India.',6.910798,47.539387,15.595892,Adult
+'Congo DRC','N/A - From RDC',Air,Efavirenz,Generic,600mg,Tablet,29.029029,0.029032,0.013152,3.06174,0.586633,'Strides Bangalore India.',1.519792,23.33324,0.01427,Adult
+'South Africa',DDP,Truck,Efavirenz,Generic,600mg,Tablet,29.029029,0.169355,0.277752,11.592997,2.178923,'Aurobindo Unit III India',1.519792,23.33324,0.220537,Adult
+'Congo DRC','N/A - From RDC',Air,Nevirapine,Generic,200mg,Tablet,59.059059,1.22581,0.288955,1.679498,0.167609,'Aurobindo Unit III India',6.328774,70.769572,0.276321,Adult
+Guyana,EXW,Air,'HIV 1/2 Stat-Pak HIV Kit',Stat-Pak,300mg,'Test kit',19.019019,0.03871,0.121808,21.551083,6.075843,'Chembio Diagnostics Sys. Inc.',0.008165,0.446224,0.116755,'HIV test'
+Nigeria,'N/A - From RDC','Air Charter',Lamivudine/Nevirapine/Zidovudine,Generic,150/300/200mg,'Tablet - FDC',59.059059,9.353256,11.108889,8.471805,0.796145,'Aurobindo Unit III India',0.762812,25.70339,16.81274,Adult
+Nigeria,'N/A - From RDC',Air,Efavirenz,Generic,600mg,Tablet,29.029029,78.805093,35.627141,3.225231,0.586633,'Aurobindo Unit III India',19.14845,69.960327,59.309017,Adult
+'South Africa',DDP,Truck,Abacavir,Generic,20mg/ml,'Oral solution',239.239239,0.01129,0.023805,13.161024,0.293317,'Aurobindo Unit III India',1.519792,23.33324,0.019459,Pediatric
+'South Africa',DDP,Truck,Lamivudine,Generic,150mg,Tablet,59.059059,0.306453,0.211998,4.912161,0.460926,'Aurobindo Unit III India',1.519792,23.33324,0.168646,Adult
+'South Africa',DDP,Truck,Didanosine,Generic,250mg,'Delayed-release capsules',29.029029,0.008065,0.011106,8.189412,1.550388,'Aurobindo Unit III India',1.519792,23.33324,0.009081,Adult
+'Congo DRC','N/A - From RDC',Air,Lamivudine/Zidovudine,Generic,150/300mg,'Tablet - FDC',59.059059,2.088716,1.582986,5.402634,0.502828,'Mylan (formerly Matrix) Nashik',0.130634,33.443321,1.51133,Adult
+'South Africa',DDP,Truck,Lopinavir/Ritonavir,Kaletra,80/20mg/ml,'Oral solution',299.299299,0.046774,0.181452,26.753069,0.502828,'ABBVIE (Abbott) Logis. UK',1.519792,23.33324,0.275023,Pediatric
+Nigeria,EXW,Air,'HIV 1/2 Stat-Pak HIV Kit',Stat-Pak,300mg,'Test kit',19.019019,7.817767,23.621006,21.551083,6.075843,'Chembio Diagnostics Sys. Inc.',2.080821,28.474056,25.570673,'HIV test'
+Zambia,'N/A - From RDC',Truck,'Emtricitabine/Tenofovir Disoproxil Fumarate',Generic,200/300mg,'Tablet - FDC',29.029029,0.683873,0.507687,5.283731,1.005657,'Mylan (formerly Matrix) Nashik',39.550757,55.375468,0.550046,Adult
+'South Sudan',EXW,Air,'HIV 1/2 Uni-Gold HIV Kit',Uni-Gold,300mg,'Test kit',19.019019,0.287098,0.962367,23.780506,6.704379,'Trinity Biotech Plc',0.073482,7.410122,1.041715,'HIV test'
+'Congo DRC','N/A - From RDC',Air,Zidovudine,Generic,300mg,Tablet,59.059059,10.271001,7.233621,5.023632,0.460926,'Aurobindo Unit III India',4.242122,88.498198,7.830378,Adult
+Uganda,EXW,Air,Efavirenz,Generic,600mg,Tablet,29.029029,179.592515,59.677536,2.370619,0.460926,'Strides Bangalore India.',8.109836,106.027655,56.99986,Adult
+Ethiopia,EXW,Air,'Tenofovir Disoproxil Fumarate',Viread,300mg,Tablet,29.029029,23.90169,42.328697,12.633394,2.388435,'Aspen-OSD Port Elizabeth SA',1.438146,17.735082,52.29333,Adult
+Ethiopia,'N/A - From RDC',Air,Nevirapine,Generic,200mg,Tablet,59.059059,7.191959,2.173055,2.155108,0.209512,'Hetero Unit III Hyderabad IN',0.291595,4.714167,3.618112,Adult
+'Cote d Ivoire','N/A - From RDC',Air,Lamivudine/Zidovudine,Generic,150/300mg,'Tablet - FDC',59.059059,52.024361,50.671049,6.948367,0.670438,'Aurobindo Unit III India',6.518894,78.569127,76.684777,Adult
+Tanzania,'N/A - From RDC',Truck,Abacavir/Lamivudine,Generic,60/30mg,'Chewable/dispersible tablet - FDC',59.059059,40.321098,26.461736,4.681787,0.419024,'Cipla Patalganga India',2.643016,8.119282,25.274893,Pediatric
+'South Africa',DDP,Truck,Abacavir,Ziagen,300mg,'Tablet - blister',59.059059,0.062903,0.270066,29.866829,2.807459,'GSK Ware (UK)',1.519792,23.33324,0.450156,Adult
+Uganda,EXW,Air,Darunavir,Prezista,300mg,Tablet,119.119119,0.162904,1.542341,66.882673,3.142678,'Aspen-OSD Port Elizabeth SA',0.017496,2.915045,2.333806,Adult
+Nigeria,'N/A - From RDC',Air,Lamivudine/Nevirapine/Stavudine,Generic,150/200/30mg,'Tablet - FDC',59.059059,0.079033,0.058804,5.201986,0.502828,'Strides Bangalore India.',0.040823,5.409103,0.089512,Adult
+Zimbabwe,'N/A - From RDC',Truck,Nevirapine,Generic,200mg,Tablet,59.059059,89.998677,23.531288,1.865283,0.167609,'Mylan (formerly Matrix) Nashik',6.529392,38.508633,29.980126,Adult
+Nigeria,'N/A - From RDC','Air Charter',Abacavir/Lamivudine,Generic,60/30mg,'Tablet - FDC',29.029029,9.675838,4.032265,2.972563,0.544731,'Mylan (formerly Matrix) Nashik',0.33825,69.822713,3.851622,Pediatric
+Tanzania,'N/A - From RDC',Truck,Efavirenz,Generic,200mg,Tablet,89.089089,9.296804,7.07066,5.424928,0.335219,'Strides Bangalore India.',0.408233,7.820579,7.653948,Pediatric
+Zimbabwe,'N/A - From RDC',Air,Didanosine,Generic,125mg,'Delayed-release capsules',29.029029,0.198388,0.177084,6.316697,1.173266,'Aurobindo Unit III India',0.009331,3.243473,0.294482,Pediatric
+Guyana,'N/A - From RDC',Air,'Emtricitabine/Tenofovir Disoproxil Fumarate',Generic,200/300mg,'Tablet - FDC',29.029029,5.485502,3.355136,4.362237,0.838047,'Aurobindo Unit III India',0.457221,15.612677,3.20428,Adult
+Zambia,'N/A - From RDC',Truck,Lamivudine/Zidovudine,Generic,150/300mg,'Tablet - FDC',59.059059,80.643809,79.385209,7.022681,0.670438,'Aurobindo Unit III India',5.347849,10.143777,120.14104,Adult
+Tanzania,'N/A - From RDC',Truck,'Efavirenz/Emtricitabine/Tenofovir Disoproxil Fumarate',Generic,600/200/300mg,'Tablet - FDC',29.029029,28.790415,35.660069,8.835944,1.676095,'Cipla Goa India',2.469225,5.739396,28.305338,Adult
+Mozambique,'N/A - From RDC',Truck,'Efavirenz/Lamivudine/Tenofovir Disoproxil Fumarate',Generic,600/300/300mg,'Tablet - FDC',29.029029,72.321201,83.999799,8.28602,1.550388,'Mylan (formerly Matrix) Nashik',5.907711,18.706764,80.231538,Adult
+Angola,'N/A - From RDC',Truck,'HIV 1/2 Determine Complete HIV Kit',Determine,300mg,'Test kit',99.099099,0.240323,2.016132,59.451265,3.352189,'ABBVIE GmbH & Co.KG Wiesbaden',0.057153,3.49329,2.490776,'HIV test'
+Nigeria,'N/A - From RDC',Air,Zidovudine,Generic,10mg/ml,'Oral solution',239.239239,1.933877,0.433468,1.597753,0.041902,'Aurobindo Unit III India',1.152383,14.67362,31.149964,Pediatric
+Uganda,'N/A - From RDC',Truck,Lamivudine/Zidovudine,Generic,150/300mg,'Tablet - FDC',59.059059,73.661528,50.029469,4.845278,0.460926,'Hetero Unit III Hyderabad IN',4.729668,14.195668,45.467047,Adult
+Nigeria,FCA,Air,Saquinavir,Invirase,500mg,Tablet,119.119119,0.691938,6.840287,70.360572,3.310287,'Roche Basel',0.089811,2.514324,11.387518,Adult
+'Congo DRC',EXW,Air,'HIV 1/2 Uni-Gold HIV Kit',Uni-Gold,300mg,'Test kit',19.019019,0.141936,0.478495,23.780506,6.704379,'Trinity Biotech Plc',0.592521,13.525244,0.434589,'HIV test'
+Namibia,EXW,Air,'HIV 1/2 Uni-Gold HIV Kit',Uni-Gold,300mg,'Test kit',19.019019,1.127423,3.763447,23.780506,6.704379,'Trinity Biotech Plc',0.275266,23.687906,5.695056,'HIV test'
+Nigeria,'N/A - From RDC','Air Charter',Lamivudine/Nevirapine/Zidovudine,Generic,150/300/200mg,'Tablet - FDC',59.059059,42.927558,50.978308,8.471805,0.796145,'Aurobindo Unit III India',3.490973,52.226798,77.1505,Adult
+Vietnam,EXW,Air,Lamivudine/Nevirapine/Zidovudine,Generic,150/300/200mg,'Tablet - FDC',59.059059,10.380679,8.760044,6.019441,0.544731,'Mylan (formerly Matrix) Nashik',1.519792,23.33324,7.961403,Adult
+Rwanda,EXW,Air,'HIV 1/2 Colloidal Gold Diagnostic Kit Antibody','Colloidal Gold',300mg,'Test kit',0.0,4.817757,12.299415,18.20695,102.6608,'KHB Test Kit Facility Shanghai China',2.323428,94.293178,11.748162,'HIV test'
+Nigeria,'N/A - From RDC','Air Charter',Lamivudine/Nevirapine/Zidovudine,Generic,150/300/200mg,'Tablet - FDC',59.059059,4.838725,5.747892,8.471805,0.796145,'Aurobindo Unit III India',0.394236,32.248096,8.698258,Adult
+Haiti,EXW,Ocean,'Efavirenz/Lamivudine/Tenofovir Disoproxil Fumarate',Generic,600/300/300mg,'Tablet - FDC',29.029029,77.659928,84.942173,7.802979,1.466583,'Hetero Unit III Hyderabad IN',9.740434,23.497505,81.13185,Adult
+Malawi,EXW,Air,'HIV 1/2 Uni-Gold HIV Kit',Uni-Gold,300mg,'Test kit',19.019019,0.104839,0.354839,23.780506,6.704379,'Trinity Biotech Plc',0.033825,2.527063,0.383995,'HIV test'
+'South Africa',DDP,Truck,Didanosine,Generic,400mg,'Delayed-release capsules',29.029029,0.0,0.003306,14.625011,2.765556,'Aurobindo Unit III India',1.519792,23.33324,0.002595,Adult
+Tanzania,'N/A - From RDC',Air,Efavirenz,Generic,600mg,Tablet,29.029029,32.256556,41.733938,9.229809,1.717997,'Aurobindo Unit III India',3.206377,36.782668,51.55907,Adult
+Haiti,'N/A - From RDC',Air,Lamivudine,Generic,10mg/ml,'Oral solution',239.239239,3.893561,0.770919,1.411968,0.041902,'Aurobindo Unit III India',2.939276,89.3255,1.166254,Pediatric
+Rwanda,'N/A - From RDC',Air,Lamivudine,Generic,10mg/ml,'Oral solution',239.239239,4.837112,0.932461,1.37481,0.041902,'Aurobindo Unit III India',1.255024,15.444578,1.009283,Pediatric
+'Cote d Ivoire','N/A - From RDC','Air Charter',Efavirenz,Generic,600mg,Tablet,29.029029,5.288727,5.35646,7.223329,1.340876,'Emcure Plot No.P-2 I.T-B.T. Park Phase II MIDC Hinjwadi Pune India',0.267101,6.401223,8.106699,Adult
+Botswana,EXW,Air,'HIV Lancet Safety for HIV Test kits 100 Pcs',Generic,300mg,'Test kit - Ancillary',99.099099,0.159678,0.000168,0.007431,0.0,'Inverness Japan',1.519792,23.33324,0.0,'HIV test - Ancillary'
+'South Sudan','N/A - From RDC',Air,Nevirapine,Generic,10mg/ml,'Oral suspension',239.239239,9.675838,1.965729,1.449125,0.041902,'Aurobindo Unit III India',3.093238,78.674287,2.127538,Pediatric
+Vietnam,EXW,Air,Lamivudine/Nevirapine/Stavudine,Generic,150/200/30mg,'Tablet - FDC',59.059059,31.611392,20.252049,4.570316,0.419024,'Cipla Goa India',2.246447,42.890057,30.649522,Adult
+'Cote d Ivoire','N/A - From RDC',Air,Lamivudine/Nevirapine/Stavudine,Generic,150/200/30mg,'Tablet - FDC',59.059059,0.335485,0.263357,5.573556,0.502828,'Cipla Goa India',0.306758,5.863061,0.325617,Adult
+Botswana,EXW,Air,'Efavirenz/Emtricitabine/Tenofovir Disoproxil Fumarate',Generic,600/200/300mg,'Tablet - FDC',29.029029,63.788915,69.305639,7.750959,1.466583,'Hetero Jadcherla unit 5 IN',5.645276,82.154423,62.985507,Adult
+'Cote d Ivoire','N/A - From RDC',Air,Lopinavir/Ritonavir,Aluvia,200/50mg,Tablet,119.119119,0.004839,0.027621,30.543087,1.42468,'ABBVIE (Abbott) Logis. UK',0.253104,12.07775,0.033729,Adult
+Mozambique,'N/A - From RDC',Air,Abacavir/Lamivudine/Zidovudine,Trizivir,300/150/300mg,'Tablet - FDC',59.059059,1.322585,9.655594,52.019857,4.902577,'GSK Ware (UK)',0.216947,1.894305,11.928484,Adult
+Ethiopia,EXW,Air,'HIV 1/2 Stat-Pak HIV Kit',Stat-Pak,300mg,'Test kit',19.019019,5.98389,16.834201,20.064802,5.65682,'Chembio Diagnostics Sys. Inc.',1.564115,21.100736,25.477269,'HIV test'
+Tanzania,'N/A - From RDC',Truck,Abacavir,Generic,300mg,Tablet,59.059059,7.73067,20.498571,18.912934,1.759899,'Mylan (formerly Matrix) Nashik',0.55403,12.385844,31.021841,Adult
+Tanzania,'N/A - From RDC',Truck,'Emtricitabine/Tenofovir Disoproxil Fumarate',Generic,200/300mg,'Tablet - FDC',29.029029,38.775932,24.518679,4.510865,0.838047,'Mylan (formerly Matrix) Nashik',2.339757,11.393655,26.542335,Adult
+Zimbabwe,'N/A - From RDC',Air,Lamivudine/Stavudine,Generic,150/30mg,'Tablet - FDC',29.029029,2.579041,0.537635,1.486282,0.293317,'Cipla Goa India',4.758828,45.97389,0.664207,Adult
+Mozambique,'N/A - From RDC',Truck,'Efavirenz/Lamivudine/Tenofovir Disoproxil Fumarate',Generic,600/300/300mg,'Tablet - FDC',29.029029,287.021894,333.365306,8.28602,1.550388,'Mylan (formerly Matrix) Nashik',103.528997,190.874132,264.611257,Adult
+'Congo DRC','N/A - From RDC',Air,Nevirapine,Generic,10mg/ml,'Oral suspension',239.239239,1.756457,0.357107,1.449125,0.041902,'Aurobindo Unit III India',0.597186,11.867498,0.386589,Pediatric
+'Congo DRC',EXW,Air,'HIV 1/2 Uni-Gold HIV Kit',Uni-Gold,300mg,'Test kit',19.019019,0.074194,0.252689,23.780506,6.704379,'Trinity Biotech Plc',0.592521,13.525244,0.229618,'HIV test'
+Zimbabwe,FCA,Air,Lopinavir/Ritonavir,Kaletra,80/20mg/ml,'Oral solution',299.299299,7.251636,23.285915,22.9036,0.419024,'ABBVIE (Abbott) Logis. UK',4.628193,23.33324,21.162518,Pediatric
+Mozambique,'N/A - From RDC',Truck,Lamivudine/Nevirapine/Zidovudine,Generic,150/300/200mg,'Tablet - FDC',59.059059,64.627628,54.598156,6.026872,0.586633,'Mylan (formerly Matrix) Nashik',32.78809,63.689328,43.338211,Adult
+Vietnam,EXW,Air,Stavudine,Generic,30mg,Capsule,59.059059,15.443598,2.332867,1.077554,0.083805,'Aurobindo Unit III India',2.598693,33.86455,3.529897,Adult
+Nigeria,EXW,Air,'HIV 1/2 Determine Complete HIV Kit',Determine,300mg,'Test kit',99.099099,4.945177,45.860793,66.139532,3.729311,'Alere Medical Co. Ltd.',1.432314,46.003063,43.803934,'HIV test'
+Mozambique,'N/A - From RDC',Air,Lamivudine/Nevirapine/Stavudine,Generic,150/200/30mg,'Tablet - FDC',59.059059,51.719522,38.790788,5.350614,0.502828,'Strides Bangalore India.',2.778316,12.674397,58.705782,Adult
+Zimbabwe,'N/A - From RDC',Truck,Lamivudine/Stavudine,Generic,60/12mg,'Chewable/dispersible tablet - FDC',59.059059,7.98551,2.745569,2.452365,0.251414,'Cipla Goa India',0.801303,11.749391,4.570315,Pediatric
+Nigeria,EXW,Air,'HIV 1/2 Determine Complete HIV Kit',Determine,300mg,'Test kit',99.099099,4.940339,45.815934,66.139532,3.729311,'Alere Medical Co. Ltd.',1.450976,71.125067,43.759827,'HIV test'
+Zimbabwe,'N/A - From RDC',Truck,Efavirenz,Generic,600mg,Tablet,29.029029,6.450021,7.137108,7.892155,1.466583,'Aurobindo Unit III India',10.444927,51.639301,10.801148,Adult
+Rwanda,EXW,Ocean,Nevirapine,Generic,200mg,Tablet,59.059059,382.136717,96.728609,1.805832,0.167609,'Hetero Unit III Hyderabad IN',15.888419,283.426223,161.027393,Adult
+Uganda,'N/A - From RDC',Air,Lopinavir/Ritonavir,Generic,200/50mg,Tablet,119.119119,13.441979,37.389929,19.84186,0.921852,'Aurobindo Unit III India',2.372416,37.896797,35.712803,Adult
+Zimbabwe,'N/A - From RDC',Air,Efavirenz,Generic,600mg,Tablet,29.029029,9.675838,16.381075,12.076038,2.262728,'Aurobindo Unit III India',0.645008,6.753542,31.149964,Adult
+Ethiopia,EXW,Air,'Primaquine base (as diphosphate)',Generic,15mg,Tablet,1000.0,0.05,0.241076,33.322434,0.167609,'Weifa A.S. Hausmanngt. 6 P.O. Box 9113 GrÃ¸nland 0133 Oslo Norway',0.008165,1.375545,0.298374,Malaria
+'Cote d Ivoire',FCA,Air,Lopinavir/Ritonavir,Aluvia,200/50mg,Tablet,119.119119,20.256517,76.305499,26.871972,1.257071,'ABBVIE Ludwigshafen Germany',3.592448,63.727512,115.479916,Adult
+'South Africa',DDP,Air,Efavirenz,Stocrin/Sustiva,50mg,Capsule,29.029029,4.837112,1.255042,1.850421,0.335219,'MSD Midrand J burg SA',1.519792,23.33324,1.899217,Pediatric
+Burundi,'N/A - From RDC',Air,Nevirapine,Generic,200mg,Tablet,59.059059,0.845164,0.194935,1.642341,0.167609,'Hetero Unit III Hyderabad IN',0.040823,2.202295,0.154376,Adult
+'South Africa',DDP,Truck,Lamivudine,Generic,10mg/ml,'Oral solution',239.239239,0.124194,0.08774,4.979043,0.125707,'Aurobindo Unit III India',1.519792,23.33324,0.084323,Pediatric
+'Congo DRC','N/A - From RDC',Air,Lamivudine,Generic,150mg,Tablet,59.059059,0.035484,0.009004,1.731518,0.167609,'Hetero Unit III Hyderabad IN',0.001166,1.80102,0.010378,Adult
+Uganda,CIP,Air,'Didanosine EC','Videx EC',400mg,'Delayed-release capsules - blister',29.029029,0.224194,0.556755,17.590143,3.310287,'BMS Meymac France',0.006998,23.33324,0.687558,Adult
+'South Africa',DDP,Truck,Didanosine,Generic,250mg,'Delayed-release capsules',29.029029,0.01129,0.022606,12.499628,2.346533,'Aurobindo Unit III India',1.519792,23.33324,0.022054,Adult
+Nigeria,'N/A - From RDC','Air Charter',Lamivudine/Nevirapine/Zidovudine,Generic,150/300/200mg,'Tablet - FDC',59.059059,72.761525,85.04178,8.33804,0.796145,'Mylan (formerly Matrix) Nashik',7.208224,73.626099,108.346176,Adult
+'South Africa',DDP,Truck,Lopinavir/Ritonavir,Kaletra,80/20mg/ml,'Oral solution',299.299299,0.014516,0.059577,26.351773,0.502828,'ABBVIE (Abbott) Logis. UK',1.519792,23.33324,0.073945,Pediatric
+Zambia,'N/A - From RDC',Truck,Lamivudine/Nevirapine/Stavudine,Generic,150/200/30mg,'Tablet - FDC',59.059059,33.227527,22.395019,4.808121,0.460926,'Cipla Goa India',22.687245,58.336983,33.89272,Adult
+Haiti,'N/A - From RDC',Air,Stavudine,Generic,1mg/ml,'Powder for oral solution',199.199199,0.966132,0.135081,0.995809,0.041902,'Aurobindo Unit III India',0.46072,22.63057,0.172538,Pediatric
+Zimbabwe,'N/A - From RDC',Truck,Nevirapine,Generic,200mg,Tablet,59.059059,16.493602,3.883242,1.679498,0.167609,'Hetero Unit III Hyderabad IN',0.459553,38.435408,3.708922,Adult
+'South Africa',DDP,Ocean,'Tenofovir Disoproxil Fumarate',Generic,300mg,Tablet,29.029029,181.603812,122.394292,4.808121,0.921852,'Cipla Goa India',9.320537,34.427225,155.934275,Adult
+Haiti,EXW,Air,'HIV 1/2 OraQuick Advance HIV Rapid Antibody Kit',OraQuick,300mg,'Test kit',99.099099,0.03871,1.470096,260.099284,14.665829,'Pacific Biotech Thailand',0.069983,10.69247,1.816191,'HIV test'
+Mozambique,EXW,Air,'HIV 1/2 Determine Complete HIV Kit',Determine,300mg,'Test kit',99.099099,7.740348,58.06461,53.506138,3.01697,'Inverness Japan',1.65276,45.200792,87.875108,'HIV test'
+'Congo DRC','N/A - From RDC',Air,Nevirapine,Generic,200mg,Tablet,59.059059,0.111291,0.030343,1.917303,0.167609,'Strides Bangalore India.',0.053653,1.572298,0.032432,Adult
+Uganda,CIP,Air,Raltegravir,Isentress,400mg,Tablet,59.059059,0.370969,3.551165,67.997384,6.36916,'MSD Haarlem NL',0.026827,0.860514,4.52491,Adult
+Zimbabwe,'N/A - From RDC',Truck,Lamivudine/Stavudine,Generic,30/6mg,'Chewable/dispersible tablet - FDC',59.059059,5.94518,1.176968,1.411968,0.125707,'Cipla Goa India',0.247272,7.39759,1.958892,Pediatric
+Uganda,'N/A - From RDC',Air,Nevirapine,Generic,200mg,Tablet,59.059059,1.12581,0.284204,1.798401,0.167609,'Hetero Unit III Hyderabad IN',0.572692,13.814004,0.307455,Adult
+Nigeria,'N/A - From RDC','Air Charter',Zidovudine,Generic,300mg,Tablet,59.059059,2.735493,2.146914,5.59585,0.544731,'Aurobindo Unit III India',7.843901,114.891623,3.249685,Adult
+'South Africa',DDP,Truck,Lamivudine/Zidovudine,Generic,150/300mg,'Tablet - FDC',59.059059,0.029032,0.068475,15.94037,1.508485,'Aurobindo Unit III India',1.519792,23.33324,0.054486,Adult
+Nigeria,'N/A - From RDC',Air,Lamivudine/Nevirapine/Zidovudine,Generic,150/300/200mg,'Tablet - FDC',59.059059,26.788796,37.060006,9.86891,0.921852,'Aurobindo Unit III India',2.136807,40.788089,45.78488,Adult
+'South Africa',DDP,Truck,Didanosine,Generic,400mg,'Delayed-release capsules',29.029029,0.403227,0.839393,14.788502,2.765556,'Aurobindo Unit III India',1.519792,23.33324,0.801719,Adult
+Vietnam,EXW,Air,Zidovudine,Generic,10mg/ml,'Oral solution',239.239239,1.112907,0.243801,1.560596,0.041902,'Aurobindo Unit III India',0.509708,4.21733,0.23351,Pediatric
+Ethiopia,EXW,Air,'HIV 1/2 Stat-Pak HIV Kit',Stat-Pak,300mg,'Test kit',19.019019,0.546776,1.656589,21.551083,6.075843,'Chembio Diagnostics Sys. Inc.',0.149297,2.79718,1.79284,'HIV test'
+Nigeria,'N/A - From RDC',Air,'Emtricitabine/Tenofovir Disoproxil Fumarate',Generic,200/300mg,'Tablet - FDC',29.029029,1.611296,1.97413,8.731905,1.634192,'Mylan (formerly Matrix) Nashik',0.104974,23.33324,3.286009,Adult
+Zambia,'N/A - From RDC',Truck,Efavirenz,Generic,600mg,Tablet,29.029029,31.375908,15.035038,3.418448,0.628536,'Aurobindo Unit III India',12.02887,38.162425,25.029708,Adult
+Nigeria,'N/A - From RDC','Air Charter','Emtricitabine/Tenofovir Disoproxil Fumarate',Generic,200/300mg,'Tablet - FDC',29.029029,102.792267,125.815223,8.731905,1.634192,'Mylan (formerly Matrix) Nashik',5.999855,40.175355,190.408176,Adult
+'South Africa',DDP,Truck,'Tenofovir Disoproxil Fumarate',Generic,300mg,Tablet,29.029029,0.220968,0.320347,10.270206,1.927509,'Mylan (formerly Matrix) Nashik',1.519792,23.33324,0.254267,Adult
+Haiti,EXW,Air,Lopinavir/Ritonavir,Generic,200/50mg,Tablet,119.119119,1.191939,4.662306,27.86778,1.298973,'Aurobindo Unit III India',0.236775,7.692564,7.761622,Adult
+'Cote d Ivoire','N/A - From RDC',Truck,Zidovudine,Generic,10mg/ml,'Oral solution',239.239239,3.224204,0.705646,1.560596,0.041902,'Aurobindo Unit III India',8.795667,96.234677,0.674585,Pediatric
+'Cote d Ivoire','N/A - From RDC',Truck,Zidovudine,Generic,10mg/ml,'Oral solution',239.239239,3.224204,0.705646,1.560596,0.041902,'Aurobindo Unit III India',6.570215,60.581811,0.674585,Pediatric
+Haiti,'N/A - From RDC',Air,Lamivudine/Nevirapine/Zidovudine,Generic,30/50/60mg,'Chewable/dispersible tablet - FDC',59.059059,4.161304,1.626137,2.786778,0.251414,'Strides Bangalore India.',0.128302,6.747638,1.290793,Pediatric
+'South Africa',DDP,Truck,Lamivudine,Generic,10mg/ml,'Oral solution',239.239239,0.004839,0.004499,4.979043,0.125707,'Aurobindo Unit III India',1.519792,23.33324,0.003892,Pediatric
+Guyana,FCA,Air,Lopinavir/Ritonavir,Kaletra,80/20mg/ml,'Oral solution',299.299299,0.030645,0.204369,45.197824,0.838047,'ABBVIE (Abbott) Logis. UK',0.060652,3.977698,0.194592,Pediatric
+Cameroon,'N/A - From RDC','Air Charter',Nevirapine,Generic,200mg,Tablet,59.059059,31.745264,7.473732,1.679498,0.167609,'Strides Bangalore India.',2.021335,72.129409,7.138928,Adult
+Vietnam,EXW,Air,Lamivudine,Generic,150mg,Tablet,59.059059,44.321111,11.080663,1.783538,0.167609,'Aurobindo Unit III India',3.61461,17.324003,16.76993,Adult
+Uganda,EXW,Air,Lamivudine/Nevirapine/Zidovudine,Generic,150/300/200mg,'Tablet - FDC',59.059059,98.271285,82.917624,6.019441,0.544731,'Cipla Goa India',10.075185,106.208078,79.197607,Adult
+Zambia,'N/A - From RDC',Truck,Nevirapine,Generic,200mg,Tablet,59.059059,193.547399,45.56459,1.679498,0.167609,'Aurobindo Unit III India',13.318886,41.224923,43.51983,Adult
+Uganda,'N/A - From RDC',Truck,Lopinavir/Ritonavir,Aluvia,200/50mg,Tablet,119.119119,14.127465,29.759322,15.026307,0.71234,'ABBVIE Ludwigshafen Germany',2.09715,20.216988,28.424688,Adult
+Rwanda,EXW,Air,'HIV 1/2 Uni-Gold HIV Kit',Uni-Gold,300mg,'Test kit',19.019019,1.8742,6.252698,23.780506,6.704379,'Trinity Biotech Plc',0.449056,21.643939,9.462356,'HIV test'
+Vietnam,EXW,Air,Didanosine,Generic,250mg,'Delayed-release capsules',29.029029,0.240323,0.327621,9.660831,1.801802,'Aurobindo Unit III India',0.034991,14.192733,0.495561,Adult
+Guyana,'N/A - From RDC',Air,Lamivudine,Generic,150mg,Tablet,59.059059,0.693551,0.209997,2.155108,0.209512,'Aurobindo Unit III India',0.439725,18.048941,0.259456,Adult
+'South Africa',DDP,Ocean,Lamivudine,Generic,150mg,Tablet,59.059059,709.678096,179.637387,1.805832,0.167609,'Strides Bangalore India.',22.819046,116.914288,228.863428,Adult
+'Cote d Ivoire',FCA,Air,Lopinavir/Ritonavir,Kaletra,80/20mg/ml,'Oral solution',299.299299,0.079033,0.345263,30.543087,0.586633,'ABBVIE (Abbott) Logis. UK',0.115472,6.695058,0.522804,Pediatric
+'South Africa',DDP,Truck,Lamivudine,Generic,150mg,Tablet,59.059059,13.137139,13.28277,7.215897,0.670438,'Aurobindo Unit III India',1.519792,23.33324,20.102641,Adult
+'South Africa',DDP,Truck,Efavirenz,Generic,50mg,Capsule,29.029029,0.369356,0.161272,3.098897,0.586633,'Aurobindo Unit III India',1.519792,23.33324,0.268537,Pediatric
+Zambia,'N/A - From RDC',Air,Stavudine,Generic,1mg/ml,'Oral solution',199.199199,14.595208,2.204725,1.077554,0.041902,'Aurobindo Unit III India',1.264355,17.884365,2.724287,Pediatric
+'South Africa',DDP,Truck,Didanosine,Generic,400mg,'Delayed-release capsules',29.029029,0.012903,0.023093,11.34776,2.137021,'Aurobindo Unit III India',1.519792,23.33324,0.018162,Adult
+Uganda,'N/A - From RDC',Truck,'Lamivudine/Tenofovir Disoproxil Fumarate',Generic,300/300mg,'Tablet - FDC',29.029029,44.135626,21.103083,3.411016,0.628536,'Ranbaxy per Shasun Pharma',3.365004,8.852644,16.750471,Adult
+'Cote d Ivoire','N/A - From RDC',Air,Zidovudine,Generic,300mg,Tablet,59.059059,12.23391,10.387433,6.056598,0.586633,'Aurobindo Unit III India',6.858311,50.595981,12.832687,Adult
+'Cote d Ivoire','N/A - From RDC',Truck,Lamivudine/Zidovudine,Generic,150/300mg,'Tablet - FDC',59.059059,161.28923,109.543187,4.845278,0.460926,'Hetero Unit III Hyderabad IN',10.328289,117.037643,86.951445,Adult
+Vietnam,EXW,Air,Zidovudine,Generic,300mg,Tablet,59.059059,0.540324,0.423388,5.573556,0.502828,'Mylan (formerly Matrix) Nashik',0.020995,8.717275,0.640856,Adult
+'Cote d Ivoire',CIP,Air,'Efavirenz/Emtricitabine/Tenofovir Disoproxil Fumarate',Atripla,600/200/300mg,'Tablet - FDC',29.029029,9.869387,51.822664,37.454297,7.039598,'MSD Haarlem NL',1.519792,23.33324,78.42832,Adult
+Tanzania,'N/A - From RDC',Truck,Lamivudine/Nevirapine/Stavudine,Generic,60/100/12mg,'Chewable/dispersible tablet - FDC',59.059059,12.730686,5.703,3.195505,0.293317,'Cipla Goa India',2.687338,20.674778,5.447276,Pediatric
+Uganda,FCA,Air,Lopinavir/Ritonavir,Generic,100/25mg,Tablet,59.059059,0.337098,0.261089,5.499242,0.502828,'ABBVIE Ludwigshafen Germany',0.04199,2.336076,0.282807,Pediatric
+Mozambique,EXW,Air,'HIV 1/2 Determine HIV Kit without Lancets',Determine,300mg,'Test kit',99.099099,4.464531,36.14779,57.742041,3.268385,'Inverness Japan',0.732486,26.167015,46.053417,'HIV test'
+'South Sudan',EXW,Air,'HIV Capillary Tubes for Determine EDTA 50uL100 Pcs',Determine,300mg,'Test kit - Ancillary',99.099099,0.030645,0.026882,5.945126,0.335219,'Alere Medical Co. Ltd.',1.519792,23.33324,0.024648,'HIV test - Ancillary'
+Zambia,'N/A - From RDC',Truck,Nevirapine,Generic,200mg,Tablet,59.059059,514.758112,118.501787,1.642341,0.167609,'Hetero Unit III Hyderabad IN',22.932184,73.015298,94.061834,Adult
+'South Sudan','N/A - From RDC',Air,Lamivudine/Zidovudine,Generic,150/300mg,'Tablet - FDC',59.059059,0.401614,0.346943,6.138343,0.586633,'Aurobindo Unit III India',3.093238,78.674287,0.376211,Adult
+Vietnam,EXW,Air,Zidovudine,Generic,300mg,Tablet,59.059059,0.845164,0.582158,4.904729,0.460926,'Cipla Goa India',0.039657,2.785131,0.630478,Adult
+'Cote d Ivoire','N/A - From RDC',Truck,Efavirenz,Generic,600mg,Tablet,29.029029,23.172655,8.786896,2.705033,0.502828,'Strides Bangalore India.',5.142567,59.352683,9.511652,Adult
+Nigeria,'N/A - From RDC','Air Charter',Lamivudine/Zidovudine,Generic,150/300mg,'Tablet - FDC',59.059059,239.626579,162.747218,4.845278,0.460926,'Aurobindo Unit III India',22.389818,148.643901,129.18178,Adult
+'South Africa',DDP,Truck,Didanosine,Generic,400mg,'Delayed-release capsules',29.029029,0.01129,0.020528,11.34776,2.137021,'Aurobindo Unit III India',1.519792,23.33324,0.016865,Adult
+'Cote d Ivoire','N/A - From RDC',Truck,Abacavir/Lamivudine,Generic,600/300mg,'Tablet - FDC',29.029029,5.482276,7.723131,10.047264,1.885607,'Mylan (formerly Matrix) Nashik',0.288096,8.334609,7.37633,Adult
+Haiti,'N/A - From RDC',Air,Efavirenz,Generic,200mg,Capsule,89.089089,0.337098,0.538408,11.340329,0.71234,'Aurobindo Unit III India',2.431901,82.393399,0.814691,Pediatric
+'South Africa',DDP,Ocean,Lamivudine,Generic,150mg,Tablet,59.059059,40.872712,10.090833,1.761244,0.167609,'Aurobindo Unit III India',1.491799,39.259015,16.79847,Adult
+Nigeria,'N/A - From RDC','Air Charter',Efavirenz,Generic,600mg,Tablet,29.029029,0.445163,0.318793,5.090515,0.963754,'Aurobindo Unit III India',0.062984,25.70339,0.482588,Adult
+'South Africa',DDP,Ocean,Efavirenz,Generic,50mg,Capsule,29.029029,72.953461,18.542718,1.813264,0.335219,'Aurobindo Unit III India',3.118898,18.300898,23.623457,Pediatric
+'South Africa',DDP,Truck,Didanosine,Generic,250mg,'Delayed-release capsules',29.029029,0.025807,0.040761,10.604619,2.011314,'Aurobindo Unit III India',1.519792,23.33324,0.038918,Adult
+Nigeria,EXW,Air,'HIV 1/2 Determine Complete HIV Kit',Determine,300mg,'Test kit',99.099099,9.691967,89.867416,66.139532,3.729311,'Alere Medical Co. Ltd.',7.00994,104.026636,71.333499,'HIV test'
+Tanzania,'N/A - From RDC',Air,Abacavir,Generic,300mg,Tablet,59.059059,9.240352,26.503218,20.458667,1.927509,'Aurobindo Unit III India',0.66367,3.057457,32.743331,Adult
+'South Africa',DDP,Truck,Ritonavir,Norvir,100mg,Capsule,83.083083,0.529034,0.562118,7.557742,0.502828,'ABBVIE (Abbott) Logis. UK',1.519792,23.33324,0.851015,Adult
+'Cote d Ivoire','N/A - From RDC',Air,Lamivudine/Nevirapine/Zidovudine,Generic,150/300/200mg,'Tablet - FDC',59.059059,161.28923,172.883343,7.646919,0.71234,'Mylan (formerly Matrix) Nashik',15.227082,82.834963,187.153302,Adult
+Zimbabwe,'N/A - From RDC',Truck,'Lamivudine/Tenofovir Disoproxil Fumarate',Generic,300/300mg,'Tablet - FDC',29.029029,125.937503,70.315893,3.983235,0.754243,'Mylan (formerly Matrix) Nashik',8.736181,52.81792,89.584923,Adult
+Mozambique,'N/A - From RDC',Truck,Lamivudine/Stavudine,Generic,150/30mg,'Tablet - FDC',59.059059,28.224285,11.466752,2.898249,0.251414,'Mylan (formerly Matrix) Nashik',1.506962,5.480016,17.353706,Adult
+'South Africa',DDP,Truck,Abacavir,Generic,20mg/ml,'Oral solution',239.239239,0.037097,0.098832,18.214381,0.419024,'Aurobindo Unit III India',1.519792,23.33324,0.077837,Pediatric
+Botswana,EXW,Air,'HIV 1/2 Determine HIV Kit without Lancets',Determine,300mg,'Test kit',99.099099,0.159678,1.209511,53.498707,3.01697,'Inverness Japan',0.029159,3.582362,1.494466,'HIV test'
+Guatemala,'N/A - From RDC',Air,Efavirenz,Generic,600mg,Tablet,29.029029,55.729212,25.078831,3.210368,0.586633,'Emcure Plot No.P-2 I.T-B.T. Park Phase II MIDC Hinjwadi Pune India',3.072243,71.827633,31.950693,Adult
+Vietnam,EXW,Air,Stavudine,Generic,30mg,Capsule,59.059059,9.753257,1.473389,1.077554,0.083805,'Aurobindo Unit III India',2.104148,21.892202,2.230023,Adult
+Zambia,'N/A - From RDC',Air,Lopinavir/Ritonavir,Kaletra,80/20mg/ml,'Oral solution',299.299299,1.014519,4.350309,30.543087,0.586633,'ABBVIE (Abbott) Logis. UK',0.096809,15.609328,5.374628,Pediatric
+Mozambique,'N/A - From RDC',Truck,Lamivudine/Stavudine,Generic,150/30mg,'Tablet - FDC',59.059059,12.001652,3.250879,1.932166,0.167609,'Hetero Unit III Hyderabad IN',14.472435,54.011558,2.580289,Adult
+'Cote d Ivoire','N/A - From RDC',Air,'Lamivudine/Tenofovir Disoproxil Fumarate',Generic,300/300mg,'Tablet - FDC',29.029029,11.498424,5.630217,3.492762,0.670438,'Aurobindo Unit VII IN',0.780308,8.391574,5.377223,Adult
+'Cote d Ivoire','N/A - From RDC',Air,Didanosine,Generic,200mg,'Chewable/dispersible tablet',59.059059,9.701644,15.666692,11.518683,1.089462,'Aurobindo Unit III India',7.682941,30.907558,26.080504,Pediatric
+Tanzania,'N/A - From RDC',Truck,'Efavirenz/Emtricitabine/Tenofovir Disoproxil Fumarate',Generic,600/200/300mg,'Tablet - FDC',29.029029,30.666228,43.733548,10.173598,1.927509,'Mylan (formerly Matrix) Nashik',5.380508,12.401242,41.771098,Adult
+'South Africa',DDP,Truck,Lamivudine/Zidovudine,Generic,150/300mg,'Tablet - FDC',59.059059,0.383872,1.314975,24.337862,2.30463,'Hetero Unit III Hyderabad IN',1.519792,23.33324,1.255766,Adult
+Vietnam,FCA,Air,Ritonavir,Norvir,100mg,Tablet,29.029029,0.64355,1.563175,17.285455,3.268385,'ABBVIE Ludwigshafen Germany',1.519792,23.33324,1.420521,Adult
+Uganda,'N/A - From RDC',Truck,Lamivudine/Zidovudine,Generic,150/300mg,'Tablet - FDC',59.059059,6.058084,4.248093,5.001338,0.460926,'Aurobindo Unit III India',8.058515,17.077812,3.371629,Adult
+Uganda,'N/A - From RDC',Air,Lopinavir/Ritonavir,Aluvia,200/50mg,Tablet,119.119119,0.12742,0.55242,30.543087,1.42468,'ABBVIE Ludwigshafen Germany',0.022161,4.767403,0.835448,Adult
+'Cote d Ivoire',EXW,Air,'HIV 1/2 Stat-Pak HIV Kit',Stat-Pak,300mg,'Test kit',19.019019,3.224204,9.744639,21.551083,6.075843,'Chembio Diagnostics Sys. Inc.',0.671835,24.74645,9.307979,'HIV test'
+Tanzania,EXW,Air,Lamivudine/Zidovudine,Generic,150/300mg,'Tablet - FDC',59.059059,29.766225,21.953745,5.261437,0.502828,'Hetero Unit III Hyderabad IN',12.339127,143.569233,23.766158,Adult
+'Cote d Ivoire',EXW,Air,'HIV 1/2 Determine Complete HIV Kit',Determine,300mg,'Test kit',99.099099,9.272611,77.285071,59.451265,3.352189,'Alere Medical Co. Ltd.',3.935364,85.690213,70.237298,'HIV test'
+Swaziland,'N/A - From RDC',Air,Lamivudine/Nevirapine/Zidovudine,Generic,150/300/200mg,'Tablet - FDC',59.059059,72.761525,85.04178,8.33804,0.796145,'Mylan (formerly Matrix) Nashik',6.830317,78.408071,108.346176,Adult
+Uganda,'N/A - From RDC',Truck,'Lamivudine/Tenofovir Disoproxil Fumarate',Generic,300/300mg,'Tablet - FDC',29.029029,12.000039,10.288899,6.116049,1.131364,'Mylan (formerly Matrix) Nashik',0.765145,15.107105,13.109008,Adult
+Nigeria,EXW,Air,'HIV 1/2 Stat-Pak HIV Kit',Stat-Pak,300mg,'Test kit',19.019019,12.901655,36.290381,20.064802,5.65682,'Chembio Diagnostics Sys. Inc.',3.036085,78.844629,44.833974,'HIV test'
+Haiti,EXW,Air,Nevirapine,Generic,50mg,'Chewable/dispersible tablet',29.029029,3.712915,0.483662,0.928926,0.167609,'Aurobindo Unit III India',0.166792,7.770243,0.439778,Pediatric
+Tanzania,EXW,Air,'HIV 1/2 Determine Complete HIV Kit',Determine,300mg,'Test kit',99.099099,3.791948,31.612954,59.451265,3.352189,'Alere Medical Co. Ltd.',1.185041,65.685514,34.222229,'HIV test'
+Nigeria,'N/A - From RDC',Air,Nevirapine,Generic,200mg,Tablet,59.059059,0.866132,0.322692,2.653013,0.251414,'Aurobindo Unit III India',1.931524,28.76071,0.398265,Adult
+Vietnam,EXW,Air,Nevirapine,Generic,200mg,Tablet,59.059059,6.933893,1.560486,1.605184,0.167609,'Hetero Unit III Hyderabad IN',0.706826,4.582665,1.417926,Adult
+'South Africa',DDP,Ocean,Nevirapine,Generic,200mg,Tablet,59.059059,208.358737,59.035337,2.021343,0.209512,'Cipla Goa India',1.519792,23.33324,75.212365,Adult
+'Congo DRC',EXW,Air,'HIV 1/2 Uni-Gold HIV Kit',Uni-Gold,300mg,'Test kit',19.019019,0.025807,0.091398,23.780506,6.704379,'Trinity Biotech Plc',0.130634,11.032394,0.072648,'HIV test'
+Nigeria,'N/A - From RDC',Air,'Emtricitabine/Tenofovir Disoproxil Fumarate',Truvada,300/200mg,'Tablet - FDC',29.029029,72.579266,198.463022,19.507446,3.687408,'Aspen-OSD Port Elizabeth SA',7.142907,46.098661,245.185796,Adult
+Zimbabwe,'N/A - From RDC',Air,Zidovudine,Generic,300mg,Tablet,59.059059,0.85968,0.876544,7.260486,0.670438,'Ranbaxy Paonta Shahib India',0.178456,3.495534,1.083228,Adult
+Zimbabwe,'N/A - From RDC',Air,Lamivudine/Stavudine,Generic,150/30mg,'Tablet - FDC',29.029029,1.711296,0.356855,1.486282,0.293317,'Cipla Goa India',0.073482,2.06223,0.441075,Adult
+Nigeria,'N/A - From RDC','Air Charter','Emtricitabine/Tenofovir Disoproxil Fumarate',Generic,200/300mg,'Tablet - FDC',29.029029,105.647115,129.309432,8.731905,1.634192,'Mylan (formerly Matrix) Nashik',6.876973,21.220017,215.265346,Adult
+Zambia,EXW,Air,'HIV 1/2 Bioline 3.0 Kit Lancets Capillary pipets Alcohol swabs included',Bioline,300mg,'Test kit',24.024024,0.191936,0.403226,14.862816,3.352189,'Standard Diagnostics Korea',0.046655,2.66226,0.670693,'HIV test'
+'Cote d Ivoire','N/A - From RDC',Air,Lamivudine,Generic,150mg,Tablet,59.059059,9.525837,2.421556,1.813264,0.167609,'Aurobindo Unit III India',0.330085,17.155733,3.664814,Adult
+Haiti,'N/A - From RDC',Air,Zidovudine,Generic,10mg/ml,'Oral solution',239.239239,3.145171,0.688358,1.560596,0.041902,'Aurobindo Unit III India',18.702893,558.29709,0.657721,Pediatric
+Rwanda,EXW,Air,'HIV 1/2 Uni-Gold HIV Kit',Uni-Gold,300mg,'Test kit',19.019019,0.401614,1.344088,23.780506,6.704379,'Trinity Biotech Plc',0.102641,13.797777,2.034134,'HIV test'
+Nigeria,EXW,Air,'HIV 1/2 Determine Complete HIV Kit',Determine,300mg,'Test kit',99.099099,4.424208,41.03098,66.139532,3.729311,'Alere Medical Co. Ltd.',1.383326,86.056375,44.417548,'HIV test'
+Uganda,EXW,Air,Nevirapine,Generic,200mg,Tablet,59.059059,36.288827,8.883583,1.746381,0.167609,'Aurobindo Unit III India',2.501884,28.113762,9.616732,Adult
+Haiti,'N/A - From RDC',Air,Stavudine,Generic,15mg,Capsule,59.059059,0.056452,0.009073,1.114711,0.083805,'Aurobindo Unit III India',0.964596,26.891297,0.01427,Adult
+'Cote d Ivoire','N/A - From RDC',Air,Lamivudine/Zidovudine,Generic,150/300mg,'Tablet - FDC',59.059059,0.343549,0.31496,6.509913,0.628536,'Aurobindo Unit III India',0.022161,3.908995,0.476102,Adult
+'South Africa',DDP,Truck,Efavirenz,Generic,600mg,Tablet,29.029029,0.183872,0.323169,12.432746,2.346533,'Hetero Unit III Hyderabad IN',1.519792,23.33324,0.308752,Adult
+Tanzania,'N/A - From RDC',Air,Lamivudine/Nevirapine/Zidovudine,Generic,150/300/200mg,'Tablet - FDC',59.059059,96.772893,83.266263,6.138343,0.586633,'Cipla Goa India',9.164243,141.055047,79.531008,Adult
+Nigeria,EXW,Air,'HIV 1/2 Determine Complete HIV Kit',Determine,300mg,'Test kit',99.099099,4.424208,41.03098,66.139532,3.729311,'Alere Medical Co. Ltd.',1.440478,88.300479,44.417548,'HIV test'
+Uganda,'N/A - From RDC',Air,Nevirapine,Generic,10mg/ml,'Oral suspension',239.239239,32.256556,6.55243,1.449125,0.041902,'Aurobindo Unit III India',8.705855,15.897293,8.347993,Pediatric
+Nigeria,EXW,Air,'HIV 1/2 Stat-Pak HIV Kit',Stat-Pak,300mg,'Test kit',19.019019,16.127471,45.362976,20.064802,5.65682,'Chembio Diagnostics Sys. Inc.',3.805896,72.103757,56.042468,'HIV test'
+Vietnam,FCA,Air,Lopinavir/Ritonavir,Aluvia,200/50mg,Tablet,119.119119,3.098397,19.639823,45.197824,2.137021,'ABBVIE Ludwigshafen Germany',0.544699,6.35755,21.261111,Adult
+Haiti,DDP,Truck,'HIV 1/2 Determine Complete HIV Kit',Determine,300mg,'Test kit',99.099099,2.014523,27.039274,95.679379,5.405405,'Alere Medical Co. Ltd.',1.519792,23.33324,29.270514,'HIV test'
+Zimbabwe,'N/A - From RDC',Air,Lamivudine/Stavudine,Generic,150/30mg,'Tablet - FDC',29.029029,2.579041,0.537635,1.486282,0.293317,'Cipla Goa India',2.93811,52.656037,0.664207,Adult
+Nigeria,'N/A - From RDC','Air Charter',Lamivudine/Zidovudine,Generic,150/300mg,'Tablet - FDC',59.059059,5.209694,4.75531,6.509913,0.628536,'Aurobindo Unit III India',2.182296,39.675515,7.196009,Adult
+'Cote d Ivoire','N/A - From RDC',Truck,Abacavir/Lamivudine,Generic,60/30mg,'Tablet - FDC',59.059059,3.546786,1.478497,2.972563,0.293317,'Aurobindo Unit III India',0.12247,7.426832,1.412737,Pediatric
+'South Africa',DDP,Truck,Lopinavir/Ritonavir,Aluvia,200/50mg,Tablet,119.119119,0.035484,0.099541,19.143307,0.87995,'ABBVIE Ludwigshafen Germany',1.519792,23.33324,0.094701,Adult
+Zimbabwe,FCA,Air,Didanosine,Videx,25mg,'Chewable/dispersible tablet',59.059059,0.598389,0.437501,5.201986,0.502828,'Bristol-Myers Squibb Anagni IT',0.110806,7.820165,0.417724,Pediatric
+'Cote d Ivoire','N/A - From RDC',Air,Lamivudine,Generic,150mg,Tablet,59.059059,2.954848,0.751433,1.813264,0.167609,'Aurobindo Unit III India',0.102641,4.17994,1.137714,Adult
+Vietnam,EXW,Air,'Efavirenz/Lamivudine/Tenofovir Disoproxil Fumarate',Generic,600/300/300mg,'Tablet - FDC',29.029029,75.485727,90.348765,8.538688,1.59229,'Mylan (formerly Matrix) Nashik',6.159649,47.039133,86.295022,Adult
+'South Africa',DDP,Air,Efavirenz,Generic,600mg,Tablet,29.029029,4.877435,7.984346,11.674742,2.178923,'Aurobindo Unit III India',1.519792,23.33324,12.08286,Adult
+Ethiopia,'N/A - From RDC',Air,Lamivudine/Stavudine,Generic,150/30mg,'Tablet - FDC',29.029029,23.892013,4.977831,1.486282,0.293317,'Cipla Goa India',5.35718,58.347927,7.533301,Adult
+'South Africa',DDP,Truck,Lamivudine/Zidovudine,Generic,150/300mg,'Tablet - FDC',59.059059,0.303227,1.039876,24.337862,2.30463,'Hetero Unit III Hyderabad IN',1.519792,23.33324,0.993716,Adult
+'South Africa',DDP,Truck,Etravirine,Intelence,100mg,Tablet,119.119119,0.004839,0.01849,20.443804,0.963754,'Janssen-Cilag Latina IT',1.519792,23.33324,0.01427,Adult
+'South Sudan',EXW,Air,'HIV 1/2 Determine Complete HIV Kit',Determine,300mg,'Test kit',99.099099,0.111291,1.046709,66.139532,3.729311,'Alere Medical Co. Ltd.',1.519792,23.33324,0.950906,'HIV test'
+Haiti,CIP,Air,Raltegravir,Isentress,400mg,Tablet,59.059059,0.258065,1.501263,41.244315,3.855018,'MSD Haarlem NL',1.519792,23.33324,1.1922,Adult
+Tanzania,'N/A - From RDC',Air,Efavirenz,Generic,600mg,Tablet,29.029029,5.077436,8.602625,12.08347,2.262728,'Aurobindo Unit III India',1.658591,14.490642,10.627312,Adult
+'South Africa',DDP,Truck,Efavirenz,Generic,50mg,Capsule,29.029029,7.917767,3.141618,2.831366,0.544731,'Aurobindo Unit III India',1.519792,23.33324,4.754529,Pediatric
+'South Africa',DDP,Ocean,Zidovudine,Generic,300mg,Tablet,59.059059,16.70328,12.754861,5.447222,0.502828,'Aurobindo Unit III India',0.610016,10.912837,21.233868,Adult
+'Congo DRC',EXW,Air,'HIV 1/2 Uni-Gold HIV Kit',Uni-Gold,300mg,'Test kit',19.019019,0.009677,0.037634,23.780506,6.704379,'Trinity Biotech Plc',0.130634,11.032394,0.029837,'HIV test'
+'South Africa',DDP,Truck,Stavudine,Generic,1mg/ml,'Oral solution',199.199199,0.48226,0.126625,1.865283,0.041902,'Aurobindo Unit III India',1.519792,23.33324,0.191997,Pediatric
+'South Africa',DDP,Truck,Stavudine,Zerit,20mg,Capsule,59.059059,0.01129,0.006442,3.559644,0.335219,'Bristol-Myers Squibb Anagni IT',1.519792,23.33324,0.006486,Adult
+Zambia,'N/A - From RDC',Truck,Efavirenz,Generic,600mg,Tablet,29.029029,8.062929,10.089062,8.925121,1.676095,'Mylan (formerly Matrix) Nashik',4.953613,28.417505,12.46426,Adult
+'Cote d Ivoire','N/A - From RDC',Air,Saquinavir,Invirase,200mg,Capsule,269.269269,1.027423,8.429503,58.440593,1.215169,'Roche Basel',1.531456,13.489442,31.149964,Adult
+Uganda,'N/A - From RDC',Truck,Lamivudine/Zidovudine,Generic,30/60mg,'Tablet - FDC',59.059059,2.790332,0.657269,1.679498,0.167609,'Mylan (formerly Matrix) Nashik',0.088645,3.231666,0.627883,Pediatric
+Uganda,'N/A - From RDC',Truck,Nevirapine,Generic,200mg,Tablet,59.059059,4.067755,1.356454,2.378051,0.209512,'Hetero Unit III Hyderabad IN',0.682332,19.669297,2.052296,Adult
+Uganda,FCA,Air,Lopinavir/Ritonavir,Generic,100/25mg,Tablet,59.059059,4.643563,2.874198,4.414256,0.419024,'ABBVIE Ludwigshafen Germany',0.390737,11.894669,2.745043,Pediatric
+Uganda,'N/A - From RDC',Air,Lamivudine/Zidovudine,Generic,150/300mg,'Tablet - FDC',59.059059,5.804857,5.298396,6.509913,0.628536,'Hetero Unit III Hyderabad IN',0.277598,11.389236,8.820202,Adult
+'South Africa',DDP,Ocean,Efavirenz,Generic,600mg,Tablet,29.029029,41.43723,19.553923,3.366428,0.628536,'Aurobindo Unit III India',1.519792,23.33324,32.552631,Adult
+'South Africa',DDP,Air,Stavudine,Zerit,30mg,Capsule,59.059059,16.546828,6.58489,2.838798,0.251414,'BMS Meymac France',1.519792,23.33324,9.9657,Adult
+Tanzania,EXW,Air,'HIV 1/2 Determine Complete HIV Kit',Determine,300mg,'Test kit',99.099099,2.41775,20.161323,59.451265,3.352189,'Inverness Japan',0.832795,47.76842,25.686131,'HIV test'
+Vietnam,EXW,Air,Nevirapine,Generic,10mg/ml,'Oral suspension',239.239239,1.611296,0.322581,1.42683,0.041902,'Aurobindo Unit III India',1.097563,14.475072,0.398265,Pediatric
+Mozambique,'N/A - From RDC',Air,Abacavir,Generic,20mg/ml,'Oral solution',239.239239,0.54355,1.195382,15.643114,0.377121,'Aurobindo Unit III India',10.504412,34.071177,1.476304,Pediatric
+'Cote d Ivoire','N/A - From RDC',Truck,Lopinavir/Ritonavir,Generic,200/50mg,Tablet,119.119119,28.385575,78.95174,19.84186,0.921852,'Mylan (formerly Matrix) Nashik',6.37543,65.868354,85.468655,Adult
+Zambia,'N/A - From RDC',Truck,Nevirapine,Generic,200mg,Tablet,59.059059,225.805567,59.039074,1.865283,0.167609,'Hetero Unit III Hyderabad IN',10.24431,27.774735,98.284478,Adult
+Ethiopia,EXW,Air,Didanosine,Generic,400mg,'Delayed-release capsules',29.029029,3.587108,7.476491,14.862816,2.807459,'Aurobindo Unit III India',0.20295,7.085112,9.524625,Adult
+Vietnam,EXW,Air,Lamivudine/Nevirapine/Zidovudine,Generic,150/300/200mg,'Tablet - FDC',59.059059,3.764528,3.668059,6.948367,0.670438,'Mylan (formerly Matrix) Nashik',3.441985,24.892902,3.970972,Adult
+'South Sudan',EXW,Air,'HIV Capillary Tubes for Determine EDTA 50uL100 Pcs',Determine,300mg,'Test kit - Ancillary',99.099099,0.183872,0.15457,5.945126,0.335219,'Alere Medical Co. Ltd.',0.173791,11.241093,0.14789,'HIV test - Ancillary'
+'South Africa',DDP,Air,Zidovudine,Retrovir,10mg/ml,'Oral solution',199.199199,0.062903,0.05336,5.900538,0.167609,'GSK Mississauga (Canada)',1.519792,23.33324,0.066161,Pediatric
+Haiti,'N/A - From RDC',Air,Lopinavir/Ritonavir,Aluvia,200/50mg,Tablet,119.119119,0.385485,1.657261,30.543087,1.42468,'ABBVIE Ludwigshafen Germany',0.060652,4.907847,2.047107,Adult
+Zambia,'N/A - From RDC',Air,Efavirenz,Generic,600mg,Tablet,29.029029,71.184101,92.096368,9.229809,1.717997,'Aurobindo Unit III India',4.761161,46.552239,113.777885,Adult
+Uganda,'N/A - From RDC',Air,Lamivudine/Nevirapine/Zidovudine,Generic,150/300/200mg,'Tablet - FDC',59.059059,64.179239,59.968887,6.665973,0.628536,'Aurobindo Unit III India',5.432995,143.602272,57.278775,Adult
+Guyana,'N/A - From RDC',Air,Abacavir,Generic,300mg,Tablet,59.059059,0.141936,0.218762,10.87215,1.005657,'Mylan (formerly Matrix) Nashik',0.232109,10.794316,0.278915,Adult
+Uganda,EXW,Air,Atazanavir/Ritonavir,Generic,300/100mg,Tablet,29.029029,2.903235,6.051757,14.862816,2.807459,'Mylan (formerly Matrix) Nashik',0.262435,5.958866,4.803825,Adult
+Rwanda,CIP,Air,Didanosine,Generic,400mg,'Delayed-release capsules',29.029029,0.958068,2.024323,15.048601,2.849361,'Aurobindo Unit III India',0.101475,0.877776,3.370332,Adult
+Zambia,'N/A - From RDC',Truck,Abacavir,Generic,300mg,Tablet,59.059059,7.861316,13.014764,11.808507,1.089462,'Cipla Patalganga India',2.981266,15.433393,16.581825,Adult
+Vietnam,FCA,Air,Ritonavir,Norvir,100mg,Capsule,335.335335,0.020968,0.485743,153.466009,2.556044,'ABBVIE (Abbott) Logis. UK',0.060652,25.337573,0.618802,Adult
+'Cote d Ivoire','N/A - From RDC',Air,Lamivudine,Generic,150mg,Tablet,59.059059,15.024242,3.819065,1.813264,0.167609,'Strides Bangalore India.',11.504,66.111645,6.357966,Adult
+Zimbabwe,'N/A - From RDC',Truck,Efavirenz,Generic,600mg,Tablet,29.029029,9.514547,4.30209,3.225231,0.586633,'Aurobindo Unit III India',21.117298,57.289762,7.162279,Adult
+Mozambique,'N/A - From RDC',Truck,Lamivudine/Nevirapine/Zidovudine,Generic,150/300/200mg,'Tablet - FDC',59.059059,54.711467,46.221079,6.026872,0.586633,'Cipla Goa India',19.374727,38.746608,36.688357,Adult
+Zambia,EXW,Air,'HIV 1/2 Uni-Gold HIV Kit',Uni-Gold,300mg,'Test kit',19.019019,12.901655,43.010822,23.780506,6.704379,'Trinity Biotech Plc',2.715331,50.338811,39.088324,'HIV test'
+Tanzania,'N/A - From RDC',Air,Lamivudine/Zidovudine,Generic,150/300mg,'Tablet - FDC',59.059059,93.685786,92.711339,7.059838,0.670438,'Aurobindo Unit III India',9.731103,31.072687,114.538091,Adult
+Ethiopia,EXW,Air,Didanosine,Generic,250mg,'Delayed-release capsules',29.029029,2.619363,3.549233,9.660831,1.801802,'Aurobindo Unit III India',0.129468,4.163162,4.522316,Adult
+Tanzania,CIP,Air,'Efavirenz/Emtricitabine/Tenofovir Disoproxil Fumarate',Atripla,600/200/300mg,'Tablet - FDC',29.029029,4.320982,22.693585,37.454297,7.039598,'MSD Haarlem NL',2.871626,11.913105,34.344173,Adult
+'South Africa',DDP,Truck,Nevirapine,Generic,200mg,Tablet,59.059059,0.037097,0.055393,10.210755,0.963754,'Aurobindo Unit III India',1.519792,23.33324,0.044107,Adult
+Haiti,'N/A - From RDC',Air,Efavirenz,Generic,50mg,Capsule,29.029029,2.30162,0.53742,1.664635,0.293317,'Aurobindo Unit III India',1.23053,39.666331,0.684963,Pediatric
+Uganda,'N/A - From RDC',Truck,Efavirenz,Generic,600mg,Tablet,29.029029,16.127471,6.922054,3.06174,0.586633,'Strides Bangalore India.',1.225865,135.091659,8.818905,Adult
+Nigeria,'N/A - From RDC','Air Charter','Emtricitabine/Tenofovir Disoproxil Fumarate',Truvada,300/200mg,'Tablet - FDC',29.029029,0.385485,1.058469,19.507446,3.687408,'Aspen-OSD Port Elizabeth SA',0.024494,25.70339,1.60214,Adult
+Nigeria,'N/A - From RDC','Air Charter',Efavirenz,Generic,200mg,Tablet,89.089089,17.325862,13.17608,5.424928,0.335219,'Strides Bangalore India.',0.872452,71.672965,12.584907,Pediatric
+'Cote d Ivoire','N/A - From RDC',Truck,Lamivudine/Nevirapine/Zidovudine,Generic,150/300/200mg,'Tablet - FDC',59.059059,81.772844,65.760187,5.737047,0.544731,'Mylan (formerly Matrix) Nashik',12.145508,136.709874,52.197332,Adult
+Zimbabwe,EXW,Air,'HIV 1/2/O First Response HIV 1-2.0 v.3.0 Cards Kit','First Response',300mg,'Test kit',29.029029,12.901655,30.241984,16.720668,3.142678,'Premier Med. Corp Ltd. India',2.869293,46.190944,28.885222,'HIV test'
+Mozambique,'N/A - From RDC',Air,Stavudine,Generic,30mg,Capsule,59.059059,1.014519,0.164063,1.151868,0.125707,'Aurobindo Unit III India',0.048988,4.200275,0.24778,Adult
+Vietnam,EXW,Air,Lamivudine,Generic,150mg,Tablet,59.059059,10.471002,1.930885,1.315359,0.125707,'Micro labs Verna Goa India',0.35108,5.030753,1.844731,Adult
+Kenya,EXW,Air,'HIV 1/2 Uni-Gold HIV Kit',Uni-Gold,300mg,'Test kit',19.019019,3.224204,10.752706,23.780506,6.704379,'Trinity Biotech Plc',0.795471,25.0581,16.273072,'HIV test'
+'Cote d Ivoire','N/A - From RDC',Air,Abacavir,Generic,300mg,Tablet,59.059059,3.729044,5.844687,11.176838,1.047559,'Mylan (formerly Matrix) Nashik',9.233059,73.870012,7.446383,Adult
+'South Africa',DDP,Ocean,Lamivudine/Zidovudine,Generic,150/300mg,'Tablet - FDC',59.059059,40.321098,35.114304,6.212657,0.586633,'Aurobindo Unit III India',2.653513,10.609232,58.455407,Adult
+Namibia,'N/A - From RDC',Air,'HIV 1/2 Clearview Complete Kit',Clearview,300mg,'Test kit',24.024024,0.111291,0.882058,55.735561,12.57071,'Inverness USA',0.050154,5.32155,1.089715,'HIV test'
+Zambia,'N/A - From RDC',Truck,Zidovudine,Generic,300mg,Tablet,59.059059,8.516157,4.879964,4.087274,0.377121,'Aurobindo Unit III India',0.36391,1.384659,3.873676,Adult
+'Cote d Ivoire',EXW,Air,'HIV Lancet Safety for HIV Test kits 100 Pcs',Generic,300mg,'Test kit - Ancillary',99.099099,0.401614,0.00042,0.007431,0.0,'Inverness Japan',0.019828,23.33324,0.0,'HIV test - Ancillary'
+Uganda,'N/A - From RDC',Air,Lamivudine/Zidovudine,Generic,150/300mg,'Tablet - FDC',59.059059,9.675838,8.830659,6.509913,0.628536,'Mylan (formerly Matrix) Nashik',0.56686,11.522775,13.364572,Adult
+Haiti,EXW,Air,'HIV 1/2 Colloidal Gold Diagnostic Kit Antibody','Colloidal Gold',300mg,'Test kit',0.0,0.562905,1.440695,18.20695,102.6608,'KHB Test Kit Facility Shanghai China',0.279931,10.791761,1.1442,'HIV test'
+'South Africa',DDP,Air,Efavirenz,Generic,200mg,Capsule,89.089089,1.327424,2.606846,13.993341,0.87995,'Aurobindo Unit III India',1.519792,23.33324,3.945026,Pediatric
+Uganda,'N/A - From RDC',Truck,Abacavir/Lamivudine,Generic,60/30mg,'Tablet - FDC',59.059059,0.44355,0.189658,3.039446,0.293317,'Mylan (formerly Matrix) Nashik',6.209804,28.473883,0.150484,Pediatric
+Haiti,EXW,Air,Lamivudine/Nevirapine/Zidovudine,Generic,30/50/60mg,'Chewable/dispersible tablet - FDC',59.059059,4.182272,1.568954,2.675307,0.251414,'Cipla Goa India',0.269434,7.166623,1.245388,Pediatric
+Vietnam,EXW,Air,Abacavir,Generic,300mg,Tablet,59.059059,0.101613,0.161291,11.147112,1.047559,'Mylan (formerly Matrix) Nashik',2.46456,37.230619,0.20497,Adult
+Nigeria,'N/A - From RDC',Air,Lamivudine/Zidovudine+Nevirapine,Generic,150/300+200mg,'Tablet - FDC + co-blister',119.119119,4.358079,9.309743,15.234387,0.71234,'Aspen-OSD Port Elizabeth SA',0.979759,12.895627,31.149964,Adult
+'Congo DRC','N/A - From RDC',Air,Lamivudine,Generic,150mg,Tablet,59.059059,0.067742,0.016833,1.731518,0.167609,'Hetero Unit III Hyderabad IN',0.002333,0.31303,0.018162,Adult
+Vietnam,EXW,Air,Zidovudine,Generic,10mg/ml,'Oral solution',239.239239,0.804841,0.176412,1.560596,0.041902,'Aurobindo Unit III India',0.636843,4.624439,0.1907,Pediatric
+Burundi,'N/A - From RDC',Air,'Efavirenz/Lamivudine/Tenofovir Disoproxil Fumarate',Generic,600/300/300mg,'Tablet - FDC',29.029029,5.22421,5.579646,7.617193,1.42468,'Aurobindo Unit VII IN',0.716157,15.097715,4.428912,Adult
+Uganda,'N/A - From RDC',Air,'Lamivudine/Tenofovir Disoproxil Fumarate',Generic,300/300mg,'Tablet - FDC',29.029029,2.458072,1.232403,3.574507,0.670438,'Cipla Kurkumbh India',1.384492,33.174033,1.333603,Adult
+Rwanda,'N/A - From RDC',Air,Lopinavir/Ritonavir,Generic,200/50mg,Tablet,119.119119,17.706509,54.747521,22.056419,1.047559,'Mylan (formerly Matrix) Nashik',3.360339,20.108306,59.266207,Adult
+Nigeria,'N/A - From RDC',Air,Lamivudine/Nevirapine/Zidovudine,Generic,150/300/200mg,'Tablet - FDC',59.059059,7.798412,16.656277,15.234387,1.42468,'Aurobindo Unit III India',0.619347,11.141801,20.577445,Adult
+Nigeria,'N/A - From RDC','Air Charter','Lamivudine/Tenofovir Disoproxil Fumarate',Generic,300/300mg,'Tablet - FDC',29.029029,29.601708,25.37864,6.116049,1.131364,'Mylan (formerly Matrix) Nashik',2.092485,73.625996,32.33339,Adult
+Vietnam,EXW,Air,'Efavirenz/Lamivudine/Tenofovir Disoproxil Fumarate',Generic,600/300/300mg,'Tablet - FDC',29.029029,33.637205,36.792398,7.802979,1.466583,'Hetero Unit III Hyderabad IN',3.451316,15.28304,29.204353,Adult
+Mozambique,'N/A - From RDC',Truck,'Efavirenz/Lamivudine/Tenofovir Disoproxil Fumarate',Generic,600/300/300mg,'Tablet - FDC',29.029029,399.193223,448.261812,8.011058,1.508485,'Mylan (formerly Matrix) Nashik',53.350191,107.413005,355.81259,Adult
+Ghana,'N/A - From RDC',Air,'Lamivudine/Tenofovir Disoproxil Fumarate',Generic,300/300mg,'Tablet - FDC',29.029029,55.198565,27.025044,3.492762,0.670438,'Hetero Unit III Hyderabad IN',6.353268,133.124785,21.451811,Adult
+'Congo DRC','N/A - From RDC',Air,Abacavir/Lamivudine,Generic,60/30mg,'Tablet - FDC',59.059059,0.006452,0.00336,2.972563,0.293317,'Aurobindo Unit III India',1.519792,23.33324,0.002595,Pediatric
+'Cote d Ivoire','N/A - From RDC',Truck,Abacavir/Lamivudine,Generic,600/300mg,'Tablet - FDC',29.029029,0.787099,1.110768,10.047264,1.885607,'Mylan (formerly Matrix) Nashik',14.228662,160.604269,0.88215,Adult
+'Cote d Ivoire','N/A - From RDC',Truck,'Tenofovir Disoproxil Fumarate',Generic,300mg,Tablet,29.029029,3.37743,1.274179,2.69017,0.502828,'Mylan (formerly Matrix) Nashik',0.698661,8.421955,1.011878,Adult
+Zimbabwe,'N/A - From RDC',Air,Efavirenz,Generic,600mg,Tablet,29.029029,2.998397,3.881256,9.229809,1.717997,'Cipla Goa India',4.771658,41.878292,4.794744,Adult
+Uganda,'N/A - From RDC',Air,Lopinavir/Ritonavir,Generic,200/50mg,Tablet,119.119119,13.698431,35.33464,18.400166,0.87995,'Aurobindo Unit III India',2.436566,58.800953,33.750019,Adult
+Zambia,'N/A - From RDC',Truck,Lamivudine/Zidovudine,Generic,150/300mg,'Tablet - FDC',59.059059,245.89918,204.916997,5.945126,0.544731,'Mylan (formerly Matrix) Nashik',32.778759,126.530364,261.070982,Adult
+Botswana,EXW,Air,'HIV 1/2 Uni-Gold HIV Kit',Uni-Gold,300mg,'Test kit',19.019019,0.804841,2.688176,23.780506,6.704379,'Trinity Biotech Plc',0.58319,8.429309,3.321035,'HIV test'
+'Dominican Republic',EXW,Truck,Ritonavir,Norvir,100mg,Capsule,167.167167,0.556453,8.370981,107.012277,3.603604,'ABBVIE (Abbott) St. P burg USA',0.31259,2.298997,13.935375,Adult
+'Dominican Republic','N/A - From RDC',Air,Lopinavir/Ritonavir,Generic,200/50mg,Tablet,119.119119,0.148388,0.0,0.0,0.0,'Mylan (formerly Matrix) Nashik',1.519792,23.33324,0.0,Adult
+Nigeria,'N/A - From RDC',Air,Lamivudine/Nevirapine/Stavudine,Generic,150/200/30mg,'Tablet - FDC',59.059059,8.41293,6.4862,5.499242,0.502828,'Cipla Goa India',0.656672,13.298006,9.816513,Adult
+Tanzania,'N/A - From RDC',Air,Lopinavir/Ritonavir,Aluvia,200/50mg,Tablet,119.119119,4.159691,17.815553,30.543087,1.42468,'ABBVIE Ludwigshafen Germany',0.684665,3.981392,22.009641,Adult
+Vietnam,FCA,Air,Ritonavir,Norvir,100mg,Capsule,335.335335,0.017742,0.416351,153.466009,2.556044,'ABBVIE (Abbott) Logis. UK',0.059485,13.953688,0.692747,Adult
+Nigeria,'N/A - From RDC',Air,Lamivudine/Zidovudine,Generic,150/300mg,'Tablet - FDC',59.059059,0.159678,0.147178,6.509913,0.628536,'Aurobindo Unit III India',5.34435,23.33324,0.245186,Adult
+Mozambique,'N/A - From RDC',Truck,Lamivudine/Nevirapine/Stavudine,Generic,150/200/30mg,'Tablet - FDC',59.059059,9.301643,4.186458,3.210368,0.293317,'Hetero Unit III Hyderabad IN',0.690497,2.065096,3.32363,Adult
+Ghana,EXW,Air,Lamivudine/Nevirapine/Zidovudine,Generic,150/300/200mg,'Tablet - FDC',59.059059,46.535634,39.750501,6.093755,0.586633,'Aurobindo Unit III India',4.212962,63.025015,31.552428,Adult
+'South Africa',DDP,Truck,Abacavir,Generic,300mg,Tablet,59.059059,0.061291,0.326655,37.045569,3.477897,'Aurobindo Unit III India',1.519792,23.33324,0.259456,Adult
+'Cote d Ivoire','N/A - From RDC',Air,Nevirapine,Generic,200mg,Tablet,59.059059,41.609812,14.737356,2.526679,0.251414,'Strides Bangalore India.',6.858311,50.595981,18.207316,Adult
+Uganda,EXW,Air,'HIV 1/2 Determine Complete HIV Kit',Determine,300mg,'Test kit',99.099099,10.041968,83.696372,59.451265,3.352189,'Alere Medical Co. Ltd.',2.947441,70.890648,76.06338,'HIV test'
+Haiti,EXW,Air,'HIV 1/2 Determine HIV Kit without Lancets',Determine,300mg,'Test kit',99.099099,1.538715,10.750185,49.790434,2.807459,'Inverness Japan',0.191286,6.219143,13.281546,'HIV test'
+Zimbabwe,'N/A - From RDC',Truck,'Lamivudine/Tenofovir Disoproxil Fumarate',Generic,300/300mg,'Tablet - FDC',29.029029,16.311343,10.331522,4.518296,0.838047,'Mylan (formerly Matrix) Nashik',3.173718,16.489866,13.162196,Adult
+Ethiopia,'N/A - From RDC',Air,Efavirenz,Generic,600mg,Tablet,29.029029,109.069707,141.110792,9.229809,1.717997,'Aurobindo Unit III India',6.811655,69.813495,174.330993,Adult
+Mozambique,EXW,Air,'HIV 1/2 Uni-Gold HIV Kit',Uni-Gold,300mg,'Test kit',19.019019,12.0952,40.322646,23.780506,6.704379,'Trinity Biotech Plc',2.845966,128.136185,51.372262,'HIV test'
+Uganda,'N/A - From RDC',Truck,Efavirenz,Generic,600mg,Tablet,29.029029,6.772602,3.619966,3.812312,0.71234,'Mylan (formerly Matrix) Nashik',0.277598,6.976568,6.025863,Adult
+Ethiopia,'N/A - From RDC',Air,Zidovudine,Generic,10mg/ml,'Oral solution',239.239239,5.362921,1.20143,1.597753,0.041902,'Aurobindo Unit III India',1.428815,15.482348,1.484088,Pediatric
+Haiti,EXW,Air,'HIV 1/2 OraQuick Advance HIV Rapid Antibody Kit',OraQuick,300mg,'Test kit',99.099099,0.022581,1.008066,297.256324,16.760947,'Pacific Biotech Thailand',0.04199,4.124046,31.149964,'HIV test'
+Vietnam,EXW,Air,Lamivudine/Zidovudine,Generic,150/300mg,'Tablet - FDC',59.059059,35.495276,31.836221,6.398442,0.586633,'Aurobindo Unit III India',2.505383,44.167381,48.180955,Adult
+'Congo DRC',EXW,Air,Sulfadoxine/Pyrimethamine,Generic,500/25mg,'Tablet - FDC',1000.0,0.933874,3.225476,24.597961,0.125707,'Micro Labs Hosur India',0.58319,13.66303,2.931851,Malaria
+Vietnam,EXW,Air,'Tenofovir Disoproxil Fumarate',Generic,300mg,Tablet,29.029029,11.524231,6.603337,4.087274,0.754243,'Mylan (formerly Matrix) Nashik',1.408986,11.41285,8.412857,Adult
+Uganda,'N/A - From RDC',Truck,Lamivudine/Nevirapine/Stavudine,Generic,30/50/6mg,'Chewable/dispersible tablet - FDC',59.059059,0.764519,0.183552,1.709224,0.167609,'Cipla Goa India',2.311764,28.182016,0.175133,Pediatric
+Mozambique,'N/A - From RDC',Truck,Lamivudine/Nevirapine/Zidovudine,Generic,150/300/200mg,'Tablet - FDC',59.059059,176.698957,206.518458,8.33804,0.796145,'Aurobindo Unit III India',23.696163,89.037983,343.798486,Adult
+Zimbabwe,'N/A - From RDC',Truck,'Lamivudine/Tenofovir Disoproxil Fumarate',Generic,300/300mg,'Tablet - FDC',29.029029,146.750473,71.84726,3.492762,0.670438,'Aurobindo Unit VII IN',25.661512,73.097949,68.623483,Adult
+'South Sudan',EXW,Air,'Chase Buffer Determine 100 Tests 2.5ml x 1 Vial',Determine,300mg,'Test kit - Ancillary',0.0,0.030645,0.016801,3.715704,20.951184,'Alere Medical Co. Ltd.',1.519792,23.33324,0.015567,'HIV test - Ancillary'
+Mozambique,'N/A - From RDC',Truck,Efavirenz,Generic,600mg,Tablet,29.029029,37.82109,17.020189,3.210368,0.586633,'Aurobindo Unit III India',2.412072,13.589079,21.684024,Adult
+'South Africa',DDP,Truck,Efavirenz,Generic,200mg,Capsule,89.089089,0.003226,0.008589,12.663119,0.796145,'Aurobindo Unit III India',1.519792,23.33324,0.006486,Pediatric
+Swaziland,EXW,Ocean,Lamivudine/Zidovudine+Efavirenz,Generic,150/300mg+600mg,'Tablet - FDC + co-blister',89.089089,75.571212,107.061329,10.106715,0.628536,'Aurobindo Unit III India',8.995118,46.574576,136.399842,Adult
+Haiti,'N/A - From RDC',Air,Zidovudine,Generic,10mg/ml,'Oral solution',239.239239,5.26292,1.179034,1.597753,0.041902,'Aurobindo Unit III India',3.430322,107.199335,1.456845,Pediatric
+'South Africa',DDP,Truck,'Tenofovir Disoproxil Fumarate',Viread,300mg,Tablet,29.029029,0.046774,0.124043,18.288695,3.435994,'Gilead(Nycomed) Oranienburg DE',1.519792,23.33324,0.153079,Adult
+Zimbabwe,EXW,Air,'HIV 1/2 Bioline 3.0 Kit Lancets Capillary pipets Alcohol swabs included',Bioline,300mg,'Test kit',24.024024,8.191962,17.06992,14.862816,3.352189,'Standard Diagnostics Korea',1.975847,41.86683,28.416904,'HIV test'
+'South Africa',DDP,Truck,Efavirenz,Generic,50mg,Capsule,29.029029,3.459689,1.096524,2.259148,0.419024,'Aurobindo Unit III India',1.519792,23.33324,1.046904,Pediatric
+Sudan,EXW,Air,'HIV 1/2 Uni-Gold HIV Kit',Uni-Gold,300mg,'Test kit',19.019019,0.091936,0.311828,23.780506,6.704379,'Trinity Biotech Plc',0.022161,2.049905,0.396967,'HIV test'
+Zambia,'N/A - From RDC',Truck,Efavirenz,Generic,200mg,Capsule,89.089089,1.095165,1.743417,11.340329,0.71234,'Aurobindo Unit III India',12.458098,60.016789,2.638666,Pediatric
+Zimbabwe,'N/A - From RDC',Truck,Lamivudine/Nevirapine/Zidovudine,Generic,30/50/60mg,'Chewable/dispersible tablet - FDC',59.059059,268.662157,100.748751,2.675307,0.251414,'Mylan  H-12 & H-13 India',30.185898,159.193544,91.560679,Pediatric
+Nigeria,'N/A - From RDC',Air,'Emtricitabine/Tenofovir Disoproxil Fumarate',Truvada,300/200mg,'Tablet - FDC',29.029029,0.229033,0.630671,19.507446,3.687408,'Aspen-OSD Port Elizabeth SA',0.016329,22.243416,0.954798,Adult
+Uganda,EXW,Ocean,Efavirenz,Generic,600mg,Tablet,29.029029,102.663234,34.114618,2.370619,0.460926,'Strides Bangalore India.',4.622361,44.746765,32.583765,Adult
+Nigeria,'N/A - From RDC','Air Charter',Nevirapine,Generic,200mg,Tablet,59.059059,127.797186,33.414007,1.865283,0.167609,'Aurobindo Unit III India',17.274078,57.074435,36.17204,Adult
